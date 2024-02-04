@@ -1,0 +1,29 @@
+#更新fork
+name: update fork
+
+on:
+  repository_dispatch:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *' #设置定时任务
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+        token: ${{ secrets.GITHUB_TOKEN }}
+    - name: Set env
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+    - name: Update fork
+      run: |
+        git remote add upstream https://github.com/iDvel/rime-ice.git
+        git remote -v
+        git fetch upstream
+        git checkout main || git checkout -b main origin/main
+        git rebase --strategy-option=ours upstream/main
+        git push -f origin main
