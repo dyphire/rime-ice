@@ -1,0 +1,56 @@
+name: Check and Update Sogou Dict
+
+on:
+  repository_dispatch:
+  workflow_dispatch:
+  schedule:
+    - cron: '10 0 * * SUN'
+
+jobs:
+  check_update:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    - name: Install dependencies
+      run: |
+        python3 -m pip install --upgrade pip
+        pip install requests
+
+    - name: set env
+      run: |
+        echo "TAG_NAME=$(curl --silent https://api.github.com/repos/gshang2017/rime-dict/releases/latest | grep '"tag_name":' | sed -E 's/.*"([^"]+)".*/\1/')" >> $GITHUB_ENV
+
+    - name: Download Sogou Popular Dict
+      run: |
+        python3 others/script/python/Scel2Rime.py
+        mv sogou_popular.dict.yaml ext_dicts/sogou_popular.dict.yaml
+        rm -f sogou_popular.scel
+
+    - name: Download rime-dict database
+      run: |
+        wget https://github.com/gshang2017/rime-dict/releases/download/${{ env.TAG_NAME }}/rime-dict-non-tengxun-del.yaml.tar.gz
+        mkdir temp
+        tar -zxf rime-dict-non-tengxun-del.yaml.tar.gz -C temp
+        mv temp/luna_pinyin_simp.wiki_dict.dict.yaml ext_dicts/wiki_dict.dict.yaml
+        mv temp/luna_pinyin_simp.sogou_total_dict.official.dict.yaml ext_dicts/sogou_total_dict.official.dict.yaml
+        mv temp/luna_pinyin_simp.sogou_total_dict.unofficial.dict.yaml ext_dicts/sogou_total_dict.unofficial.dict.yaml
+        rm -rf temp rime-dict-non-tengxun-del.yaml.tar.gz
+
+    - name: Check for changes and push updates
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git add .
+        if git diff-index --quiet --cached HEAD --ignore-submodules --; then
+          echo "Error: Only whitespace changes detected. No changes to commit."
+        else
+          git diff --quiet && git diff --staged --quiet || git commit -a -m "更新搜狗词库" && git push
+        fi
