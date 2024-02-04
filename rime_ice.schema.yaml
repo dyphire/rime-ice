@@ -15,6 +15,7 @@ schema:
   dependencies:
     - melt_eng        # 英文输入，作为次翻译器挂载到拼音方案
     - radical_pinyin  # 部件拆字，反查及辅码
+    - kaomoji         # 颜文字，作为反查挂载到拼音方案
 
 
 # 开关
@@ -53,12 +54,15 @@ engine:
   segmentors:
     - ascii_segmentor
     - matcher
+    # - affix_segmentor@liangfen
+    # - affix_segmentor@kaomoji
     - abc_segmentor
     - affix_segmentor@radical_lookup  # 部件拆字自定义 tag
     - punct_segmentor
     - fallback_segmentor
   translators:
     - punct_translator
+    - r10n_translator
     - script_translator
     - lua_translator@*date_translator    # 时间、日期、星期
     - lua_translator@*lunar              # 农历
@@ -380,6 +384,20 @@ radical_reverse_lookup:
   # comment_format:     # 自定义 comment，例如在左右加上括号
   #  - xform/^/(/
   #  - xform/$/)/
+
+# 启用候选项颜文字
+abc_segmentor:
+  extra_tags:
+    - kaomoji
+
+# 颜文字
+kaomoji:
+  tag: kaomoji
+  dictionary: kaomoji         # 挂载 kaomoji.yaml
+  prefix: "I"                 # 以 I 开头来反查
+  enable_completion: true     # 补全提示
+  initial_quality: 99         # 初始权重
+  # tips: 〔颜文字〕          # 反查时显示的文字，建议注释掉，否则很多 i 开头的英文单词也会显示这个
 
 
 # 处理符合特定规则的输入码，如网址、反查
