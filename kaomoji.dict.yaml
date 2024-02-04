@@ -1,0 +1,9 @@
+# Rime dictionary
+# encoding: utf-8
+
+---
+name: kaomoji
+version: "2024-02-03"
+import_tables:
+  - ext_dicts/kaomoji_kmj
+  - ext_dicts/kaomoji_pinyin
