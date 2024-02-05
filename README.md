@@ -197,31 +197,37 @@ bash rime-install iDvel/rime-ice:others/recipes/all_dicts
 ℞ 安装或更新全部文件
 
 ```
-bash rime-install iDvel/rime-ice:others/recipes/full
+bash rime-install dyphire/rime-ice:others/recipes/full
 ```
 
-℞ 安装或更新所有词库文件（包含下面三个）
+℞ 安装或更新所有词库文件（包含下面四个）
 
 ```
-bash rime-install iDvel/rime-ice:others/recipes/all_dicts
+bash rime-install dyphire/rime-ice:others/recipes/all_dicts
 ```
 
 ℞ 安装或更新拼音词库文件（ `cn_dicts/` 目录内所有文件）
 
 ```
-bash rime-install iDvel/rime-ice:others/recipes/cn_dicts
+bash rime-install dyphire/rime-ice:others/recipes/cn_dicts
 ```
 
 ℞ 安装或更新英文词库文件（ `en_dicts/` 目录内所有文件）
 
 ```
-bash rime-install iDvel/rime-ice:others/recipes/en_dicts
+bash rime-install dyphire/rime-ice:others/recipes/en_dicts
+```
+
+℞ 安装或更新拼音增强词库文件（ `ext_dicts/` 目录内所有文件）
+
+```
+bash rime-install dyphire/rime-ice:others/recipes/ext_dicts
 ```
 
 ℞ 安装或更新 opencc （ `opencc/` 目录内所有文件）
 
 ```
-bash rime-install iDvel/rime-ice:others/recipes/opencc
+bash rime-install dyphire/rime-ice:others/recipes/opencc
 ```
 
 下面这个配方会在 `radical_pinyin.custom.yaml` 和 `melt_eng.custom.yaml` 里将 `speller/algebra` 修改为对应的双拼拼写，选择一个自己使用的双拼作为参数。
