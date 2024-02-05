@@ -8,5 +8,6 @@ recipe:
 install_files: >-
   cn_dicts/*.*
   en_dicts/*.*
+  ext_dicts/*.*
   opencc/*.*
   radical_pinyin.dict.yaml
