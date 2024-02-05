@@ -8,6 +8,7 @@ recipe:
 install_files: >-
   cn_dicts/*.*
   en_dicts/*.*
+  ext_dicts/*.*
   opencc/*.*
   lua/*.*
   lua/cold_word_drop/*.*
@@ -29,4 +30,6 @@ install_files: >-
   radical_pinyin.dict.yaml
   melt_eng.schema.yaml
   melt_eng.dict.yaml
+  kaomoji.schema.yaml
+  kaomoji.dict.yaml
   custom_phrase.txt
