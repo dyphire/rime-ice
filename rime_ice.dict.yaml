@@ -13,7 +13,7 @@ import_tables:
   - cn_dicts/others                        #一些杂项
   - ext_dicts/sogou_popular                #搜狗流行词
   - ext_dicts/sogou_xibao                  #搜狗细胞词库
-  - ext_dicts/sogou_total_dict.official    #搜狗官方所有类推荐词库
+  - ext_dicts/sogou_total_dict.official    #搜狗官方所有类推荐词库（大词库，部署时间较长）
   - ext_dicts/sogou_total_dict.unofficial  #搜狗非官方推荐所有类词库
   - ext_dicts/sogou_sijixingzheng          #搜狗词库-四级行政
   - ext_dicts/baidu_shici                  #百度词库-诗词
