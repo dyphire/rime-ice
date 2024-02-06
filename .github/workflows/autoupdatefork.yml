@@ -1,5 +1,5 @@
 #更新fork
-name: update fork
+name: Update Fork
 
 on:
   repository_dispatch:
