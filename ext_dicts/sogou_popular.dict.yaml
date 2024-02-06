@@ -1,10 +1,92 @@
 ---
 name: sogou_popular
-version: "2024.02.05"
+version: "2024.02.06"
 sort: by_weight
 use_preset_vocabulary: false
 ...
 
+岱黄	dai huang	1
+装到啦	zhuang dao la	1
+滞留了	zhi liu le	1
+郑启泰	zheng qi tai	1
+这大的雪	zhe da de xue	1
+张哲华	zhang zhe hua	1
+咋躲	za duo	1
+怎么躲	zen me duo	1
+幽光山洞	you guang shan dong	1
+一夜挽回天下春	yi ye wan hui tian xia chun	1
+也不堵	ye bu du	1
+燕子携花送春来	yan zi xie hua song chun lai	1
+雪可替	xue ke ti	1
+雪花了	xue hua le	1
+雪不化	xue bu hua	1
+心归处	xin gui chu	1
+新春欢乐	xin chun huan le	1
+小福娃	xiao fu wa	1
+我躲春	wo duo chun	1
+汪世兴	wang shi xing	1
+万物随春醒	wan wu sui chun xing	1
+外星猪	wai xing zhu	1
+头孢配酒	tou bao pei jiu	1
+摄魂师	she hun shi	1
+认哥	ren ge	1
+人随春好	ren sui chun hao	1
+皮带舞	pi dai wu	1
+陪玩圈	pei wan quan	1
+苗春来	miao chun lai	1
+孟晓东	meng xiao dong	1
+龙年会友杯	long nian hui you bei	1
+龙年猜口令	long nian cai kou ling	1
+龙墩墩	long dun dun	1
+六九头	liu jiu tou	1
+淋着雪	lin zhe xue	1
+立春下雪	li chun xia xue	1
+黎东源	li dong yuan	1
+啃春	ken chun	1
+就没雪了	jiu mei xue le	1
+就没雪	jiu mei xue	1
+九紫离火运	jiu zi li huo yun	1
+今天打春	jin tian da chun	1
+甲辰龙年	jia chen long nian	1
+吉牛史约	ji niu shi yue	1
+基诺内斯	ji nuo nei si	1
+婚奴	hun nu	1
+会友杯	hui you bei	1
+会有杯	hui you bei	1
+滑滑雪	hua hua xue	1
+黑白潜行	hei bai qian xing	1
+韩如雪	han ru xue	1
+海岛年会	hai dao nian hui	1
+抚慰犬	fu wei quan	1
+分岁	fen sui	1
+躲完了	duo wan le	1
+躲完春	duo wan chun	1
+躲完	duo wan	1
+躲春了	duo chun le	1
+断树枝	duan shu zhi	1
+断树	duan shu	1
+独一有二	du yi you er	1
+都压断了	dou ya duan le	1
+都不堵	dou bu du	1
+冻在	dong zai	1
+东风吹散梅梢雪	dong feng chui san mei shao xue	1
+等雪化了	deng xue hua le	1
+打春时间	da chun shi jian	1
+打春呢	da chun ne	1
+打春啦	da chun la	1
+打春鸡	da chun ji	1
+春与人宜	chun yu ren yi	1
+吃春饼了吗	chi chun bing le ma	1
+潮水啊	chao shui a	1
+铲不完	chan bu wan	1
+草木知	cao mu zhi	1
+不用躲	bu yong duo	1
+不躲春	bu duo chun	1
+不保单	bu bao dan	1
+斌田	bin tian	1
+被雪	bei xue	1
+扒雪	ba xue	1
+阿萨塔	a sa ta	1
 佐子	zuo zi	1
 祖人	zu ren	1
 子亦	zi yi	1
@@ -22,23 +104,18 @@ use_preset_vocabulary: false
 香挂	xiang gua	1
 吴磊的	wu lei de	1
 碗盆批	wan pen pi	1
-停了没	ting le mei	1
 踢到棉花啦	ti dao mian hua la	1
 烫脚舞	tang jiao wu	1
 送亮	song liang	1
 守田英正	shou tian ying zheng	1
 实时群	shi shi qun	1
-扫扫扫	sao sao sao	1
-扫不扫	sao bu sao	1
 群友卡	qun you ka	1
 抢栏杆	qiang lan gan	1
 龙年会友	long nian hui you	1
 龙船天街	long chuan tian jie	1
 蓝亦菲	lan yi fei	1
 开金蛋	kai jin dan	1
-句句不轻易	ju ju bu qing yi	1
 鲸汐福悦	jing xi fu yue	1
-贱贱哒	jian jian da	1
 会友为龙	hui you wei long	1
 会世界友	hui shi jie you	1
 福签	fu qian	1
@@ -50,7 +127,6 @@ use_preset_vocabulary: false
 抖鑫	dou xin	1
 待我如初	dai wo ru chu	1
 大褂真好看	da gua zhen hao kan	1
-打尖住店	da jian zhu dian	1
 搓过澡	cuo guo zao	1
 搓过	cuo guo	1
 踩街	cai jie	1
@@ -90,7 +166,6 @@ use_preset_vocabulary: false
 黍姐	shu jie	1
 燃烧队	ran shao dui	1
 芹香	qin xiang	1
-乔夫	qiao fu	1
 乾刷	qian shua	1
 祈福文案	qi fu wen an	1
 满锁	man suo	1
@@ -146,7 +221,6 @@ use_preset_vocabulary: false
 满探	man tan	1
 落住了	luo zhu le	1
 龙舞新春	long wu xin chun	1
-灵渊	ling yuan	1
 进化护盾	jin hua hu dun	1
 金俊斌	jin jun bin	1
 还没下大	hai mei xia da	1
@@ -163,7 +237,6 @@ use_preset_vocabulary: false
 彩狸	cai li	1
 毕分办	bi fen ban	1
 拜年领红包	bai nian ling hong bao	1
-百股	bai gu	1
 白应苍	bai ying cang	1
 白毛少女	bai mao shao nv	1
 曜北斗	yao bei dou	1
@@ -312,7 +385,6 @@ use_preset_vocabulary: false
 去头可食	qu tou ke shi	1
 亲相见	qin xiang jian	1
 棋房	qi fang	1
-破净	po jing	1
 帕鲁蛋	pa lu dan	1
 女大公	nv da gong	1
 免签了	mian qian le	1
@@ -323,7 +395,6 @@ use_preset_vocabulary: false
 截星	jie xing	1
 纪念婚礼	ji nian hun li	1
 集生肖	ji sheng xiao	1
-火木	huo mu	1
 回拍	hui pai	1
 唤冬兽	huan dong shou	1
 换鼠	huan shu	1
@@ -442,7 +513,6 @@ use_preset_vocabulary: false
 文菊田	wen ju tian	1
 魏轻	wei qing	1
 偷蛋	tou dan	1
-塔主	ta zhu	1
 死馆	si guan	1
 首尔场	shou er chang	1
 手都冻红了	shou dou dong hong le	1
@@ -482,7 +552,6 @@ use_preset_vocabulary: false
 沐灵	mu ling	1
 嗦草莓	suo cao mei	1
 昭言	zhao yan	1
-一元福利	yi yuan fu li	1
 小折折	xiao zhe zhe	1
 喜灰	xi hui	1
 五点考	wu dian kao	1
@@ -589,14 +658,12 @@ use_preset_vocabulary: false
 阿纸	a zhi	1
 岑缨	cen ying	1
 郄马	xi ma	1
-夙瑶	su yao	1
 转辅	zhuan fu	1
 知行理工	zhi xing li gong	1
 由井正雪	you jing zheng xue	1
 宜人宜宾	yi ren yi bin	1
 一年一岁一团圆	yi nian yi sui yi tuan yuan	1
 须解	xu jie	1
-新音	xin yin	1
 仙之巅	xian zhi dian	1
 唯有沉默	wei you chen mo	1
 偷卷哥	tou juan ge	1
@@ -621,7 +688,6 @@ use_preset_vocabulary: false
 何如碧玉温泉水	he ru bi yu wen quan shui	1
 攻击鞋	gong ji xie	1
 抵制代拍	di zhi dai pai	1
-初意	chu yi	1
 丑御前	chou yu qian	1
 潮湿果	chao shi guo	1
 叻叻	le le	1
@@ -692,11 +758,8 @@ use_preset_vocabulary: false
 龙鹅卡	long e ka	1
 铃木彩艳	ling mu cai yan	1
 磊迪	lei di	1
-老时	lao shi	1
-狂涌	kuang yong	1
 寇子宁	kou zi ning	1
 欢乐赛	huan le sai	1
-花君	hua jun	1
 好食材放心吃	hao shi cai fang xin chi	1
 恭喜莎莎	gong xi sha sha	1
 抖极	dou ji	1
@@ -784,7 +847,6 @@ use_preset_vocabulary: false
 姜黎非	jiang li fei	1
 建瓴	jian ling	1
 汗洛	han luo	1
-高屋	gao wu	1
 复读五年	fu du wu nian	1
 反腐纪录片	fan fu ji lu pian	1
 冬三九	dong san jiu	1
@@ -800,7 +862,6 @@ use_preset_vocabulary: false
 四主摄	si zhu she	1
 双潜望	shuang qian wang	1
 蛇雨	she yu	1
-三属	san shu	1
 三分题	san fen ti	1
 亲友购	qin you gou	1
 强疗	qiang liao	1
@@ -860,7 +921,6 @@ use_preset_vocabulary: false
 吃羊头	chi yang tou	1
 曹衣	cao yi	1
 布衣小童	bu yi xiao tong	1
-众妙	zhong miao	1
 云中神君	yun zhong shen jun	1
 约一套	yue yi tao	1
 约钞	yue chao	1
@@ -921,7 +981,6 @@ use_preset_vocabulary: false
 卢美琳	lu mei lin	1
 龙年币	long nian bi	1
 龙茅	long mao	1
-莱伊	lai yi	1
 考思政	kao si zheng	1
 警网优选	jing wang you xuan	1
 惊虹	jing hong	1
@@ -958,7 +1017,6 @@ use_preset_vocabulary: false
 陈同勋	chen tong xun	1
 边祥慧	bian xiang hui	1
 百大了	bai da le	1
-震度	zhen du	1
 一到零点	yi dao ling dian	1
 眼镜片子	yan jing pian zi	1
 烟花响	yan hua xiang	1
@@ -1061,7 +1119,6 @@ use_preset_vocabulary: false
 来抽蛋	lai chou dan	1
 拉帝奥	la di ao	1
 狂门	kuang men	1
-开蛋	kai dan	1
 君心藏不住	jun xin cang bu zhu	1
 金坨坨	jin tuo tuo	1
 金色雨	jin se yu	1
@@ -1145,7 +1202,6 @@ use_preset_vocabulary: false
 削个苹果	xue ge ping guo	1
 西方节	xi fang jie	1
 勿忘先烈	wu wang xian lie	1
-推家	tui jia	1
 同解	tong jie	1
 孙孚凌	sun fu ling	1
 实质的一罪	shi zhi de yi zui	1
@@ -1222,7 +1278,6 @@ use_preset_vocabulary: false
 五犯	wu fan	1
 听歌时长	ting ge shi chang	1
 提前金	ti qian jin	1
-双火	shuang huo	1
 马祖拉	ma zu la	1
 连金	lian jin	1
 精五	jing wu	1
@@ -1259,7 +1314,6 @@ use_preset_vocabulary: false
 摇晕	yao yun	1
 摇醒来了	yao xing lai le	1
 摇醒的	yao xing de	1
-摇完	yao wan	1
 摇了几下	yao le ji xia	1
 摇晃了	yao huang le	1
 摇的厉害	yao de li hai	1
@@ -1345,7 +1399,6 @@ use_preset_vocabulary: false
 也不停	ye bu ting	1
 盐疙瘩	yan ge da	1
 雪下的好大	xue xia de hao da	1
-雪可大了	xue ke da le	1
 雪大的	xue da de	1
 行调	xing tiao	1
 小林大纪	xiao lin da ji	1
@@ -1430,7 +1483,6 @@ use_preset_vocabulary: false
 小冰渣	xiao bing zha	1
 下雪里	xia xue li	1
 乌穆卿	wu mu qing	1
-乌戈	wu ge	1
 停课吗	ting ke ma	1
 停课两天	ting ke liang tian	1
 停班	ting ban	1
@@ -1484,7 +1536,6 @@ use_preset_vocabulary: false
 一冻	yi dong	1
 也滑	ye hua	1
 雪子子	xue zi zi	1
-雪可厚	xue ke hou	1
 雪夹	xue jia	1
 雪吧	xue ba	1
 熊笑宇	xiong xiao yu	1
@@ -1569,7 +1620,6 @@ use_preset_vocabulary: false
 车上的雪	che shang de xue	1
 车打滑	che da hua	1
 铲完	chan wan	1
-铲的	chan de	1
 踩踩雪	cai cai xue	1
 不积雪	bu ji xue	1
 不好骑	bu hao qi	1
@@ -1607,8 +1657,6 @@ use_preset_vocabulary: false
 恭喜白鲨	gong xi bai sha	1
 歌合战	ge he zhan	1
 刚下雪	gang xia xue	1
-二刘	er liu	1
-等雪	deng xue	1
 戴爹	dai die	1
 陈浚铭	chen jun ming	1
 包车卖	bao che mai	1
@@ -1767,7 +1815,6 @@ use_preset_vocabulary: false
 我法考	wo fa kao	1
 同人金	tong ren jin	1
 唐佳良	tang jia liang	1
-四巡	si xun	1
 数星一整夜	shu xing yi zheng ye	1
 三连踢	san lian ti	1
 钱昭	qian zhao	1
@@ -1780,7 +1827,6 @@ use_preset_vocabulary: false
 顾声	gu sheng	1
 夺樽	duo zun	1
 颠公颠婆	dian gong dian po	1
-地母	di mu	1
 拨雪挑来踏地菘	bo xue tiao lai ta di song	1
 玻璃闪	bo li shan	1
 绑兔	bang tu	1
@@ -1796,7 +1842,6 @@ use_preset_vocabulary: false
 年专	nian zhuan	1
 年艺	nian yi	1
 年歌	nian ge	1
-莫希	mo xi	1
 鸣干戈	ming gan ge	1
 明宰铉	ming zai xuan	1
 茅运	mao yun	1
@@ -1815,8 +1860,6 @@ use_preset_vocabulary: false
 庄群施	zhuang qun shi	1
 助上	zhu shang	1
 助力视频	zhu li shi pin	1
-砸地	za di	1
-元禄	yuan lu	1
 永久翼	yong jiu yi	1
 星座系	xing zuo xi	1
 小小美	xiao xiao mei	1
@@ -1859,7 +1902,6 @@ use_preset_vocabulary: false
 聂冶川	nie ye chuan	1
 南问雪	nan wen xue	1
 梅努	mei nu	1
-龙版	long ban	1
 军阀大衣	jun fa da yi	1
 解厄	jie e	1
 酱园弄	jiang yuan nong	1
@@ -1874,7 +1916,6 @@ use_preset_vocabulary: false
 抽村	chou cun	1
 主五要三	zhu wu yao san	1
 周甜丽	zhou tian li	1
-早田	zao tian	1
 一只明	yi zhi ming	1
 谢居安	xie ju an	1
 香自苦寒来	xiang zi ku han lai	1
@@ -1890,7 +1931,6 @@ use_preset_vocabulary: false
 老疤	lao ba	1
 考公人	kao gong ren	1
 亢岳	kang yue	1
-敬人	jing ren	1
 惊喜临门	jing xi lin men	1
 接贵人	jie gui ren	1
 火势风威	huo shi feng wei	1
@@ -1941,7 +1981,6 @@ use_preset_vocabulary: false
 万骨催沙	wan gu cui sha	1
 踢得可以	ti de ke yi	1
 史同	shi tong	1
-生天	sheng tian	1
 戚许	qi xu	1
 你好痞	ni hao pi	1
 没丢球	mei diu qiu	1
@@ -2032,7 +2071,6 @@ use_preset_vocabulary: false
 景天阁	jing tian ge	1
 幻兽录	huan shou lu	1
 红酒美式	hong jiu mei shi	1
-鬼鲨	gui sha	1
 闺蜜决	gui mi jue	1
 风雨事	feng yu shi	1
 大侠立志传	da xia li zhi zhuan	1
@@ -2053,7 +2091,6 @@ use_preset_vocabulary: false
 赢一把吧	ying yi ba ba	1
 叶空	ye kong	1
 要被零封	yao bei ling feng	1
-妖树	yao shu	1
 选大树	xuan da shu	1
 小电刀	xiao dian dao	1
 五点开打	wu dian kai da	1
@@ -2077,7 +2114,6 @@ use_preset_vocabulary: false
 剑魔了	jian mo le	1
 剑魔教学	jian mo jiao xue	1
 剑魔大树	jian mo da shu	1
-合马	he ma	1
 喝战马	he zhan ma	1
 给小虎	gei xiao hu	1
 凤袍	feng pao	1
@@ -2187,7 +2223,6 @@ use_preset_vocabulary: false
 超会演	chao hui yan	1
 泽善党	ze shan dang	1
 越坐越冷	yue zuo yue leng	1
-燕家	yan jia	1
 徐姥姥	xu lao lao	1
 辛美尔	xin mei er	1
 校排	xiao pai	1
@@ -2317,7 +2352,6 @@ use_preset_vocabulary: false
 专卡	zhuan ka	1
 助下	zhu xia	1
 赵荀	zhao xun	1
-云舞	yun wu	1
 影夜琴	ying ye qin	1
 夏野了	xia ye le	1
 淘宝助个力	tao bao zhu ge li	1
@@ -2520,7 +2554,6 @@ use_preset_vocabulary: false
 已开价	yi kai jia	1
 一串三了	yi chuan san le	1
 雪呢	xue ne	1
-雪老大了	xue lao da le	1
 雪壳子	xue ke zi	1
 心意节	xin yi jie	1
 校服神器	xiao fu shen qi	1
@@ -2550,7 +2583,6 @@ use_preset_vocabulary: false
 曼昱	man yu	1
 卖崽	mai zai	1
 埋上了	mai shang le	1
-留云	liu yun	1
 链子精	lian zi jing	1
 脸冷	lian leng	1
 老难走了	lao nan zou le	1
@@ -2592,7 +2624,6 @@ use_preset_vocabulary: false
 这中野	zhe zhong ye	1
 雨霁初晴	yu ji chu qing	1
 音中	yin zhong	1
-野中	ye zhong	1
 雪休了	xue xiu le	1
 雪假	xue jia	1
 限时的	xian shi de	1
@@ -2888,7 +2919,6 @@ use_preset_vocabulary: false
 字少事大	zi shao shi da	1
 钟晨瑶	zhong chen yao	1
 至美风华	zhi mei feng hua	1
-邀战	yao zhan	1
 养生固本	yang sheng gu ben	1
 薛副局长	xue fu ju zhang	1
 星际圈	xing ji quan	1
@@ -2957,7 +2987,6 @@ use_preset_vocabulary: false
 护发生发	hu fa sheng fa	1
 弘毅致远	hong yi zhi yuan	1
 福运无疆	fu yun wu jiang	1
-典史	dian shi	1
 大满八	da man ba	1
 达摩辅助	da mo fu zhu	1
 崔行舟	cui xing zhou	1
@@ -2997,7 +3026,6 @@ use_preset_vocabulary: false
 坠明	zhui ming	1
 这一杯刚刚好	zhe yi bei gang gang hao	1
 砸狗	za gou	1
-义田	yi tian	1
 伊鲁席尔	yi lu xi er	1
 巡讲师	xun jiang shi	1
 学青会	xue qing hui	1
@@ -3005,8 +3033,6 @@ use_preset_vocabulary: false
 五侄	wu zhi	1
 吴楚一	wu chu yi	1
 我必搞	wo bi gao	1
-司辰	si chen	1
-沈妙	shen miao	1
 软香	ruan xiang	1
 全盛姿态	quan sheng zi tai	1
 七擒	qi qin	1
@@ -3053,7 +3079,6 @@ use_preset_vocabulary: false
 王睡睡	wang shui shui	1
 甩绳	shuai sheng	1
 三荤三素	san hun san su	1
-三巴	san ba	1
 普魅	pu mei	1
 婆队	po dui	1
 免刷	mian shua	1
@@ -3113,7 +3138,6 @@ use_preset_vocabulary: false
 明德砺学	ming de li xue	1
 满甜	man tian	1
 罗大美	luo da mei	1
-离神	li shen	1
 哭错坟	ku cuo fen	1
 卡莉露	ka li lu	1
 借风	jie feng	1
@@ -3164,7 +3188,6 @@ use_preset_vocabulary: false
 区赛	qu sai	1
 邱一航	qiu yi hang	1
 轻乳茶	qing ru cha	1
-强食	qiang shi	1
 签退了	qian tui le	1
 孽龙	nie long	1
 流血队	liu xue dui	1
@@ -3177,11 +3200,9 @@ use_preset_vocabulary: false
 街猫	jie mao	1
 郊发	jiao fa	1
 椒麻鸡块	jiao ma ji kuai	1
-花凛	hua lin	1
 枫林尽染	feng lin jin ran	1
 度华年	du hua nian	1
 带背	dai bei	1
-大鸭	da ya	1
 大乔皮肤	da qiao pi fu	1
 冰晶顶	bing jing ding	1
 包国际	bao guo ji	1
@@ -3203,7 +3224,6 @@ use_preset_vocabulary: false
 流牙	liu ya	1
 李小北	li xiao bei	1
 京队	jing dui	1
-剑首	jian shou	1
 济惠保	ji hui bao	1
 回高三	hui gao san	1
 胡尔卡奇	hu er ka qi	1
@@ -3257,7 +3277,6 @@ use_preset_vocabulary: false
 徐子未	xu zi wei	1
 写表	xie biao	1
 下训啦	xia xun la	1
-图姆	tu mu	1
 停刊了	ting kan le	1
 数应	shu ying	1
 舒默	shu mo	1
@@ -3274,7 +3293,6 @@ use_preset_vocabulary: false
 克洛塔	ke luo ta	1
 咖啡免单	ka fei mian dan	1
 九十节	jiu shi jie	1
-惊沙	jing sha	1
 今当远离	jin dang yuan li	1
 教作业	jiao zuo ye	1
 霍希	huo xi	1
@@ -3416,14 +3434,12 @@ use_preset_vocabulary: false
 听山	ting shan	1
 胎海	tai hai	1
 守舍人	shou she ren	1
-神鼓	shen gu	1
 三七道	san qi dao	1
 阮燕语	ruan yan yu	1
 热八度	re ba du	1
 枪棍	qiang gun	1
 千寺狐	qian si hu	1
 没候补到	mei hou bu dao	1
-露笑	lu xiao	1
 节前教育	jie qian jiao yu	1
 汇演完	hui yan wan	1
 华辰装备	hua chen zhuang bei	1
@@ -3490,7 +3506,6 @@ use_preset_vocabulary: false
 军歌赛	jun ge sai	1
 蒋坤志	jiang kun zhi	1
 机动勤务	ji dong qin wu	1
-红舞	hong wu	1
 何诗蓓	he shi bei	1
 关德温	guan de wen	1
 非洲台	fei zhou tai	1
@@ -3573,7 +3588,6 @@ use_preset_vocabulary: false
 武器人	wu qi ren	1
 团季	tuan ji	1
 太卜司	tai bu si	1
-太卜	tai bu	1
 死灭回游	si mie hui you	1
 首黑	shou hei	1
 十影	shi ying	1
@@ -3586,7 +3600,6 @@ use_preset_vocabulary: false
 女摄	nv she	1
 鹿紫云一	lu zi yun yi	1
 鹿紫云	lu zi yun	1
-里梅	li mei	1
 奎吧	kui ba	1
 空间斩	kong jian zhan	1
 芥见	jie jian	1
@@ -3628,7 +3641,6 @@ use_preset_vocabulary: false
 极越	ji yue	1
 盖波加	gai bo jia	1
 芙清品牌日	fu qing pin pai ri	1
-二文	er wen	1
 兑芽	dui ya	1
 代号乐园	dai hao le yuan	1
 别歪	bie wai	1
@@ -3804,7 +3816,6 @@ use_preset_vocabulary: false
 集不集合	ji bu ji he	1
 花西币	hua xi bi	1
 互赏	hu shang	1
-光庭	guang ting	1
 宫中府中	gong zhong fu zhong	1
 盖追先帝之殊遇	gai zhui xian di zhi shu yu	1
 富乐德	fu le de	1
@@ -3923,7 +3934,6 @@ use_preset_vocabulary: false
 自动调	zi dong tiao	1
 云之徵	yun zhi zhi	1
 御巫	yu wu	1
-养菌	yang jun	1
 雪重子	xue chong zi	1
 小熊虫	xiao xiong chong	1
 橡木匣	xiang mu xia	1
@@ -3972,11 +3982,9 @@ use_preset_vocabulary: false
 狂野时代	kuang ye shi dai	1
 军警课	jun jing ke	1
 继续停课	ji xu ting ke	1
-婚神	hun shen	1
 高承睿	gao cheng rui	1
 放鞭的	fang bian de	1
 毒鸟	du niao	1
-虫皇	chong huang	1
 玉玊	yu su	1
 习思	xi si	1
 我钟离	wo zhong li	1
@@ -4020,7 +4028,6 @@ use_preset_vocabulary: false
 罗美娟	luo mei juan	1
 螺黛染	luo dai ran	1
 两词	liang ci	1
-老盛	lao sheng	1
 君王者	jun wang zhe	1
 九调	jiu tiao	1
 金繁	jin fan	1
@@ -4065,12 +4072,10 @@ use_preset_vocabulary: false
 国初	guo chu	1
 宫远徽	gong yuan hui	1
 宫尚角	gong shang jiao	1
-宫家	gong jia	1
 宫二	gong er	1
 歌查德	ge cha de	1
 刚下训	gang xia xun	1
 赋雪	fu xue	1
-浮气	fu qi	1
 霁日	ji ri	1
 谪守巴陵郡	zhe shou ba ling jun	1
 中汽测评	zhong qi ce ping	1
@@ -4196,7 +4201,6 @@ use_preset_vocabulary: false
 代烧	dai shao	1
 次旗舰	ci qi jian	1
 城市免单	cheng shi mian dan	1
-百戏	bai xi	1
 啊泽	a ze	1
 橘右羊	ju you yang	1
 庄子璇	zhuang zi xuan	1
@@ -4206,7 +4210,6 @@ use_preset_vocabulary: false
 远角	yuan jiao	1
 尤里芸	you li yun	1
 优俊	you jun	1
-妖域	yao yu	1
 仰化	yang hua	1
 辛吉飞	xin ji fei	1
 王敏慈	wang min ci	1
@@ -4237,7 +4240,6 @@ use_preset_vocabulary: false
 霍金森	huo jin sen	1
 火班	huo ban	1
 黄圈	huang quan	1
-虎贝	hu bei	1
 河村勇辉	he cun yong hui	1
 观虎斗	guan hu dou	1
 个衣	ge yi	1
@@ -4256,7 +4258,6 @@ use_preset_vocabulary: false
 益扎	yi zha	1
 叶德力	ye de li	1
 新疆真驼奶	xin jiang zhen tuo nai	1
-芯原	xin yuan	1
 五雄	wu xiong	1
 武部	wu bu	1
 我盖的	wo gai de	1
@@ -4310,7 +4311,6 @@ use_preset_vocabulary: false
 洋流图	yang liu tu	1
 盐面	yan mian	1
 盐荒	yan huang	1
-盐厂	yan chang	1
 亚锦	ya jin	1
 写译	xie yi	1
 消辐宁	xiao fu ning	1
@@ -4321,7 +4321,6 @@ use_preset_vocabulary: false
 无碘	wu dian	1
 乌特金	wu te jin	1
 未加碘	wei jia dian	1
-王头	wang tou	1
 偷偷排了	tou tou pai le	1
 偷偷排	tou tou pai	1
 天羽屠龙舞	tian yu tu long wu	1
@@ -4348,7 +4347,6 @@ use_preset_vocabulary: false
 抢盐的	qiang yan de	1
 抢盐巴	qiang yan ba	1
 潜过水	qian guo shui	1
-普丁	pu ding	1
 内陆盐	nei lu yan	1
 慕嘉	mu jia	1
 摩打	mo da	1
@@ -4477,7 +4475,6 @@ use_preset_vocabulary: false
 在卖花	zai mai hua	1
 约纪念币	yue ji nian bi	1
 约币	yue bi	1
-一元奶茶	yi yuan nai cha	1
 也着了	ye zhe le	1
 姚爸	yao ba	1
 宴臣	yan chen	1
@@ -4565,13 +4562,11 @@ use_preset_vocabulary: false
 趣选书	qu xuan shu	1
 巧饼	qiao bing	1
 买束	mai shu	1
-马蝇	ma ying	1
 梨树坪	li shu ping	1
 孔克珠	kong ke zhu	1
 究极幻神	jiu ji huan shen	1
 静躁不同	jing zao bu tong	1
 混宿	hun su	1
-画戟	hua ji	1
 花轿喜事	hua jiao xi shi	1
 互发爱心	hu fa ai xin	1
 黑桃影	hei tao ying	1
@@ -4622,7 +4617,6 @@ use_preset_vocabulary: false
 装腔启示录	zhuang qiang qi shi lu	1
 在团期间	zai tuan qi jian	1
 云之羽	yun zhi yu	1
-云记	yun ji	1
 原魔	yuan mo	1
 悬哥	xuan ge	1
 笑拥了	xiao yong le	1
@@ -4663,7 +4657,6 @@ use_preset_vocabulary: false
 厂综	chang zong	1
 长医	chang yi	1
 不出歌	bu chu ge	1
-逼仓	bi cang	1
 周昆训	zhou kun xun	1
 云玩	yun wan	1
 源源得力	yuan yuan de li	1
@@ -4706,7 +4699,6 @@ use_preset_vocabulary: false
 蛋巡	dan xun	1
 长矛老师	chang mao lao shi	1
 草神瞳	cao shen tong	1
-不玻璃心	bu bo li xin	1
 壁炉之家	bi lu zhi jia	1
 必吃节	bi chi jie	1
 杯杯敬自己	bei bei jing zi ji	1
@@ -4720,10 +4712,8 @@ use_preset_vocabulary: false
 物种消亡	wu zhong xiao wang	1
 武文大舞台	wu wen da wu tai	1
 五洲医疗	wu zhou yi liao	1
-逝川	shi chuan	1
 伞梦	san meng	1
 你救不救	ni jiu bu jiu	1
-尼可拉斯	ni ke la si	1
 牧野弥	mu ye mi	1
 米禽牧北	mi qin mu bei	1
 莲粉	lian fen	1
@@ -4751,7 +4741,6 @@ use_preset_vocabulary: false
 少侠班	shao xia ban	1
 三阳了	san yang le	1
 三八菇	san ba gu	1
-疲弊	pi bi	1
 美露莘	mei lu xin	1
 梅露辛	mei lu xin	1
 恐怖通	kong bu tong	1
@@ -4803,7 +4792,6 @@ use_preset_vocabulary: false
 中单大乔	zhong dan da qiao	1
 至尊皮	zhi zun pi	1
 真我赫兹	zhen wo he zi	1
-真纪	zhen ji	1
 在猫眼	zai mao yan	1
 于哲浩	yu zhe hao	1
 赢小熊	ying xiao xiong	1
@@ -4869,7 +4857,6 @@ use_preset_vocabulary: false
 药修	yao xiu	1
 彦卿	yan qing	1
 延长记号	yan chang ji hao	1
-窫窳	ya yu	1
 秀神	xiu shen	1
 星核猎手	xing he lie shou	1
 心许百年	xin xu bai nian	1
@@ -4911,7 +4898,6 @@ use_preset_vocabulary: false
 这两波	zhe liang bo	1
 照瞎	zhao xia	1
 鸳鸯咖啡	yuan yang ka fei	1
-驭人	yu ren	1
 又一年秋	you yi nian qiu	1
 蚁生	yi sheng	1
 一字诗	yi zi shi	1
@@ -4967,7 +4953,6 @@ use_preset_vocabulary: false
 克拉克斯	ke la ke si	1
 剧内	ju nei	1
 进世界赛了	jin shi jie sai le	1
-渐寒	jian han	1
 加更礼	jia geng li	1
 记时间	ji shi jian	1
 会限	hui xian	1
@@ -4977,7 +4962,6 @@ use_preset_vocabulary: false
 喝到啦	he dao la	1
 喝不上了	he bu shang le	1
 闺言	gui yan	1
-孤注	gu zhu	1
 孤刀	gu dao	1
 恭迎尊上	gong ying zun shang	1
 公秋	gong qiu	1
@@ -5195,7 +5179,6 @@ use_preset_vocabulary: false
 精金基座	jing jin ji zuo	1
 禁漫俱乐部	jin man ju le bu	1
 金依蓓	jin yi bei	1
-金式	jin shi	1
 金美希	jin mei xi	1
 金铲铲更新	jin chan chan geng xin	1
 金镖黄天霸	jin biao huang tian ba	1
@@ -5287,7 +5270,6 @@ use_preset_vocabulary: false
 吴新宙	wu xin zhou	1
 闻海虎	wen hai hu	1
 尉迟曦	yu chi xi	1
-卫河	wei he	1
 潍坊消防	wei fang xiao fang	1
 维科精密	wei ke jing mi	1
 微博电视剧	wei bo dian shi ju	1
@@ -5511,15 +5493,12 @@ use_preset_vocabulary: false
 调档分	diao dang fen	1
 天源发债	tian yuan fa zhai	1
 天伦湾	tian lun wan	1
-提丰	ti feng	1
 特别的晚餐	te bie de wan can	1
 太原教育局	tai yuan jiao yu ju	1
 苏艺	su yi	1
 顺棍	shun gun	1
 水尚仁佳	shui shang ren jia	1
 爽号	shuang hao	1
-双界	shuang jie	1
-兽主	shou zhu	1
 时光情缘	shi guang qing yuan	1
 时光漫	shi guang man	1
 石佳明	shi jia ming	1
@@ -5545,10 +5524,8 @@ use_preset_vocabulary: false
 清姜河	qing jiang he	1
 青枳	qing zhi	1
 青岛市长	qing dao shi chang	1
-气盾	qi dun	1
 奇异社区	qi yi she qu	1
 葡萄牙女足	pu tao ya nv zu	1
-辟雍	pi yong	1
 澎湃新闻直播	peng pai xin wen zhi bo	1
 盘前	pan qian	1
 农信日	nong xin ri	1
@@ -5687,7 +5664,6 @@ use_preset_vocabulary: false
 延迟枪	yan chi qiang	1
 鸭头肉	ya tou rou	1
 雪金	xue jin	1
-学考查分	xue kao cha fen	1
 徐西盛	xu xi sheng	1
 徐西	xu xi	1
 熊德威	xiong de wei	1
@@ -5743,7 +5719,6 @@ use_preset_vocabulary: false
 山东交通广播	shan dong jiao tong guang bo	1
 山东航空学院	shan dong hang kong xue yuan	1
 山东第二医科大学	shan dong di er yi ke da xue	1
-沙勒	sha le	1
 伞猫盐	san mao yan	1
 撒旦之子	sa dan zhi zi	1
 燃野少年的天空	ran ye shao nian de tian kong	1
@@ -5763,7 +5738,6 @@ use_preset_vocabulary: false
 逆反日	ni fan ri	1
 南刘口	nan liu kou	1
 抹茶旦旦	mo cha dan dan	1
-魔子	mo zi	1
 咩姐	mie jie	1
 迷糊老师	mi hu lao shi	1
 孟良河	meng liang he	1
@@ -5863,7 +5837,6 @@ use_preset_vocabulary: false
 初夏的甜蜜约定	chu xia de tian mi yue ding	1
 赤宸	chi chen	1
 橙色密码	cheng se mi ma	1
-陈泽	chen ze	1
 辰荣	chen rong	1
 差业绩	cha ye ji	1
 碧茶之毒	bi cha zhi du	1
@@ -5907,7 +5880,6 @@ use_preset_vocabulary: false
 谢肃	xie su	1
 小云端	xiao yun duan	1
 小台风	xiao tai feng	1
-相柳	xiang liu	1
 相见相思	xiang jian xiang si	1
 仙境绮旅	xian jing qi lv	1
 夏测	xia ce	1
@@ -5977,7 +5949,6 @@ use_preset_vocabulary: false
 玱玹	cang xuan	1
 前任女孩	qian ren nv hai	1
 奇异教师	qi yi jiao shi	1
-齐玉	qi yu	1
 齐齐哈尔体育馆	qi qi ha er ti yu guan	1
 濮水小镇	pu shui xiao zhen	1
 泼天的富贵	po tian de fu gui	1
@@ -6112,7 +6083,6 @@ use_preset_vocabulary: false
 铲丝	chan si	1
 蔡金发	cai jin fa	1
 菜肴中的玉兰片	cai yao zhong de yu lan pian	1
-彩讯	cai xun	1
 边境蛇影	bian jing she ying	1
 北京彩虹	bei jing cai hong	1
 宝鸡教育	bao ji jiao yu	1
@@ -6122,7 +6092,6 @@ use_preset_vocabulary: false
 白虎之魄	bai hu zhi po	1
 白虎音效卡	bai hu yin xiao ka	1
 巴昱凯	ba yu kai	1
-傲神	ao shen	1
 爱心闪	ai xin shan	1
 艾悦	ai yue	1
 艾月	ai yue	1
@@ -6219,7 +6188,6 @@ use_preset_vocabulary: false
 沧交	cang jiao	1
 不吃线	bu chi xian	1
 暴力香槟	bao li xiang bin	1
-紫海	zi hai	1
 转腚	zhuan ding	1
 专科志愿填报	zhuan ke zhi yuan tian bao	1
 中文卡背	zhong wen ka bei	1
@@ -6236,7 +6204,6 @@ use_preset_vocabulary: false
 月上心辰	yue shang xin chen	1
 语音测试	yu yin ce shi	1
 与凤行	yu feng xing	1
-鱼鸟	yu niao	1
 有高会	you gao hui	1
 优酷抢票	you ku qiang piao	1
 尹声	yin sheng	1
@@ -6322,7 +6289,6 @@ use_preset_vocabulary: false
 合肥中影	he fei zhong ying	1
 海边大饼	hai bian da bing	1
 观音未来	guan yin wei lai	1
-观演	guan yan	1
 挂脸	gua lian	1
 顾柒柒	gu qi qi	1
 古代计程车	gu dai ji cheng che	1
@@ -6404,7 +6370,6 @@ use_preset_vocabulary: false
 小杏仁	xiao xing ren	1
 小鲸鲸	xiao jing jing	1
 小鹅送现金	xiao e song xian jin	1
-消防器	xiao fang qi	1
 想看实车	xiang kan shi che	1
 湘潭理工学院	xiang tan li gong xue yuan	1
 细胞神曲	xi bao shen qu	1
@@ -6464,7 +6429,6 @@ use_preset_vocabulary: false
 山东莱荣高铁	shan dong lai rong gao tie	1
 山东海事	shan dong hai shi	1
 山东第一医科大	shan dong di yi yi ke da	1
-桑博	sang bo	1
 三恕瑞玛	san shu rui ma	1
 三戒生冷	san jie sheng leng	1
 三捷	san jie	1
@@ -6639,7 +6603,6 @@ use_preset_vocabulary: false
 滨溪河	bin xi he	1
 壁尻	bi kao	1
 奔富一号	ben fu yi hao	1
-保力新	bao li xin	1
 宝珠公主	bao zhu gong zhu	1
 宝石剑圣	bao shi jian sheng	1
 百家伐羊	bai jia fa yang	1
@@ -6691,7 +6654,6 @@ use_preset_vocabulary: false
 右拧	you ning	1
 有票秒回	you piao miao hui	1
 幽灵婴儿	you ling ying er	1
-应星	ying xing	1
 音乐君	yin yue jun	1
 奕聪	yi cong	1
 乂氼	yi mei	1
@@ -6724,7 +6686,6 @@ use_preset_vocabulary: false
 小数报	xiao shu bao	1
 小胖典韦	xiao pang dian wei	1
 小凰丰	xiao huang feng	1
-消防锤	xiao fang chui	1
 翔腾新材	xiang teng xin cai	1
 献祭流典韦	xian ji liu dian wei	1
 仙舟回忆	xian zhou hui yi	1
@@ -6751,7 +6712,6 @@ use_preset_vocabulary: false
 投档最低位次	tou dang zui di wei ci	1
 投档查询	tou dang cha xun	1
 同谐	tong xie	1
-停云	ting yun	1
 跳水直播	tiao shui zhi bo	1
 田木子	tian mu zi	1
 天为首	tian wei shou	1
@@ -7005,17 +6965,13 @@ use_preset_vocabulary: false
 鹰潭教育	ying tan jiao yu	1
 尹尚	yin shang	1
 姚笛状态	yao di zhuang tai	1
-焰尾	yan wei	1
 眼球膜	yan qiu mo	1
-牙仙	ya xian	1
 寻福之旅	xun fu zhi lv	1
 雪王晒黑了	xue wang shai hei le	1
 削弱者	xue ruo zhe	1
 续贷声明	xu dai sheng ming	1
-徐滨	xu bin	1
 熊设崩塌	xiong she beng ta	1
 信丰中学	xin feng zhong xue	1
-小夭	xiao yao	1
 小满胜万全	xiao man sheng wan quan	1
 相亲交友平台	xiang qin jiao you ping tai	1
 下个大麦	xia ge da mai	1
@@ -7142,7 +7098,6 @@ use_preset_vocabulary: false
 吉林建筑科技学院	ji lin jian zhu ke ji xue yuan	1
 惠特莫尔	hui te mo er	1
 回南风	hui nan feng	1
-花咒	hua zhou	1
 花朵风景	hua duo feng jing	1
 互秒回	hu miao hui	1
 呼呼吹	hu hu chui	1
@@ -7184,7 +7139,6 @@ use_preset_vocabulary: false
 闯中	chuang zhong	1
 仇白	chou bai	1
 抽刃	chou ren	1
-池本	chi ben	1
 吃定彩虹	chi ding cai hong	1
 成人练习生	cheng ren lian xi sheng	1
 陈文铸	chen wen zhu	1
@@ -7238,7 +7192,6 @@ use_preset_vocabulary: false
 小中单	xiao zhong dan	1
 小熊舞	xiao xiong wu	1
 小小泰山	xiao xiao tai shan	1
-小尾	xiao wei	1
 小蜜蜂肘击	xiao mi feng zhou ji	1
 小海狸	xiao hai li	1
 小车干	xiao che gan	1
@@ -7275,14 +7228,12 @@ use_preset_vocabulary: false
 十三鳞	shi san lin	1
 生化危机死亡岛	sheng hua wei ji si wang dao	1
 沈思琪	shen si qi	1
-蛇喰梦子	she can meng zi	1
 上坎	shang kan	1
 山西清河镇	shan xi qing he zhen	1
 山东华宇工学院	shan dong hua yu gong xue yuan	1
 山东地震	shan dong di zhen	1
 森林进化论	sen lin jin hua lun	1
 桑塔雷利	sang ta lei li	1
-三雅	san ya	1
 三实验	san shi yan	1
 三结局	san jie ju	1
 融梗天后	rong geng tian hou	1
@@ -7332,14 +7283,12 @@ use_preset_vocabulary: false
 开狗	kai gou	1
 绝对绝望少女	jue dui jue wang shao nv	1
 决胜赛点	jue sheng sai dian	1
-剧说	ju shuo	1
 巨人蜈蚣	ju ren wu gong	1
 狙哥	ju ge	1
 结婚玛丽	jie hun ma li	1
 焦心如焚	jiao xin ru fen	1
 僵尸启示录	jiang shi qi shi lu	1
 嘉善暴雨	jia shan bao yu	1
-家礼	jia li	1
 季莹莹	ji ying ying	1
 疾风女人	ji feng nv ren	1
 叽桑	ji sang	1
@@ -7426,7 +7375,6 @@ use_preset_vocabulary: false
 张仲语	zhang zhong yu	1
 炸弹妹	zha dan mei	1
 迂南	yu nan	1
-殷郊	yin jiao	1
 叶罗丽第十季	ye luo li di shi ji	1
 阳光新能源	yang guang xin neng yuan	1
 研发公寓	yan fa gong yu	1
@@ -7439,7 +7387,6 @@ use_preset_vocabulary: false
 咸蒜	xian suan	1
 西瓜头套	xi gua tou tao	1
 武志	wu zhi	1
-闻仲	wen zhong	1
 魏桥牛逼	wei qiao niu bi	1
 玩瓦	wan wa	1
 停航了	ting hang le	1
@@ -7534,7 +7481,6 @@ use_preset_vocabulary: false
 自选池	zi xuan chi	1
 自肃	zi su	1
 紫光辰济	zi guang chen ji	1
-竹米	zhu mi	1
 珠宝之心	zhu bao zhi xin	1
 周显光	zhou xian guang	1
 中医是中国的	zhong yi shi zhong guo de	1
@@ -7567,7 +7513,6 @@ use_preset_vocabulary: false
 杨蓉蓉	yang rong rong	1
 阳光中招网	yang guang zhong zhao wang	1
 盐城文泽府邸	yan cheng wen ze fu di	1
-淹的	yan de	1
 烟洲	yan zhou	1
 烟妹	yan mei	1
 宣卿	xuan qing	1
@@ -7640,9 +7585,7 @@ use_preset_vocabulary: false
 三滨	san bin	1
 萨米肉鸽	sa mi rou ge	1
 肉鸽启动	rou ge qi dong	1
-日南	ri nan	1
 日本生可乐	ri ben sheng ke le	1
-任安	ren an	1
 泉州招考	quan zhou zhao kao	1
 请输入考生号	qing shu ru kao sheng hao	1
 轻匿	qing ni	1
@@ -7693,7 +7636,6 @@ use_preset_vocabulary: false
 李望知	li wang zhi	1
 李恩胜	li en sheng	1
 擂椒	lei jiao	1
-雷兹	lei zi	1
 老来得粉	lao lai de fen	1
 老八所	lao ba suo	1
 蓝猫动漫	lan mao dong man	1
@@ -7709,7 +7651,6 @@ use_preset_vocabulary: false
 开始转动	kai shi zhuan dong	1
 开服啦	kai fu la	1
 卡比巴拉	ka bi ba la	1
-军器	jun qi	1
 居心不轨	ju xin bu gui	1
 狙神时代	ju shen shi dai	1
 就是了不起啊	jiu shi liao bu qi a	1
@@ -7854,7 +7795,6 @@ use_preset_vocabulary: false
 三伏天来了	san fu tian lai le	1
 派单群	pai dan qun	1
 往世乐土	wang shi le tu	1
-难破	nan po	1
 两外	liang wai	1
 含运	han yun	1
 眼开	yan kai	1
@@ -7888,7 +7828,6 @@ use_preset_vocabulary: false
 肉莲	rou lian	1
 粤电力	yue dian li	1
 红蒂	hong di	1
-壮游	zhuang you	1
 延安中考	yan an zhong kao	1
 浮桥案	fu qiao an	1
 萧慕白	xiao mu bai	1
@@ -7900,7 +7839,6 @@ use_preset_vocabulary: false
 富豪人生	fu hao ren sheng	1
 二娟儿	er juan er	1
 卡点到	ka dian dao	1
-藏海	cang hai	1
 川流之岛	chuan liu zhi dao	1
 今日开挖	jin ri kai wa	1
 明日方舟剿灭	ming ri fang zhou jiao mie	1
@@ -7996,10 +7934,8 @@ use_preset_vocabulary: false
 古乐牛香	gu yue niu xiang	1
 扎头毛	zha tou mao	1
 米加我的小镇	mi jia wo de xiao zhen	1
-西哥	xi ge	1
 陈不凡	chen bu fan	1
 一坤年	yi kun nian	1
-终末的女武神	zhong mo de nv wu shen	1
 棣欣引力	di xin yin li	1
 橄榄皮	gan lan pi	1
 海彤	hai tong	1
@@ -8029,7 +7965,6 @@ use_preset_vocabulary: false
 卡拉彼丘	ka la bi qiu	1
 先干饭	xian gan fan	1
 退役军犬	tui yi jun quan	1
-哥舒	ge shu	1
 太原中考	tai yuan zhong kao	1
 干扰打野	gan rao da ye	1
 冰板栗	bing ban li	1
@@ -8092,7 +8027,6 @@ use_preset_vocabulary: false
 美式抄网	mei shi chao wang	1
 全球冰封	quan qiu bing feng	1
 拼本	pin ben	1
-财鑫	cai xin	1
 混果汁	hun guo zhi	1
 直播算命	zhi bo suan ming	1
 长安幻想	chang an huan xiang	1
@@ -8171,7 +8105,6 @@ use_preset_vocabulary: false
 琉形蜃境	liu xing shen jing	1
 我的人间烟火	wo de ren jian yan huo	1
 消失的十一层	xiao shi de shi yi ceng	1
-纯火	chun huo	1
 同城精选	tong cheng jing xuan	1
 河北普法	he bei pu fa	1
 入场动画	ru chang dong hua	1
@@ -8376,7 +8309,6 @@ use_preset_vocabulary: false
 常州中招	chang zhou zhong zhao	1
 蔡徐坤事件	cai xu kun shi jian	1
 播了播了	bo le bo le	1
-白陆	bai lu	1
 左千户	zuo qian hu	1
 朱妙	zhu miao	1
 珠海科技	zhu hai ke ji	1
@@ -8615,7 +8547,6 @@ use_preset_vocabulary: false
 方便实用	fang bian shi yong	1
 发收款码	fa shou kuan ma	1
 发绩效了	fa ji xiao le	1
-豆神	dou shen	1
 蛋月烧	dan yue shao	1
 纯司机	chun si ji	1
 初一升初二	chu yi sheng chu er	1
@@ -8743,10 +8674,8 @@ use_preset_vocabulary: false
 杨梅酱	yang mei jiang	1
 水稻上山	shui dao shang shan	1
 山西职业技术学院	shan xi zhi ye ji shu xue yuan	1
-卖桃	mai tao	1
 栗子味	li zi wei	1
 二阳后	er yang hou	1
-冬恋	dong lian	1
 一晴方觉夏深	yi qing fang jue xia shen	1
 夜爬泰山	ye pa tai shan	1
 徐世平	xu shi ping	1
@@ -8770,13 +8699,11 @@ use_preset_vocabulary: false
 椰果花	ye guo hua	1
 摇光录	yao guang lu	1
 燕云十六声	yan yun shi liu sheng	1
-先正	xian zheng	1
 下的不小	xia de bu xiao	1
 物理馆	wu li guan	1
 往日之影	wang ri zhi ying	1
 水安将军	shui an jiang jun	1
 鼠头鸭脖	shu tou ya bo	1
-受身	shou shen	1
 木语	mu yu	1
 蜜璃	mi li	1
 灵化	ling hua	1
@@ -8798,7 +8725,6 @@ use_preset_vocabulary: false
 出库仪	chu ku yi	1
 抽万叶	chou wan ye	1
 畅吃	chang chi	1
-苍灵	cang ling	1
 佟晓梅	tong xiao mei	1
 在哪里卖	zai na li mai	1
 液态欲望	ye tai yu wang	1
@@ -8850,7 +8776,6 @@ use_preset_vocabulary: false
 开抄	kai chao	1
 卡霍夫卡	ka huo fu ka	1
 江苏华辰	jiang su hua chen	1
-记念	ji nian	1
 火烧鸡	huo shao ji	1
 混池	hun chi	1
 后陡门	hou dou men	1
@@ -8864,7 +8789,6 @@ use_preset_vocabulary: false
 闹麻	nao ma	1
 干拉	gan la	1
 丛台酒	cong tai jiu	1
-碎落	sui luo	1
 新通话	xin tong hua	1
 魔钰	mo yu	1
 亨迪	heng di	1
@@ -8883,7 +8807,6 @@ use_preset_vocabulary: false
 弗洛里达	fu luo li da	1
 阿升	a sheng	1
 助飞	zhu fei	1
-养育我	yang yu wo	1
 修子哥	xiu zi ge	1
 美妹	mei mei	1
 两个妈	liang ge ma	1
@@ -8898,9 +8821,7 @@ use_preset_vocabulary: false
 卡卡卡卡卡卡卡卡	ka ka ka ka ka ka ka ka	1
 金提莫	jin ti mo	1
 工作师	gong zuo shi	1
-飞光	fei guang	1
 采动	cai dong	1
-北景	bei jing	1
 雁回	yan hui	1
 我阳	wo yang	1
 同乘	tong cheng	1
@@ -8918,12 +8839,10 @@ use_preset_vocabulary: false
 买卖稀	mai mai xi	1
 亏亏	kui kui	1
 从五一	cong wu yi	1
-阮梅	ruan mei	1
 主门客	zhu men ke	1
 退餐	tui can	1
 湿光	shi guang	1
 省控	sheng kong	1
-平举	ping ju	1
 美依礼芽	mei yi li ya	1
 纷玩岛	fen wan dao	1
 倒余额	dao yu e	1
@@ -8944,11 +8863,9 @@ use_preset_vocabulary: false
 盾位	dun wei	1
 初美	chu mei	1
 一盾	yi dun	1
-奇物	qi wu	1
 好肝	hao gan	1
 符玄	fu xuan	1
 促谈	cu tan	1
-智识	zhi shi	1
 悦换码	yue huan ma	1
 遗器	yi qi	1
 巡猎	xun lie	1
@@ -8970,14 +8887,11 @@ use_preset_vocabulary: false
 顶雨	ding yu	1
 汇筑	hui zhu	1
 单闪	dan shan	1
-次门	ci men	1
 报一丝	bao yi si	1
 总辖	zong xia	1
-羽蛇	yu she	1
 死包	si bao	1
 腿链	tui lian	1
 陵南	ling nan	1
-宫田	gong tian	1
 真栗	zhen li	1
 短爬	duan pa	1
 星二	xing er	1
@@ -8990,7 +8904,6 @@ use_preset_vocabulary: false
 顿宝	dun bao	1
 叮我	ding wo	1
 仧乆	chang jiu	1
-食养	shi yang	1
 巨晒	ju shai	1
 对飚	dui biao	1
 超机	chao ji	1
@@ -9001,11 +8914,9 @@ use_preset_vocabulary: false
 空奖	kong jiang	1
 圣显	sheng xian	1
 木狼	mu lang	1
-杰登	jie deng	1
 警网	jing wang	1
 灰大	hui da	1
 狗门	gou men	1
-春逝	chun shi	1
 云辇	yun nian	1
 五率	wu lv	1
 合修	he xiu	1
@@ -9016,7 +8927,6 @@ use_preset_vocabulary: false
 取总	qu zong	1
 卡泽	ka ze	1
 蚌族	bang zu	1
-猎兵	lie bing	1
 大矛	da mao	1
 打关	da guan	1
 初章	chu zhang	1
@@ -9049,7 +8959,6 @@ use_preset_vocabulary: false
 狗塑	gou su	1
 分池	fen chi	1
 液断	ye duan	1
-新职	xin zhi	1
 吸土	xi tu	1
 黄不拉几的	huang bu la ji de	1
 尼露	ni lu	1
@@ -9069,15 +8978,11 @@ use_preset_vocabulary: false
 优亚	you ya	1
 央选	yang xuan	1
 同岗	tong gang	1
-声声不息	sheng sheng bu xi	1
 玲芽	ling ya	1
 春浓	chun nong	1
 情热	qing re	1
 牛回	niu hui	1
 吹傻	chui sha	1
-狍鸮	pao xiao	1
-魔盗	mo dao	1
-炼虚	lian xu	1
 返礼	fan li	1
 北动	bei dong	1
 对乙	dui yi	1
@@ -9099,7 +9004,6 @@ use_preset_vocabulary: false
 极萌	ji meng	1
 发饼	fa bing	1
 晚十	wan shi	1
-敏行	min xing	1
 李忆	li yi	1
 桔子树	ju zi shu	1
 电自	dian zi	1
@@ -9109,9 +9013,7 @@ use_preset_vocabulary: false
 吐点	tu dian	1
 烧傻	shao sha	1
 芒禾	mang he	1
-和纱	he sha	1
 封班	feng ban	1
-周宣	zhou xuan	1
 院赛	yuan sai	1
 连座	lian zuo	1
 臧家	zang jia	1
@@ -9135,7 +9037,6 @@ use_preset_vocabulary: false
 公体	gong ti	1
 更卷	geng juan	1
 都卷	dou juan	1
-怨仇	yuan chou	1
 逸达	yi da	1
 四饭	si fan	1
 困晕	kun yun	1
@@ -9182,7 +9083,6 @@ use_preset_vocabulary: false
 国神	guo shen	1
 抽呗	chou bei	1
 不欧	bu ou	1
-樋口	tong kou	1
 早接	zao jie	1
 店休	dian xiu	1
 隆里	long li	1
@@ -9220,7 +9120,6 @@ use_preset_vocabulary: false
 二调	er diao	1
 找船	zhao chuan	1
 宜业	yi ye	1
-德佑	de you	1
 补宝	bu bao	1
 白岳	bai yue	1
 安局	an ju	1
@@ -9236,7 +9135,6 @@ use_preset_vocabulary: false
 卤了	lu le	1
 海荒	hai huang	1
 崩铁	beng tie	1
-星核	xing he	1
 未半	wei ban	1
 很冻	hen dong	1
 小怀	xiao huai	1
@@ -9246,7 +9144,6 @@ use_preset_vocabulary: false
 张津渝	zhang jin yu	1
 小识	xiao shi	1
 私银	si yin	1
-创创	chuang chuang	1
 办押	ban ya	1
 撞完	zhuang wan	1
 偷米	tou mi	1
@@ -9261,7 +9158,6 @@ use_preset_vocabulary: false
 云崽	yun zai	1
 有翼	you yi	1
 妖币	yao bi	1
-亚眠	ya mian	1
 新案	xin an	1
 谢昂	xie ang	1
 小专	xiao zhuan	1
@@ -9274,30 +9170,24 @@ use_preset_vocabulary: false
 没撞	mei zhuang	1
 没编	mei bian	1
 领酒	ling jiu	1
-利夫	li fu	1
 竞人	jing ren	1
 奖钱	jiang qian	1
 更尬	geng ga	1
-福仔	fu zai	1
 百师	bai shi	1
 自印	zi yin	1
 怎谈	zen tan	1
 新警	xin jing	1
 仙娃	xian wa	1
 甜崽	tian zai	1
-四剑	si jian	1
 欧貂	ou diao	1
-聂家	nie jia	1
 满氪	man ke	1
 蛮啾	man jiu	1
 露手	lu shou	1
 龙宗	long zong	1
 临调	lin tiao	1
-老味	lao wei	1
 戒游	jie you	1
 减按	jian an	1
 很装	hen zhuang	1
-鬼宅	gui zhai	1
 干参	gan can	1
 掉包了	diao bao le	1
 打匪	da fei	1
@@ -9316,11 +9206,9 @@ use_preset_vocabulary: false
 托布	tuo bu	1
 特感	te gan	1
 送刀	song dao	1
-术师	shu shi	1
 盛妆	sheng zhuang	1
 三勾	san gou	1
 拳补	quan bu	1
-全甲	quan jia	1
 亲儿	qin er	1
 瓶皇	ping huang	1
 年区	nian qu	1
@@ -9341,7 +9229,6 @@ use_preset_vocabulary: false
 多担	duo dan	1
 订亲	ding qin	1
 地组	di zu	1
-搓条	cuo tiao	1
 纯连	chun lian	1
 纯冰	chun bing	1
 出葬	chu zang	1
@@ -9351,23 +9238,19 @@ use_preset_vocabulary: false
 章昊	zhang hao	1
 夜鹿	ye lu	1
 施粥	shi zhou	1
-盼春	pan chun	1
 盲开	mang kai	1
 跨校	kua xiao	1
 鲸探	jing tan	1
 互吃	hu chi	1
 逢九	feng jiu	1
 翻年	fan nian	1
-短甲	duan jia	1
 臻藏	zhen cang	1
 小晞	xiao xi	1
 讲卷	jiang juan	1
 半贴	ban tie	1
 血斛	xue hu	1
 谁抽	shui chou	1
-开池	kai chi	1
 都歪	dou wai	1
-赤甲	chi jia	1
 八抽	ba chou	1
 已吃	yi chi	1
 夜咳	ye ke	1
@@ -9384,9 +9267,7 @@ use_preset_vocabulary: false
 朱童	zhu tong	1
 经综	jing zong	1
 鉴茶	jian cha	1
-有热	you re	1
 也酸	ye suan	1
-通鼻	tong bi	1
 探温	tan wen	1
 睡倒	shui dao	1
 烧没	shao mei	1
@@ -9436,7 +9317,6 @@ use_preset_vocabulary: false
 狂喝	kuang he	1
 看码	kan ma	1
 一初	yi chu	1
-纪昌	ji chang	1
 刚测	gang ce	1
 撤卡	che ka	1
 罚点	fa dian	1
@@ -9448,7 +9328,6 @@ use_preset_vocabulary: false
 拉炮	la pao	1
 花津	hua jin	1
 外返	wai fan	1
-停市	ting shi	1
 声谷	sheng gu	1
 脑雾	nao wu	1
 冰缘	bing yuan	1
@@ -9457,7 +9336,6 @@ use_preset_vocabulary: false
 打煲	da bao	1
 捂暖	wu nuan	1
 芹洋	qin yang	1
-暖足	nuan zu	1
 烤脚	kao jiao	1
 厚鞋	hou xie	1
 刚解	gang jie	1
@@ -9513,7 +9391,6 @@ use_preset_vocabulary: false
 孙旸	sun yang	1
 实票	shi piao	1
 伤缺	shang que	1
-抢肉	qiang rou	1
 糜镇	mi zhen	1
 乱压	luan ya	1
 亏麻	kui ma	1
@@ -9553,7 +9430,6 @@ use_preset_vocabulary: false
 开买	kai mai	1
 加投	jia tou	1
 黄堽	huang gang	1
-秋茄	qiu qie	1
 卖刀	mai dao	1
 拉栓	la shuan	1
 京办	jing ban	1
@@ -9563,7 +9439,6 @@ use_preset_vocabulary: false
 赵一街	zhao yi jie	1
 云饺	yun jiao	1
 暖饮	nuan yin	1
-明斯	ming si	1
 麦坪	mai ping	1
 拉团	la tuan	1
 跨代	kua dai	1
@@ -9587,7 +9462,6 @@ use_preset_vocabulary: false
 补命座	bu ming zuo	1
 伺夜	si ye	1
 猎鬼	lie gui	1
-回阳	hui yang	1
 冬补	dong bu	1
 促醒者	cu xing zhe	1
 抽草神	chou cao shen	1
@@ -9599,7 +9473,6 @@ use_preset_vocabulary: false
 风拐	feng guai	1
 珐露珊	fa lu shan	1
 橙戒	cheng jie	1
-扎穿	zha chuan	1
 团赛	tuan sai	1
 庞佐	pang zuo	1
 马蹬	ma deng	1
@@ -9608,13 +9481,11 @@ use_preset_vocabulary: false
 后滘	hou jiao	1
 吃妆	chi zhuang	1
 五问	wu wen	1
-托罗	tuo luo	1
 入泰	ru tai	1
 免定	mian ding	1
 枯枯	ku ku	1
 怕猫	pa mao	1
 礼黑	li hei	1
-毒窝	du wo	1
 带屏	dai ping	1
 爆拉	bao la	1
 白坟	bai fen	1
@@ -9637,7 +9508,6 @@ use_preset_vocabulary: false
 高渠	gao qu	1
 粉瓶	fen ping	1
 蜃妖	shen yao	1
-万缘	wan yuan	1
 热圈	re quan	1
 龙秋	long qiu	1
 关沮	guan ju	1
@@ -9645,7 +9515,6 @@ use_preset_vocabulary: false
 斥罪	chi zui	1
 于镇	yu zhen	1
 数币	shu bi	1
-神林	shen lin	1
 青教	qing jiao	1
 抢疯	qiang feng	1
 平祥	ping xiang	1
@@ -9667,15 +9536,12 @@ use_preset_vocabulary: false
 赵诣	zhao yi	1
 星忍	xing ren	1
 返宿	fan su	1
-双鞭	shuang bian	1
 蓝碳	lan tan	1
 撑天	cheng tian	1
 仲音	zhong yin	1
 晚补	wan bu	1
 绵虒	mian si	1
 路居	lu ju	1
-安德利	an de li	1
-知到	zhi dao	1
 幼管	you guan	1
 冉庙	ran miao	1
 缓测	huan ce	1
@@ -9700,7 +9566,6 @@ use_preset_vocabulary: false
 入昌	ru chang	1
 全旗	quan qi	1
 秋被	qiu bei	1
-七遍	qi bian	1
 两测	liang ce	1
 来豹	lai bao	1
 魂海	hun hai	1
@@ -9738,7 +9603,6 @@ use_preset_vocabulary: false
 召合	zhao he	1
 羽兔	yu tu	1
 虚颜	xu yan	1
-小肽	xiao tai	1
 双少	shuang shao	1
 竖蛋	shu dan	1
 三评	san ping	1
@@ -9746,14 +9610,12 @@ use_preset_vocabulary: false
 七营	qi ying	1
 男六	nan liu	1
 离庆	li qing	1
-九皇	jiu huang	1
 节休	jie xiu	1
 计专	ji zhuan	1
 海沫	hai mo	1
 狗咪	gou mi	1
 芬洛	fen luo	1
 逗鸟	dou niao	1
-梦校	meng xiao	1
 东扩	dong kuo	1
 李峋	li xun	1
 掉标	diao biao	1
@@ -9780,10 +9642,8 @@ use_preset_vocabulary: false
 再捐	zai juan	1
 没捐	mei juan	1
 考途	kao tu	1
-郓州	yun zhou	1
 追检	zhui jian	1
 中萨	zhong sa	1
-元瑶	yuan yao	1
 影焰	ying yan	1
 填场	tian chang	1
 四检	si jian	1
@@ -9815,7 +9675,6 @@ use_preset_vocabulary: false
 日鹤	ri he	1
 电树	dian shu	1
 楚钧	chu jun	1
-赤王	chi wang	1
 拆班	chai ban	1
 乔兮	qiao xi	1
 猫雷	mao lei	1
@@ -9852,7 +9711,6 @@ use_preset_vocabulary: false
 付美	fu mei	1
 波稻	bo dao	1
 月族	yue zu	1
-夏音	xia yin	1
 情根	qing gen	1
 楼犇	lou ben	1
 结黎	jie li	1
@@ -9867,7 +9725,6 @@ use_preset_vocabulary: false
 燃冬	ran dong	1
 涟纯	lian chun	1
 离淮	li huai	1
-八幡	ba fan	1
 鲁珀	lu po	1
 陇田	long tian	1
 莲洲	lian zhou	1
@@ -9895,7 +9752,6 @@ use_preset_vocabulary: false
 泉果	quan guo	1
 江猛	jiang meng	1
 坐榻	zuo ta	1
-馊饭	sou fan	1
 剜心	wan xin	1
 天规	tian gui	1
 卡娃	ka wa	1
@@ -9927,13 +9783,11 @@ use_preset_vocabulary: false
 翟星	zhai xing	1
 芷昔	zhi xi	1
 约管	yue guan	1
-玄夜	xuan ye	1
 球盲	qiu mang	1
 当家作主	dang jia zuo zhu	1
 连筛	lian shai	1
 狂攻	kuang gong	1
 冉森	ran sen	1
-江皓	jiang hao	1
 漫娱	man yu	1
 菌烨	jun ye	1
 官组	guan zu	1
@@ -9941,7 +9795,6 @@ use_preset_vocabulary: false
 子晟	zi sheng	1
 裴之	pei zhi	1
 鸦印	ya yin	1
-星稀	xing xi	1
 离济	li ji	1
 原友	yuan you	1
 断贷	duan dai	1
@@ -9949,9 +9802,7 @@ use_preset_vocabulary: false
 阿垚	a yao	1
 雷将	lei jiang	1
 吴晛	wu xian	1
-天叔	tian shu	1
 我担	wo dan	1
-远瞳	yuan tong	1
 雷草	lei cao	1
 哥组	ge zu	1
 牌佬	pai lao	1
@@ -9960,7 +9811,6 @@ use_preset_vocabulary: false
 月币	yue bi	1
 热惨	re can	1
 禁娱	jin yu	1
-国话	guo hua	1
 东迪	dong di	1
 院人	yuan ren	1
 辛纳	xin na	1
@@ -9981,8 +9831,6 @@ use_preset_vocabulary: false
 闹婚	nao hun	1
 来锡	lai xi	1
 好粮	hao liang	1
-多莉	duo li	1
-标星	biao xing	1
 专排	zhuan pai	1
 塞皮	sai pi	1
 离锡	li xi	1
@@ -10018,15 +9866,12 @@ use_preset_vocabulary: false
 派能	pai neng	1
 垒知	lei zhi	1
 护航艇	hu hang ting	1
-瓦基	wa ji	1
 刀霞	dao xia	1
 英大吉	ying da ji	1
 叶长歌	ye chang ge	1
-锋龙	feng long	1
 尼菈	ni la	1
 冰震	bing zhen	1
 方官	fang guan	1
-金巴	jin ba	1
 光艺	guang yi	1
 支强	zhi qiang	1
 吕奕	lv yi	1
@@ -10042,7 +9887,6 @@ use_preset_vocabulary: false
 递酒	di jiu	1
 护夫	hu fu	1
 死万	si wan	1
-石兽	shi shou	1
 荒羽	huang yu	1
 常铝	chang lv	1
 进表	jin biao	1
@@ -10051,9 +9895,6 @@ use_preset_vocabulary: false
 北顿	bei dun	1
 万舰	wan jian	1
 岳威	yue wei	1
-日奈	ri nai	1
-书呆	shu dai	1
-官妓	guan ji	1
 原顾	yuan gu	1
 猪瘾	zhu yin	1
 神判	shen pan	1
@@ -10061,7 +9902,6 @@ use_preset_vocabulary: false
 明锅	ming guo	1
 坑夫	keng fu	1
 鹏游	peng you	1
-斗茶	dou cha	1
 狂刃	kuang ren	1
 二壁	er bi	1
 沈如琢	shen ru zhuo	1
@@ -10071,15 +9911,12 @@ use_preset_vocabulary: false
 迭嘉	die jia	1
 子胥	zi xu	1
 难哭	nan ku	1
-元妃	yuan fei	1
 限迁	xian qian	1
 偷题	tou ti	1
-沁芳	qin fang	1
 已捐	yi juan	1
 傅华	fu hua	1
 巨难	ju nan	1
 星礼	xing li	1
-脱籍	tuo ji	1
 破沙	po sha	1
 狼谷	lang gu	1
 极盾	ji dun	1
@@ -10115,10 +9952,8 @@ use_preset_vocabulary: false
 吾角	wu jiao	1
 雅芮	ya rui	1
 幕张	mu zhang	1
-提坦	ti tan	1
 包粽	bao zong	1
 刘头	liu tou	1
-砍瓜	kan gua	1
 朴理	pu li	1
 红之	hong zhi	1
 张德美	zhang de mei	1
@@ -10150,7 +9985,6 @@ use_preset_vocabulary: false
 伽华	jia hua	1
 瓷藏	ci cang	1
 男凝	nan ning	1
-珀西	po xi	1
 醉蛋	zui dan	1
 汉帝	han di	1
 忆安	yi an	1
@@ -10159,8 +9993,6 @@ use_preset_vocabulary: false
 总决	zong jue	1
 格威	ge wei	1
 无冠	wu guan	1
-青面	qing mian	1
-风系	feng xi	1
 二臂	er bi	1
 涤罪	di zui	1
 星煌	xing huang	1
@@ -10174,7 +10006,6 @@ use_preset_vocabulary: false
 七赏	qi shang	1
 神觉者	shen jue zhe	1
 闵蘅	min heng	1
-人师	ren shi	1
 朱房	zhu fang	1
 纯皇	chun huang	1
 叁贰贰	san er er	1
@@ -10193,8 +10024,6 @@ use_preset_vocabulary: false
 陈穿	chen chuan	1
 结芬	jie fen	1
 妈沫	ma mo	1
-伯利	bo li	1
-竹兰	zhu lan	1
 绝区	jue qu	1
 明评	ming ping	1
 杭景	hang jing	1
@@ -10204,11 +10033,9 @@ use_preset_vocabulary: false
 辣孩	la hai	1
 卓定	zhuo ding	1
 心巴	xin ba	1
-重氪	zhong ke	1
 裴沟	pei gou	1
 憨醋	han cu	1
 莱圳	lai zhen	1
-东望	dong wang	1
 来牟	lai mou	1
 翟悦	zhai yue	1
 廖双	liao shuang	1
@@ -10220,10 +10047,8 @@ use_preset_vocabulary: false
 萌杀	meng sha	1
 蜜莓	mi mei	1
 浊蒂	zhuo di	1
-西陲	xi chui	1
 塌楼	ta lou	1
 沈昱	shen yu	1
-色迷	se mi	1
 泽禹	ze yu	1
 稚楚	zhi chu	1
 极禹	ji yu	1
@@ -10240,13 +10065,11 @@ use_preset_vocabulary: false
 绿媒	lv mei	1
 影酷	ying ku	1
 雍王	yong wang	1
-寻剑	xun jian	1
 离昆	li kun	1
 鲨我	sha wo	1
 毕淘买	bi tao mai	1
 掠风	lue feng	1
 谭渊	tan yuan	1
-独乐	du le	1
 郝春	hao chun	1
 烂网	lan wang	1
 陈恭	chen gong	1
@@ -10254,7 +10077,6 @@ use_preset_vocabulary: false
 反风	fan feng	1
 暖皮	nuan pi	1
 顾茫	gu mang	1
-开棺	kai guan	1
 起硕	qi shuo	1
 奇章	qi zhang	1
 南奇	nan qi	1
@@ -10263,7 +10085,6 @@ use_preset_vocabulary: false
 灵蚕	ling can	1
 声生	sheng sheng	1
 风仔	feng zai	1
-震雷	zhen lei	1
 蜚蜚	fei fei	1
 食链	shi lian	1
 饼蛙	bing wa	1
@@ -10271,14 +10092,11 @@ use_preset_vocabulary: false
 春冠	chun guan	1
 归溟	gui ming	1
 群隐	qun yin	1
-菌毯	jun tan	1
 抖团	dou tuan	1
 循光	xun guang	1
-觅影	mi ying	1
 勇仕	yong shi	1
 恋旅	lian lv	1
 惜云	xi yun	1
-冰渊	bing yuan	1
 龙切	long qie	1
 之之	zhi zhi	1
 误拿	wu na	1
@@ -10287,13 +10105,11 @@ use_preset_vocabulary: false
 承霁	cheng ji	1
 慎平	shen ping	1
 畊宏	geng hong	1
-洛蒂	luo di	1
 骗单	pian dan	1
 影打刀	ying da dao	1
 千窟	qian ku	1
 速藏	su cang	1
 粗辫	cu bian	1
-沐英	mu ying	1
 星苏	xing su	1
 美幻	mei huan	1
 且试	qie shi	1
@@ -10316,7 +10132,6 @@ use_preset_vocabulary: false
 敲盆	qiao pen	1
 蕾贝	lei bei	1
 辨位	bian wei	1
-桂木	gui mu	1
 枫原	feng yuan	1
 男拳	nan quan	1
 国崩	guo beng	1
@@ -10341,12 +10156,9 @@ use_preset_vocabulary: false
 容彩	rong cai	1
 卡梦	ka meng	1
 关扑	guan pu	1
-铁铉	tie xuan	1
 偷笋	tou sun	1
 接返	jie fan	1
 阳楼	yang lou	1
-标指	biao zhi	1
-逆谋	ni mou	1
 褐果	he guo	1
 赵嫣	zhao yan	1
 路砦	lu zhai	1
@@ -10358,7 +10170,6 @@ use_preset_vocabulary: false
 邓埠	deng bu	1
 共铸	gong zhu	1
 灰毫	hui hao	1
-营丘	ying qiu	1
 畅跑	chang pao	1
 哭悲	ku bei	1
 来蓉	lai rong	1
@@ -10384,7 +10195,6 @@ use_preset_vocabulary: false
 辫太	bian tai	1
 沪国	hu guo	1
 苦麻	ku ma	1
-冷石	leng shi	1
 封脉	feng mai	1
 修坟	xiu fen	1
 虹团	hong tuan	1
@@ -10399,11 +10209,9 @@ use_preset_vocabulary: false
 烤披萨	kao pi sa	1
 项楚	xiang chu	1
 援沪	yuan hu	1
-幻尘	huan chen	1
 绮良	qi liang	1
 龙虬	long qiu	1
 滨濂	bin lian	1
-泥泥	ni ni	1
 岩造物	yan zao wu	1
 汝菱	ru ling	1
 混阳	hun yang	1
@@ -10419,7 +10227,6 @@ use_preset_vocabulary: false
 偷茶	tou cha	1
 阳人	yang ren	1
 追阳	zhui yang	1
-观河	guan he	1
 团菜	tuan cai	1
 顾昕	gu xin	1
 磐键	pan jian	1
@@ -10434,11 +10241,9 @@ use_preset_vocabulary: false
 慎看	shen kan	1
 赶歌圩	gan ge xu	1
 葛玥	ge yue	1
-台吉	tai ji	1
 入豫	ru yu	1
 幻藏	huan cang	1
 舱音	cang yin	1
-庞培	pang pei	1
 运八	yun ba	1
 忍修	ren xiu	1
 神分	shen fen	1
@@ -10447,7 +10252,6 @@ use_preset_vocabulary: false
 做披萨	zuo pi sa	1
 从细	cong xi	1
 按栋	an dong	1
-九市	jiu shi	1
 邵江	shao jiang	1
 徐起	xu qi	1
 戴天	dai tian	1
@@ -10456,11 +10260,9 @@ use_preset_vocabulary: false
 舵面	duo mian	1
 机龄	ji ling	1
 画愁	hua chou	1
-撞山	zhuang shan	1
 胖梦	pang meng	1
 埌南	lang nan	1
 爱梅特赛尔克	ai mei te sai er ke	1
-滏河	fu he	1
 爱禾	ai he	1
 跳站	tiao zhan	1
 纱夜	sha ye	1
@@ -10480,16 +10282,12 @@ use_preset_vocabulary: false
 萤勾	ying gou	1
 仙姬	xian ji	1
 时藏	shi cang	1
-布琳	bu lin	1
 盘屿	pan yu	1
 宰灿	zai can	1
 心居	xin ju	1
 削韧	xue ren	1
-先路	xian lu	1
-采菱	cai ling	1
 停厂	ting chang	1
 改宗	gai zong	1
-店镇	dian zhen	1
 喵桑	miao sang	1
 百濑	bai lai	1
 菜业	cai ye	1
@@ -10508,14 +10306,12 @@ use_preset_vocabulary: false
 停封	ting feng	1
 围村	wei cun	1
 来宁	lai ning	1
-欧兹	ou zi	1
 冰浆	bing jiang	1
 撸掉	lu diao	1
 封厂	feng chang	1
 要封	yao feng	1
 肉凯	rou kai	1
 迅剑	xun jian	1
-郡府	jun fu	1
 猎图	lie tu	1
 终末地	zhong mo di	1
 曲生	qu sheng	1
@@ -10525,7 +10321,6 @@ use_preset_vocabulary: false
 嗨嗨害	hai hai hai	1
 风丸	feng wan	1
 辉剑	hui jian	1
-永昼	yong zhou	1
 蒙格	meng ge	1
 死根	si gen	1
 死眠	si mian	1
@@ -10533,7 +10328,6 @@ use_preset_vocabulary: false
 图耶	tu ye	1
 巴到	ba dao	1
 焦月	jiao yue	1
-移风	yi feng	1
 班神	ban shen	1
 薙草	ti cao	1
 猎罪	lie zui	1
@@ -10544,8 +10338,6 @@ use_preset_vocabulary: false
 癫火	dian huo	1
 沈翊	shen yi	1
 飞飚	fei biao	1
-诡道	gui dao	1
-唤灵	huan ling	1
 枫南	feng nan	1
 鬼杀	gui sha	1
 瑟濂	se lian	1
@@ -10567,29 +10359,23 @@ use_preset_vocabulary: false
 桑启	sang qi	1
 叁月	san yue	1
 天奈	tian nai	1
-蒙汉	meng han	1
 歪牙	wai ya	1
 强会	qiang hui	1
 菲雅	fei ya	1
 合谈	he tan	1
 逆刺	ni ci	1
 拉妮	la ni	1
-风从	feng cong	1
 灯皇	deng huang	1
 误炸	wu zha	1
 战灰	zhan hui	1
 冰澈	bing che	1
 反俄	fan e	1
-三征	san zheng	1
-堂下	tang xia	1
 鲲斗	kun dou	1
 白枭	bai xiao	1
-赤精	chi jing	1
 封镇	feng zhen	1
 亚速	ya su	1
 亲俄	qin e	1
 预推免	yu tui mian	1
-乌方	wu fang	1
 皮米	pi mi	1
 魂类	hun lei	1
 寄子	ji zi	1
@@ -10605,22 +10391,18 @@ use_preset_vocabulary: false
 早八魂	zao ba hun	1
 援港	yuan gang	1
 挺卷	ting juan	1
-凌剑	ling jian	1
 缩招	suo zhao	1
 边芹	bian qin	1
 双滑	shuang hua	1
 诗玥	shi yue	1
 序贯	xu guan	1
 捻转	nian zhuan	1
-八师	ba shi	1
 徽娘	hui niang	1
 盲灯	mang deng	1
 嗨害	hai hai	1
 桃中	tao zhong	1
 固碳	gu tan	1
 墨中	mo zhong	1
-超巡	chao xun	1
-费兰	fei lan	1
 面姐	mian jie	1
 暂返	zan fan	1
 良选	liang xuan	1
@@ -10628,13 +10410,10 @@ use_preset_vocabulary: false
 学水	xue shui	1
 走实	zou shi	1
 返常	fan chang	1
-分服	fen fu	1
 卡扎	ka zha	1
 宫司	gong si	1
 石页	shi ye	1
 政考	zheng kao	1
-醉象	zui xiang	1
-元本	yuan ben	1
 江爽	jiang shuang	1
 黄朔	huang shuo	1
 放船	fang chuan	1
@@ -10645,13 +10424,11 @@ use_preset_vocabulary: false
 复驶	fu shi	1
 纳妃	na fei	1
 奖台	jiang tai	1
-神路	shen lu	1
 陆时	lu shi	1
 元锦	yuan jin	1
 欲梦	yu meng	1
 门酱	men jiang	1
 特送	te song	1
-神碑	shen bei	1
 冰迷	bing mi	1
 存周	cun zhou	1
 连摔	lian shuai	1
@@ -10685,14 +10462,12 @@ use_preset_vocabulary: false
 玩炮	wan pao	1
 返邕	fan yong	1
 返苏	fan su	1
-老谋	lao mou	1
 返锡	fan xi	1
 张末	zhang mo	1
 返杭	fan hang	1
 同筑	tong zhu	1
 会谢	hui xie	1
 年茶	nian cha	1
-宇野	yu ye	1
 夏奥	xia ao	1
 绀田	gan tian	1
 巨渊	ju yuan	1
@@ -10717,14 +10492,12 @@ use_preset_vocabulary: false
 南拉	nan la	1
 开炫	kai xuan	1
 共迎	gong ying	1
-渔浦	yu pu	1
 去星	qu xing	1
 贞仪	zhen yi	1
 虎脑	hu nao	1
 贴对	tie dui	1
 离甬	li yong	1
 卢雄	lu xiong	1
-血沸	xue fei	1
 小杀	xiao sha	1
 江照	jiang zhao	1
 伴感染	ban gan ran	1
@@ -10762,7 +10535,6 @@ use_preset_vocabulary: false
 返肥	fan fei	1
 浙数	zhe shu	1
 诠润	quan run	1
-金灯	jin deng	1
 粉屏	fen ping	1
 食刻	shi ke	1
 宽菜	kuan cai	1
@@ -10781,15 +10553,11 @@ use_preset_vocabulary: false
 灵爆	ling bao	1
 泛用	fan yong	1
 浅看	qian kan	1
-封石	feng shi	1
 星雷	xing lei	1
 谈静	tan jing	1
-吉视	ji shi	1
 反炸	fan zha	1
-海圻	hai qi	1
 返桂	fan gui	1
 六模	liu mo	1
-二亚	er ya	1
 虾圈	xia quan	1
 捧脸	peng lian	1
 五筛	wu shai	1
@@ -10806,8 +10574,6 @@ use_preset_vocabulary: false
 筐出未来	kuang chu wei lai	1
 漳浒寨	zhang hu zhai	1
 惰政	duo zheng	1
-怯战	qie zhan	1
-剑蝶	jian die	1
 匡城	kuang cheng	1
 慈圣	ci sheng	1
 饭坡	fan po	1
@@ -10815,7 +10581,6 @@ use_preset_vocabulary: false
 深靛	shen dian	1
 润培	run pei	1
 异格	yi ge	1
-离珠	li zhu	1
 蒯曼	kuai man	1
 挂星	gua xing	1
 四筛	si shai	1
@@ -10826,7 +10591,6 @@ use_preset_vocabulary: false
 杀爱	sha ai	1
 美越	mei yue	1
 潜海	qian hai	1
-连鸡	lian ji	1
 陆霆	lu ting	1
 旧名	jiu ming	1
 陈冕	chen mian	1
@@ -10851,9 +10615,7 @@ use_preset_vocabulary: false
 离津	li jin	1
 更衣人偶坠入爱河	geng yi ren ou zhui ru ai he	1
 珍大户	zhen da hu	1
-六兽	liu shou	1
 晶尘	jing chen	1
-驴马	lv ma	1
 常夜	chang ye	1
 不离深	bu li shen	1
 黄如	huang ru	1
@@ -10865,7 +10627,6 @@ use_preset_vocabulary: false
 致钛	zhi tai	1
 吕岳	lv yue	1
 灵庙	ling miao	1
-暮落	mu luo	1
 零糖	ling tang	1
 劈观	pi guan	1
 雷印	lei yin	1
@@ -10873,10 +10634,8 @@ use_preset_vocabulary: false
 魈宝	xiao bao	1
 键纹	jian wen	1
 大蜡	da la	1
-杰伊	jie yi	1
 姬特	ji te	1
 吉迪	ji di	1
-神后	shen hou	1
 火豹	huo bao	1
 闻时	wen shi	1
 梓行点	zi xing dian	1
@@ -10890,14 +10649,11 @@ use_preset_vocabulary: false
 孤泳者	gu yong zhe	1
 历政地	li zheng di	1
 好嗨呦	hao hai you	1
-钧台	jun tai	1
-宝幢	bao zhuang	1
 脑虎	nao hu	1
 不离渝	bu li yu	1
 蜜乃	mi nai	1
 福虎	fu hu	1
 冀云	ji yun	1
-波巴	bo ba	1
 发肉	fa rou	1
 缺菜	que cai	1
 青夜	qing ye	1
@@ -10910,18 +10666,13 @@ use_preset_vocabulary: false
 领菜	ling cai	1
 胡滕	hu teng	1
 盲抽	mang chou	1
-宫岛	gong dao	1
 洗洞	xi dong	1
-莱托	lai tuo	1
 微伞	wei san	1
-沃兰	wo lan	1
 赛年	sai nian	1
 奶杖	nai zhang	1
 麦菜	mai cai	1
 女骑	nv qi	1
 息灾	xi zai	1
-群玉	qun yu	1
-紫虚	zi xu	1
 匿蝶	ni die	1
 届不到	jie bu dao	1
 儒岙	ru ao	1
@@ -10931,8 +10682,6 @@ use_preset_vocabulary: false
 问界	wen jie	1
 长思	chang si	1
 鹤羽	he yu	1
-叶烁	ye shuo	1
-若紫	ruo zi	1
 谢营	xie ying	1
 银博	yin bo	1
 汇绿	hui lv	1
@@ -10951,7 +10700,6 @@ use_preset_vocabulary: false
 金核	jin he	1
 希壤	xi rang	1
 买榜	mai bang	1
-四宗	si zong	1
 不忌	bu ji	1
 宋烨	song ye	1
 鬼兜	gui dou	1
@@ -10970,21 +10718,17 @@ use_preset_vocabulary: false
 跃岭	yue ling	1
 葵水	kui shui	1
 拔叔	ba shu	1
-赤角	chi jiao	1
 家恨	jia hen	1
 基夫	ji fu	1
-封桥	feng qiao	1
 代唱	dai chang	1
 魔厨	mo chu	1
 卦者	gua zhe	1
-古棺	gu guan	1
 槐阳	huai yang	1
 夜闹	ye nao	1
 清居	qing ju	1
 禾迈	he mai	1
 魏牌	wei pai	1
 全专	quan zhuan	1
-驿亭	yi ting	1
 紫票	zi piao	1
 险过	xian guo	1
 绫人	ling ren	1
@@ -10995,7 +10739,6 @@ use_preset_vocabulary: false
 绿氢	lv qing	1
 误付	wu fu	1
 赵革	zhao ge	1
-玉牛	yu niu	1
 旺妻	wang qi	1
 破袄	po ao	1
 吕树	lv shu	1
@@ -11005,7 +10748,6 @@ use_preset_vocabulary: false
 初荣	chu rong	1
 古埠	gu bu	1
 琴园	qin yuan	1
-童渊	tong yuan	1
 十例	shi li	1
 欢趣	huan qu	1
 阿前	a qian	1
@@ -11042,22 +10784,15 @@ use_preset_vocabulary: false
 强党	qiang dang	1
 雷岁	lei sui	1
 闲侠	xian xia	1
-蝶语	die yu	1
-五学	wu xue	1
 叨乐	dao le	1
-健太	jian tai	1
 梦改	meng gai	1
-委卖	wei mai	1
 阿数	a shu	1
 纳垢	na gou	1
 智己	zhi ji	1
-水官	shui guan	1
 徐斯	xu si	1
 乌桥	wu qiao	1
-急风	ji feng	1
 骆佳	luo jia	1
 锅塌	guo ta	1
-敬妃	jing fei	1
 杨沁	yang qin	1
 本煜	ben yu	1
 时团	shi tuan	1
@@ -11076,14 +10811,10 @@ use_preset_vocabulary: false
 鸾翔	luan xiang	1
 后藏	hou cang	1
 光钉	guang ding	1
-狼灵	lang ling	1
 松籁	song lai	1
-芝大	zhi da	1
-风露	feng lu	1
 勿发	wu fa	1
 酷金	ku jin	1
 李旎	li ni	1
-帝旭	di xu	1
 笔底	bi di	1
 翠江	cui jiang	1
 浓秋	nong qiu	1
@@ -11091,8 +10822,6 @@ use_preset_vocabulary: false
 幻核	huan he	1
 窝风	wo feng	1
 范维	fan wei	1
-孤勇	gu yong	1
-头冷	tou leng	1
 试暖	shi nuan	1
 作主	zuo zhu	1
 余炜	yu wei	1
@@ -11108,17 +10837,14 @@ use_preset_vocabulary: false
 妥乐	tuo le	1
 魂三	hun san	1
 邓为	deng wei	1
-作派	zuo pai	1
 入郑	ru zheng	1
 缓税	huan shui	1
 日非	ri fei	1
 苏檀	su tan	1
 返赞	fan zan	1
-初尘	chu chen	1
 导考	dao kao	1
 罗芭	luo ba	1
 抢米	qiang mi	1
-怯薛	qie xue	1
 岛链	dao lian	1
 西曹	xi cao	1
 耐放	nai fang	1
@@ -11129,23 +10855,15 @@ use_preset_vocabulary: false
 钱冰	qian bing	1
 洁客	jie ke	1
 火莲	huo lian	1
-八宫	ba gong	1
-菲多	fei duo	1
-海老	hai lao	1
 胖婶	pang shen	1
 烫粉	tang fen	1
 一密	yi mi	1
 遇光	yu guang	1
-画梅	hua mei	1
-扣马	kou ma	1
 卷死	juan si	1
-裸绞	luo jiao	1
-启蛰	qi zhe	1
 肥尾	fei wei	1
 卖糖	mai tang	1
 派胜	pai sheng	1
 任权	ren quan	1
-寻枪	xun qiang	1
 踢罐	ti guan	1
 牛天	niu tian	1
 恶楼	e lou	1
@@ -11154,7 +10872,6 @@ use_preset_vocabulary: false
 途明	tu ming	1
 宁谦	ning qian	1
 声智	sheng zhi	1
-新冬	xin dong	1
 塔冢	ta zhong	1
 耀骑士	yao qi shi	1
 共抓	gong zhua	1
@@ -11165,7 +10882,6 @@ use_preset_vocabulary: false
 尤政	you zheng	1
 跨射	kua she	1
 若驰	ruo chi	1
-冥海	ming hai	1
 肖赛	xiao sai	1
 桃海	tao hai	1
 甄然	zhen ran	1
@@ -11173,16 +10889,13 @@ use_preset_vocabulary: false
 数权	shu quan	1
 紫瓶	zi ping	1
 回南	hui nan	1
-古学	gu xue	1
 敖胥	ao xu	1
 酒嘉	jiu jia	1
-玛西	ma xi	1
 波吉	bo ji	1
 尘锁	chen suo	1
 探日	tan ri	1
 绝叫	jue jiao	1
 试考	shi kao	1
-翔虫	xiang chong	1
 鸣石	ming shi	1
 申鹤	shen he	1
 灵使	ling shi	1
@@ -11208,7 +10921,6 @@ use_preset_vocabulary: false
 义棠	yi tang	1
 柏尔	bo er	1
 两渡	liang du	1
-宫洺	gong ming	1
 曺柔理	cao rou li	1
 隆坊	long fang	1
 赫卡	he ka	1
@@ -11218,7 +10930,6 @@ use_preset_vocabulary: false
 崩四	beng si	1
 盖腿	gai tui	1
 善读	shan du	1
-戴琦	dai qi	1
 葛成	ge cheng	1
 弃徒	qi tu	1
 妙善	miao shan	1
@@ -11233,7 +10944,6 @@ use_preset_vocabulary: false
 裸桶	luo tong	1
 之托	zhi tuo	1
 梅生	mei sheng	1
-纸贵	zhi gui	1
 如泉	ru quan	1
 仙米	xian mi	1
 武深	wu shen	1
@@ -11249,11 +10959,8 @@ use_preset_vocabulary: false
 首球	shou qiu	1
 离青	li qing	1
 离沈	li shen	1
-迪森	di sen	1
 用才	yong cai	1
-虎榜	hu bang	1
 沈樵	shen qiao	1
-米雷	mi lei	1
 限水	xian shui	1
 压左	ya zuo	1
 印钱	yin qian	1
@@ -11263,14 +10970,11 @@ use_preset_vocabulary: false
 杭漂	hang piao	1
 控电	kong dian	1
 夏李	xia li	1
-臂钏	bi chuan	1
 晚舟	wan zhou	1
 流珠	liu zhu	1
 剪秋	jian qiu	1
 屈洋	qu yang	1
 绘春	hui chun	1
-流朱	liu zhu	1
-七花	qi hua	1
 离哈	li ha	1
 震离	zhen li	1
 地堂	di tang	1
@@ -11286,8 +10990,6 @@ use_preset_vocabulary: false
 治港	zhi gang	1
 姚枫	yao feng	1
 贺远	he yuan	1
-作配	zuo pei	1
-霍琦	huo qi	1
 路因	lu yin	1
 踏潮	ta chao	1
 宁局	ning ju	1
@@ -11304,15 +11006,12 @@ use_preset_vocabulary: false
 山怪	shan guai	1
 白鲜	bai xian	1
 鲤南	li nan	1
-深池	shen chi	1
 助梦	zhu meng	1
 橙码	cheng ma	1
 灿都	can du	1
 鸟蛇	niao she	1
-秦宫	qin gong	1
 云堇	yun jin	1
 硕师	shuo shi	1
-兽爪	shou zhua	1
 冬极	dong ji	1
 琴柳	qin liu	1
 低费	di fei	1
@@ -11321,9 +11020,7 @@ use_preset_vocabulary: false
 竹报	zhu bao	1
 朱瓒	zhu zan	1
 反塔	fan ta	1
-拉维	la wei	1
 陆炎	lu yan	1
-负负	fu fu	1
 国岳	guo yue	1
 旧宝	jiu bao	1
 饭筒	fan tong	1
@@ -11335,9 +11032,7 @@ use_preset_vocabulary: false
 绿潮	lv chao	1
 郑二	zheng er	1
 逆局	ni ju	1
-已已	yi yi	1
 凡清	fan qing	1
-假龙	jia long	1
 萨福	sa fu	1
 神凰	shen huang	1
 罗朱	luo zhu	1
@@ -11346,13 +11041,11 @@ use_preset_vocabulary: false
 赤酱	chi jiang	1
 互促	hu cu	1
 泽布	ze bu	1
-威光	wei guang	1
 奈姬	nai ji	1
 代战	dai zhan	1
 郭门	guo men	1
 权现	quan xian	1
 拉佐	la zuo	1
-千春	qian chun	1
 扯坏	che huai	1
 拽人	zhuai ren	1
 哲平	zhe ping	1
@@ -11361,10 +11054,8 @@ use_preset_vocabulary: false
 二命	er ming	1
 镇石	zhen shi	1
 清籁	qing lai	1
-三命	san ming	1
 妙播	miao bo	1
 薄念	bo nian	1
-不托	bu tuo	1
 搭餐	da can	1
 狂嚎	kuang hao	1
 寄午	ji wu	1
@@ -11373,7 +11064,6 @@ use_preset_vocabulary: false
 空菊	kong ju	1
 皮塔	pi ta	1
 通查	tong cha	1
-寻真	xun zhen	1
 模寿	mo shou	1
 郑闯	zheng chuang	1
 赛那	sai na	1
@@ -11384,7 +11074,6 @@ use_preset_vocabulary: false
 向鱼	xiang yu	1
 费卡	fei ka	1
 假瓜	jia gua	1
-善诱	shan you	1
 循循	xun xun	1
 河灵	he ling	1
 苏周	su zhou	1
@@ -11408,7 +11097,6 @@ use_preset_vocabulary: false
 阿改	a gai	1
 二搭	er da	1
 强边	qiang bian	1
-唐姬	tang ji	1
 波桑	bo sang	1
 点纸	dian zhi	1
 忆爱	yi ai	1
@@ -11417,23 +11105,19 @@ use_preset_vocabulary: false
 裟罗	sha luo	1
 姜可	jiang ke	1
 郝开心	hao kai xin	1
-卧雪	wo xue	1
 轩后	xuan hou	1
 红瑶	hong yao	1
 义翘	yi qiao	1
 放粮	fang liang	1
 周衡	zhou heng	1
-黄伞	huang san	1
 龙晴	long qing	1
 管神	guan shen	1
 女五	nv wu	1
 五爪	wu zhao	1
 尼宝	ni bao	1
 承铉	cheng xuan	1
-鬼缠	gui chan	1
 双播	shuang bo	1
 胡所	hu suo	1
-新香	xin xiang	1
 尚巍	shang wei	1
 秀芽	xiu ya	1
 董耀	dong yao	1
@@ -11443,8 +11127,6 @@ use_preset_vocabulary: false
 管门	guan men	1
 阿怀	a huai	1
 崇日	chong ri	1
-玄明	xuan ming	1
-持盈	chi ying	1
 双脱	shuang tuo	1
 软核	ruan he	1
 雷曦	lei xi	1
@@ -11453,7 +11135,6 @@ use_preset_vocabulary: false
 分蛋	fen dan	1
 不节	bu jie	1
 斛珠	hu zhu	1
-家徽	jia hui	1
 策瑜	ce yu	1
 振刀	zhen dao	1
 返呼	fan hu	1
@@ -11492,7 +11173,6 @@ use_preset_vocabulary: false
 宫藏	gong cang	1
 丁羡	ding xian	1
 超点	chao dian	1
-井川	jing chuan	1
 晶蝶	jing die	1
 破框	po kuang	1
 返商	fan shang	1
@@ -11525,7 +11205,6 @@ use_preset_vocabulary: false
 劈瓜	pi gua	1
 掉榜	diao bang	1
 歪比	wai bi	1
-罚时	fa shi	1
 掉棒	diao bang	1
 返晋	fan jin	1
 姜疃	jiang tuan	1
@@ -11536,7 +11215,6 @@ use_preset_vocabulary: false
 从欢	cong huan	1
 桃泽	tao ze	1
 火奶	huo nai	1
-白老	bai lao	1
 不离市	bu li shi	1
 潘乔	pan qiao	1
 单桨	dan jiang	1
@@ -11579,13 +11257,11 @@ use_preset_vocabulary: false
 六边	liu bian	1
 扑水	pu shui	1
 阿赞	a zan	1
-养狼	yang lang	1
 掉杠	diao gang	1
 陶轩	tao xuan	1
 俄奥	e ao	1
 终幕	zhong mu	1
 出渝	chu yu	1
-刀花	dao hua	1
 莎头	sha tou	1
 拦球	lan qiu	1
 杜玥	du yue	1
@@ -11594,10 +11270,8 @@ use_preset_vocabulary: false
 咱国	zan guo	1
 曹茂	cao mao	1
 离渝	li yu	1
-大疫	da yi	1
 洋迪	yang di	1
 冯希	feng xi	1
-丹羽	dan yu	1
 返连	fan lian	1
 埕口	cheng kou	1
 米七	mi qi	1
@@ -11612,12 +11286,9 @@ use_preset_vocabulary: false
 容九	rong jiu	1
 灵锡	ling xi	1
 嘉然	jia ran	1
-无翼	wu yi	1
-暮土	mu tu	1
 九敏	jiu min	1
 故意找茬	gu yi zhao cha	1
 搬包谷	ban bao gu	1
-往世	wang shi	1
 蛇首	she shou	1
 物哀	wu ai	1
 长次	chang ci	1
@@ -11630,7 +11301,6 @@ use_preset_vocabulary: false
 服化	fu hua	1
 刀镡	dao chan	1
 陈萨	chen sa	1
-抢空	qiang kong	1
 绫华	ling hua	1
 媚黑	mei hei	1
 重骑	zhong qi	1
@@ -11641,50 +11311,37 @@ use_preset_vocabulary: false
 盲剪	mang jian	1
 紫蝉	zi chan	1
 沙男	sha nan	1
-荒海	huang hai	1
-雪王	xue wang	1
 肃纪	su ji	1
 港圈	gang quan	1
 冬痕	dong hen	1
-猎心	lie xin	1
 粉霞	fen xia	1
 莒国	ju guo	1
 问花	wen hua	1
 硬桃	ying tao	1
 唇露	chun lu	1
-检法	jian fa	1
 普江	pu jiang	1
 刘峙	liu zhi	1
-韶州	shao zhou	1
 蝉子	chan zi	1
 崔怡	cui yi	1
-玄马	xuan ma	1
 绕指	rao zhi	1
-韩府	han fu	1
 凶鸟	xiong niao	1
 限伤	xian shang	1
 桃式	tao shi	1
-上兵	shang bing	1
 砂男	sha nan	1
 科圣	ke sheng	1
 剧本鲨	ju ben sha	1
 剪刀妹	jian dao mei	1
-面会	mian hui	1
 幽怜	you lian	1
-绫音	ling yin	1
 杭四	hang si	1
 上炎	shang yan	1
 典客	dian ke	1
 鸣神	ming shen	1
 欧鳇	ou huang	1
-小极	xiao ji	1
-展羽	zhan yu	1
 滇滩	dian tan	1
 久吾	jiu wu	1
 小芒	xiao mang	1
 祝党	zhu dang	1
 呆桃	dai tao	1
-存异	cun yi	1
 细糠	xi kang	1
 超乐	chao le	1
 题王	ti wang	1
@@ -11696,13 +11353,10 @@ use_preset_vocabulary: false
 长外	chang wai	1
 赠尔	zeng er	1
 武中	wu zhong	1
-学史	xue shi	1
 索默	suo mo	1
-玉册	yu ce	1
 纸刊	zhi kan	1
 灌江	guan jiang	1
 沙娃	sha wa	1
-噬渊	shi yuan	1
 恁爹	nen die	1
 省常中	sheng chang zhong	1
 存中	cun zhong	1
@@ -11714,7 +11368,6 @@ use_preset_vocabulary: false
 目光所致	mu guang suo zhi	1
 英贝健	ying bei jian	1
 昇腾	sheng teng	1
-维桑	wei sang	1
 旧规	jiu gui	1
 破俗	po su	1
 地亚	di ya	1
@@ -11734,10 +11387,8 @@ use_preset_vocabulary: false
 会报	hui bao	1
 追看	zhui kan	1
 偏文	pian wen	1
-不臣	bu chen	1
 炎律	yan lv	1
 山泥	shan ni	1
-三衢	san qu	1
 云北	yun bei	1
 吹杨	chui yang	1
 取分	qu fen	1
@@ -11745,11 +11396,9 @@ use_preset_vocabulary: false
 温高	wen gao	1
 优师	you shi	1
 断黑	duan hei	1
-外防	wai fang	1
 钎城	qian cheng	1
 那良	na liang	1
 衣哥	yi ge	1
-溯洄	su hui	1
 江外	jiang wai	1
 甲府	jia fu	1
 副选	fu xuan	1
@@ -11758,20 +11407,16 @@ use_preset_vocabulary: false
 魔具	mo ju	1
 比比赞	bi bi zan	1
 努恩	nu en	1
-摇树	yao shu	1
 福围	fu wei	1
 奶嗝	nai ge	1
 油我	you wo	1
-希露	xi lu	1
 溯光	su guang	1
 许老	xu lao	1
 野吹	ye chui	1
-预填	yu tian	1
 党恩	dang en	1
 半鸡	ban ji	1
 落池	luo chi	1
 镜玄	jing xuan	1
-江花	jiang hua	1
 希克	xi ke	1
 奉眠	feng mian	1
 国谷	guo gu	1
@@ -11780,16 +11425,12 @@ use_preset_vocabulary: false
 奈莉	nai li	1
 咪莫	mi mo	1
 粽意	zong yi	1
-危危	wei wei	1
 乔哈	qiao ha	1
-魔鱼	mo yu	1
 试睡	shi shui	1
 澜水	lan shui	1
-畜棚	chu peng	1
 宋希	song xi	1
 永担	yong dan	1
 塘缀	tang zhui	1
-更号	geng hao	1
 乙卷	yi juan	1
 神里	shen li	1
 毡鞋	zhan xie	1
@@ -11816,17 +11457,13 @@ use_preset_vocabulary: false
 凌塘	ling tang	1
 脑交	nao jiao	1
 东鄱	dong po	1
-焦桐	jiao tong	1
-金饼	jin bing	1
 漫图	man tu	1
 花后	hua hou	1
 树城	shu cheng	1
 卡古	ka gu	1
 橙绿	cheng lv	1
-金绿	jin lv	1
 淮信	huai xin	1
 那霍	na huo	1
-天临	tian lin	1
 赛评	sai ping	1
 采一	cai yi	1
 永霜	yong shuang	1
@@ -11836,7 +11473,6 @@ use_preset_vocabulary: false
 失温	shi wen	1
 不震	bu zhen	1
 删稿	shan gao	1
-袁公	yuan gong	1
 雾城	wu cheng	1
 王不	wang bu	1
 徐大堡	xu da bao	1
@@ -11859,15 +11495,12 @@ use_preset_vocabulary: false
 恐虐	kong nue	1
 清落	qing luo	1
 胖红	pang hong	1
-川网	chuan wang	1
 闽科	min ke	1
 本张	ben zhang	1
 互宴	hu yan	1
 哈圈	ha quan	1
-三迁	san qian	1
 杨宪	yang xian	1
 摩枭	mo xiao	1
-寒木	han mu	1
 暗狼	an lang	1
 妖灭	yao mie	1
 南政	nan zheng	1
@@ -11876,7 +11509,6 @@ use_preset_vocabulary: false
 阿忍	a ren	1
 若霖	ruo lin	1
 四抓	si zhua	1
-瀚瀚	han han	1
 作花	zuo hua	1
 追放	zhui fang	1
 宫变	gong bian	1
@@ -11911,7 +11543,6 @@ use_preset_vocabulary: false
 冰希	bing xi	1
 土花	tu hua	1
 融号	rong hao	1
-泰皇	tai huang	1
 盲鳗	mang man	1
 莎伦	sha lun	1
 秀粉	xiu fen	1
@@ -11920,7 +11551,6 @@ use_preset_vocabulary: false
 天传	tian chuan	1
 晚香	wan xiang	1
 刹停	sha ting	1
-撒丁	sa ding	1
 古见	gu jian	1
 赵粉	zhao fen	1
 壮景	zhuang jing	1
@@ -11938,12 +11568,10 @@ use_preset_vocabulary: false
 寮战	liao zhan	1
 游伟	you wei	1
 玉霖	yu lin	1
-裘德	qiu de	1
 杨马	yang ma	1
 打防	da fang	1
 农神	nong shen	1
 今屿	jin yu	1
-贝茨	bei ci	1
 加奖	jia jiang	1
 万相	wan xiang	1
 天昭	tian zhao	1
@@ -11955,12 +11583,10 @@ use_preset_vocabulary: false
 幻贺	huan he	1
 翰联	han lian	1
 拜发	bai fa	1
-常念	chang nian	1
 赛氪	sai ke	1
 拔笋	ba sun	1
 植绿	zhi lv	1
 头龙	tou long	1
-永怀	yong huai	1
 北黑	bei hei	1
 顺玉	shun yu	1
 张极	zhang ji	1
@@ -11974,9 +11600,6 @@ use_preset_vocabulary: false
 嫌晚	xian wan	1
 来酷	lai ku	1
 西竹	xi zhu	1
-赞德	zan de	1
-巨镰	ju lian	1
-剑魄	jian po	1
 红瘦	hong shou	1
 盘友	pan you	1
 时影	shi ying	1
@@ -11994,14 +11617,12 @@ use_preset_vocabulary: false
 开蚌	kai bang	1
 图包	tu bao	1
 趣说	qu shuo	1
-力耕	li geng	1
 顾炎	gu yan	1
 拗九	niu jiu	1
 土大	tu da	1
 毒车	du che	1
 呛醒	qiang xing	1
 程戈	cheng ge	1
-铁兽	tie shou	1
 江忍	jiang ren	1
 血蛋	xue dan	1
 知苗	zhi miao	1
@@ -12010,7 +11631,6 @@ use_preset_vocabulary: false
 秦放	qin fang	1
 丁蟹	ding xie	1
 霞龙	xia long	1
-贾巴	jia ba	1
 鸡刀	ji dao	1
 田鳖	tian bie	1
 恨君	hen jun	1
@@ -12020,13 +11640,11 @@ use_preset_vocabulary: false
 法圣	fa sheng	1
 借月	jie yue	1
 温周	wen zhou	1
-冬梦	dong meng	1
 折竹	zhe zhu	1
 林鸣	lin ming	1
 舒婉	shu wan	1
 杂兴	za xing	1
 一魂	yi hun	1
-月计	yue ji	1
 走校	zou xiao	1
 会免	hui mian	1
 盾之	dun zhi	1
@@ -12034,30 +11652,24 @@ use_preset_vocabulary: false
 许妈	xu ma	1
 讨茶	tao cha	1
 让放	rang fang	1
-拜森	bai sen	1
 上译	shang yi	1
 墓王	mu wang	1
 兰奥	lan ao	1
 夏森	xia sen	1
 闪盾	shan dun	1
 探三	tan san	1
-肃肃	su su	1
-锦心	jin xin	1
 磕儿	ke er	1
 踩曲	cai qu	1
 春客	chun ke	1
 炮龙	pao long	1
 马娘	ma niang	1
 乌家	wu jia	1
-圈禁	quan jin	1
 亿轩	yi xuan	1
 千岩	qian yan	1
 林皇	lin huang	1
 肥鯮	fei zong	1
 黑闪	hei shan	1
 七哈	qi ha	1
-亚哈	ya ha	1
-染谷	ran gu	1
 二乃	er nai	1
 艾回	ai hui	1
 妖猫	yao mao	1
@@ -12075,29 +11687,23 @@ use_preset_vocabulary: false
 波刚	bo gang	1
 春饭	chun fan	1
 彩山	cai shan	1
-画桥	hua qiao	1
 我趣	wo qu	1
 耀杨	yao yang	1
-堕姬	duo ji	1
-哲宗	zhe zong	1
 夺完	duo wan	1
 达咩	da mie	1
 萬事如意	wan shi ru yi	1
 限放	xian fang	1
 送盆	song pen	1
-耐能	nai neng	1
 王序	wang xu	1
 宴宁	yan ning	1
 卡裆	ka dang	1
 野周	ye zhou	1
 六朵	liu duo	1
 楼晚	lou wan	1
-萨基	sa ji	1
 永随	yong sui	1
 萨吉	sa ji	1
 手码	shou ma	1
 带岁	dai sui	1
-大父	da fu	1
 硌掉	ge diao	1
 近门	jin men	1
 开分	kai fen	1
@@ -12105,12 +11711,9 @@ use_preset_vocabulary: false
 逛走	guang zou	1
 烧金	shao jin	1
 家神	jia shen	1
-贺辞	he ci	1
 拟真	ni zhen	1
 芋饺	yu jiao	1
-祖堂	zu tang	1
 暴帅	bao shuai	1
-止止	zhi zhi	1
 炸鞭	zha bian	1
 动筷	dong kuai	1
 家群	jia qun	1
@@ -12134,7 +11737,6 @@ use_preset_vocabulary: false
 增雨	zeng yu	1
 两话	liang hua	1
 买鞭	mai bian	1
-沈峤	shen qiao	1
 小菇	xiao gu	1
 油糍	you ci	1
 枣馍	zao mo	1
@@ -12155,11 +11757,9 @@ use_preset_vocabulary: false
 去沾	qu zhan	1
 央八	yang ba	1
 炮响	pao xiang	1
-柯尔	ke er	1
 集完	ji wan	1
 集到	ji dao	1
 供香	gong xiang	1
-布塔	bu ta	1
 啵比	bo bi	1
 沾走	zhan zou	1
 渡尘	du chen	1
@@ -12174,13 +11774,8 @@ use_preset_vocabulary: false
 百视	bai shi	1
 祺泽	qi ze	1
 转唯	zhuan wei	1
-龙鲤	long li	1
-熏醋	xun cu	1
-碰拳	peng quan	1
-乙骨	yi gu	1
 幻姬	huan ji	1
 少王	shao wang	1
-赤须	chi xu	1
 陆进	lu jin	1
 离莞	li guan	1
 律子	lv zi	1
@@ -12189,18 +11784,15 @@ use_preset_vocabulary: false
 路温	lu wen	1
 鹿首	lu shou	1
 匪匪	fei fei	1
-鱼灯	yu deng	1
 初普	chu pu	1
 夫赖	fu lai	1
 离蓉	li rong	1
 迎晨	ying chen	1
 四冠	si guan	1
 星权	xing quan	1
-休沐	xiu mu	1
 穷病	qiong bing	1
 威拉	wei la	1
 逐影	zhu ying	1
-下石	xia shi	1
 炽阳	chi yang	1
 书俊	shu jun	1
 墨茶	mo cha	1
@@ -12219,7 +11811,6 @@ use_preset_vocabulary: false
 关业	guan ye	1
 买貂	mai diao	1
 惠七	hui qi	1
-耳鼠	er shu	1
 挂冰	gua bing	1
 冰套	bing tao	1
 晒分	shai fen	1
@@ -12231,16 +11822,13 @@ use_preset_vocabulary: false
 留深	liu shen	1
 甩花	shuai hua	1
 牛转	niu zhuan	1
-九关	jiu guan	1
 减糖	jian tang	1
 蕾玖	lei jiu	1
 九吉	jiu ji	1
-洛根	luo gen	1
 春岁	chun sui	1
 有粮	you liang	1
 无职	wu zhi	1
 蜜拉	mi la	1
-青霄	qing xiao	1
 冷檬	leng meng	1
 粽邪	zong xie	1
 桑延	sang yan	1
@@ -12248,7 +11836,6 @@ use_preset_vocabulary: false
 新弄	xin nong	1
 无愁	wu chou	1
 大噶	da ga	1
-龙蜥	long xi	1
 刮飞	gua fei	1
 停园	ting yuan	1
 封园	feng yuan	1
@@ -12271,7 +11858,6 @@ use_preset_vocabulary: false
 帝火	di huo	1
 神盘	shen pan	1
 山队	shan dui	1
-欧斯	ou si	1
 攒底	cuan di	1
 王时	wang shi	1
 郑太	zheng tai	1
@@ -12282,25 +11868,20 @@ use_preset_vocabulary: false
 教能	jiao neng	1
 依宪	yi xian	1
 岷阳	min yang	1
-五例	wu li	1
 铠巨	kai ju	1
 辣斗辣	la dou la	1
 无额	wu e	1
-郭开	guo kai	1
 多辉	duo hui	1
 所期	suo qi	1
 岩王	yan wang	1
-双岩	shuang yan	1
 增户	zeng hu	1
 橘灯	ju deng	1
 锦麟	jin lin	1
 审丑	shen chou	1
 扛刀	kang dao	1
 护蛋	hu dan	1
-月壤	yue rang	1
 狗卷	gou juan	1
 辅热	fu re	1
-法夜	fa ye	1
 用盆	yong pen	1
 凌尚	ling shang	1
 渴血	ke xue	1
@@ -12309,15 +11890,12 @@ use_preset_vocabulary: false
 听冰	ting bing	1
 段一	duan yi	1
 喵斯	miao si	1
-椰羊	ye yang	1
 五哈	wu ha	1
 归终	gui zhong	1
 秒龙	miao long	1
 十校	shi xiao	1
 凿壁	zao bi	1
 划车	hua che	1
-虾王	xia wang	1
-星蚀	xing shi	1
 司藤	si teng	1
 抢酒	qiang jiu	1
 凑完	cou wan	1
@@ -12333,8 +11911,6 @@ use_preset_vocabulary: false
 泉信	quan xin	1
 送锅	song guo	1
 奈娃	nai wa	1
-借物	jie wu	1
-考亭	kao ting	1
 青簪	qing zan	1
 江代	jiang dai	1
 且问	qie wen	1
@@ -12353,7 +11929,6 @@ use_preset_vocabulary: false
 要凑	yao cou	1
 酵色	jiao se	1
 创四	chuang si	1
-龙团	long tuan	1
 四破	si po	1
 互一下	hu yi xia	1
 没塌	mei ta	1
@@ -12363,9 +11938,7 @@ use_preset_vocabulary: false
 幻定	huan ding	1
 楚淇	chu qi	1
 左虎	zuo hu	1
-巩昌	gong chang	1
 刘仙	liu xian	1
-奇货	qi huo	1
 抢付	qiang fu	1
 党管	dang guan	1
 奶枣	nai zao	1
@@ -12375,13 +11948,11 @@ use_preset_vocabulary: false
 因赛	yin sai	1
 寄挂	ji gua	1
 韦纳	wei na	1
-蓝管	lan guan	1
 雷本	lei ben	1
 火本	huo ben	1
 抢鞋	qiang xie	1
 木口	mu kou	1
 趣造	qu zao	1
-宿傩	su nuo	1
 逸侠	yi xia	1
 平雷	ping lei	1
 架狙	jia ju	1
@@ -12390,24 +11961,19 @@ use_preset_vocabulary: false
 小策	xiao ce	1
 投他	tou ta	1
 扫田	sao tian	1
-受击	shou ji	1
 少先	shao xian	1
 伏黑	fu hei	1
 龙叉	long cha	1
 点兔	dian tu	1
 三例	san li	1
 星演	xing yan	1
-吉巴	ji ba	1
 限宽	xian kuan	1
 邓罗	deng luo	1
 瑕光	xia guang	1
-击拳	ji quan	1
-摔车	shuai che	1
 风岩	feng yan	1
 蒙派	meng pai	1
 后谷	hou gu	1
 几命	ji ming	1
-磨爪	mo zhao	1
 麓丸	lu wan	1
 高命	gao ming	1
 讨龙	tao long	1
@@ -12417,12 +11983,10 @@ use_preset_vocabulary: false
 游京	you jing	1
 岩盾	yan dun	1
 恐鬼	kong gui	1
-挡灾	dang zai	1
 黑小	hei xiao	1
 灌风	guan feng	1
 五命	wu ming	1
 残蟹	can xie	1
-狼末	lang mo	1
 轻策	qing ce	1
 回战	hui zhan	1
 川皇	chuan huang	1
@@ -12450,7 +12014,6 @@ use_preset_vocabulary: false
 二试	er shi	1
 组评	zu ping	1
 会堵	hui du	1
-秋节	qiu jie	1
 润疆	run jiang	1
 男四	nan si	1
 零命	ling ming	1
@@ -12465,19 +12028,13 @@ use_preset_vocabulary: false
 风犬	feng quan	1
 六命	liu ming	1
 残香	can xiang	1
-霍得	huo de	1
 整杯	zheng bei	1
 啥梗	sha geng	1
 成灿	cheng can	1
-称象	cheng xiang	1
 绝巘	jue yan	1
 深境	shen jing	1
-秋深	qiu shen	1
-尚食	shang shi	1
-昭关	zhao guan	1
 椰宝	ye bao	1
 偷矿	tou kuang	1
-墨衣	mo yi	1
 岩神	yan shen	1
 胜仔	sheng zai	1
 灵龛	ling kan	1
@@ -12485,25 +12042,21 @@ use_preset_vocabulary: false
 害群	hai qun	1
 范茹	fan ru	1
 讨鬼	tao gui	1
-满命	man ming	1
 薄绿	bo lv	1
 盒娘	he niang	1
 齐德	qi de	1
 岩主	yan zhu	1
-归离	gui li	1
 试鸣	shi ming	1
 明昼	ming zhou	1
 女巴	nv ba	1
 夜幽	ye you	1
 措措	cuo cuo	1
 一非	yi fei	1
-神爽	shen shuang	1
 厚乳	hou ru	1
 误发	wu fa	1
 彩皮	cai pi	1
 充要	chong yao	1
 冉冰	ran bing	1
-三目	san mu	1
 挺省	ting sheng	1
 贺顿	he dun	1
 皆虚	jie xu	1
@@ -12511,7 +12064,6 @@ use_preset_vocabulary: false
 骑猎	qi lie	1
 裂穴	lie xue	1
 垂蔓	chui man	1
-定胜	ding sheng	1
 啡快	fei kuai	1
 皮宝	pi bao	1
 甩杆	shuai gan	1
@@ -12519,7 +12071,6 @@ use_preset_vocabulary: false
 三束	san shu	1
 江岛	jiang dao	1
 拽姐	zhuai jie	1
-制水	zhi shui	1
 郑栅洁	zheng shan jie	1
 抑癌	yi ai	1
 司星	si xing	1
@@ -12570,19 +12121,15 @@ use_preset_vocabulary: false
 咕呱	gu gua	1
 不寡	bu gua	1
 寡寡	gua gua	1
-诺姆	nuo mu	1
 左邓	zuo deng	1
 于贞	yu zhen	1
 只猴	zhi hou	1
 术力口	shu li kou	1
 升变	sheng bian	1
 叶索	ye suo	1
-李讷	li ne	1
 瞬切	shun qie	1
 紫菘	zi song	1
-周妃	zhou fei	1
 之蓝	zhi lan	1
-四七	si qi	1
 赌完	du wan	1
 耀云	yao yun	1
 排浊	pai zhuo	1
@@ -12592,14 +12139,11 @@ use_preset_vocabulary: false
 雷八	lei ba	1
 猛一	meng yi	1
 扣响	kou xiang	1
-丹元	dan yuan	1
-满金	man jin	1
 院群	yuan qun	1
 火土	huo tu	1
 凉屋	liang wu	1
 锦灯	jin deng	1
 吹翻	chui fan	1
-扶伤	fu shang	1
 空屏	kong ping	1
 朝地	chao di	1
 庄北	zhuang bei	1
@@ -12608,22 +12152,18 @@ use_preset_vocabulary: false
 发烂	fa lan	1
 黑巧	hei qiao	1
 坠兔	zhui tu	1
-反追	fan zhui	1
 院院	yuan yuan	1
 卢仙	lu xian	1
 许爱	xu ai	1
 鹿梦	lu meng	1
 代选	dai xuan	1
-文替	wen ti	1
 光高	guang gao	1
 漫野	man ye	1
-路辰	lu chen	1
 白斗	bai dou	1
 焕峰	huan feng	1
 寮群	liao qun	1
 十冠	shi guan	1
 童缘	tong yuan	1
-肉腿	rou tui	1
 妙享	miao xiang	1
 叶瑄	ye xuan	1
 司岚	si lan	1
@@ -12634,15 +12174,11 @@ use_preset_vocabulary: false
 狙王	ju wang	1
 枪匠	qiang jiang	1
 猫萌	mao meng	1
-护网	hu wang	1
 离柜	li gui	1
-雪拉	xue la	1
 问策	wen ce	1
 怒鬼	nu gui	1
-三阵	san zhen	1
 姬圈	ji quan	1
 风浔	feng xun	1
-紫狐	zi hu	1
 佛中	fo zhong	1
 炫石	xuan shi	1
 内强	nei qiang	1
@@ -12654,13 +12190,11 @@ use_preset_vocabulary: false
 爆眼	bao yan	1
 两罚	liang fa	1
 宫漫	gong man	1
-百六	bai liu	1
 司凤	si feng	1
 晚宁	wan ning	1
 溪降	xi jiang	1
 福登	fu deng	1
 杨汉	yang han	1
-岭口	ling kou	1
 送喜	song xi	1
 曲一	qu yi	1
 丧曲	sang qu	1
@@ -12676,22 +12210,17 @@ use_preset_vocabulary: false
 看秀	kan xiu	1
 助听	zhu ting	1
 恩中	en zhong	1
-正蒙	zheng meng	1
 粉斗	fen dou	1
 黑斗	hei dou	1
 砸球	za qiu	1
-斗球	dou qiu	1
 狂情	kuang qing	1
 禾野	he ye	1
-魂瓶	hun ping	1
 泽沐	ze mu	1
 子仓	zi cang	1
-去疾	qu ji	1
 偷分	tou fen	1
 曜仔	yao zai	1
 歪脸	wai lian	1
 吹坏	chui huai	1
-开八	kai ba	1
 吹醒	chui xing	1
 古多	gu duo	1
 二实	er shi	1
@@ -12741,17 +12270,14 @@ use_preset_vocabulary: false
 昆一	kun yi	1
 栾中	luan zhong	1
 觅渡	mi du	1
-火行	huo xing	1
 林黄	lin huang	1
 于途	yu tu	1
 平番	ping fan	1
 格睿	ge rui	1
-超炸	chao zha	1
 杭医	hang yi	1
 浓绀	nong gan	1
 空台	kong tai	1
 二西	er xi	1
-宁人	ning ren	1
 紘爱	hong ai	1
 逛展	guang zhan	1
 太悬	tai xuan	1
@@ -12794,7 +12320,6 @@ use_preset_vocabulary: false
 下保	xia bao	1
 稀音	xi yin	1
 绵外	mian wai	1
-连拿	lian na	1
 思危	si wei	1
 放闸	fang zha	1
 周寻	zhou xun	1
@@ -12802,7 +12327,6 @@ use_preset_vocabulary: false
 邓发	deng fa	1
 呲个大牙	ci ge da ya	1
 摊宣	tan xuan	1
-千村	qian cun	1
 派河	pai he	1
 卖爆	mai bao	1
 分角	fen jiao	1
@@ -12817,8 +12341,6 @@ use_preset_vocabulary: false
 松间	song jian	1
 肌因	ji yin	1
 剪烂	jian lan	1
-极海	ji hai	1
-织娘	zhi niang	1
 恩娇	en jiao	1
 宇崎	yu qi	1
 优营	you ying	1
@@ -12842,14 +12364,11 @@ use_preset_vocabulary: false
 如磐	ru pan	1
 要漂	yao piao	1
 牛汤	niu tang	1
-冥龙	ming long	1
 去染	qu ran	1
 没撕	mei si	1
 要染	yao ran	1
 只错	zhi cuo	1
 煌黑	huang hei	1
-禁阁	jin ge	1
-霞谷	xia gu	1
 晨岛	chen dao	1
 遇境	yu jing	1
 青雄	qing xiong	1
@@ -12861,13 +12380,11 @@ use_preset_vocabulary: false
 少考	shao kao	1
 坠河	zhui he	1
 求高	qiu gao	1
-跑输	pao shu	1
 垫本	dian ben	1
 捡鱼	jian yu	1
 淹掉	yan diao	1
 狂娜	kuang na	1
 木鬼	mu gui	1
-毒岛	du dao	1
 团舞	tuan wu	1
 强捧	qiang peng	1
 瓜王	gua wang	1
@@ -12875,13 +12392,11 @@ use_preset_vocabulary: false
 七高	qi gao	1
 奶希	nai xi	1
 土到	tu dao	1
-前七	qian qi	1
 城峰	cheng feng	1
 效实	xiao shi	1
 阴后	yin hou	1
 源数	yuan shu	1
 所信	suo xin	1
-行远	xing yuan	1
 莫衡	mo heng	1
 花不拉几	hua bu la ji	1
 亚叶	ya ye	1
@@ -12889,11 +12404,9 @@ use_preset_vocabulary: false
 蛇獴	she meng	1
 尸臭	shi chou	1
 欧萱	ou xuan	1
-妙具	miao ju	1
 划坏	hua huai	1
 小叙	xiao xu	1
 隋岸	sui an	1
-巧心	qiao xin	1
 鹅爹	e die	1
 有驾	you jia	1
 粽情	zong qing	1
@@ -12907,26 +12420,22 @@ use_preset_vocabulary: false
 官摄	guan she	1
 漏米	lou mi	1
 小侨	xiao qiao	1
-金审	jin shen	1
 希璇	xi xuan	1
 划区	hua qu	1
 食月	shi yue	1
 三菌	san jun	1
-身强	shen qiang	1
 白南	bai nan	1
 秘客	mi ke	1
 摸背	mo bei	1
 烈夏	lie xia	1
 洗肉	xi rou	1
 储汇	chu hui	1
-圣刃	sheng ren	1
 川考	chuan kao	1
 蛇灵	she ling	1
 院选	yuan xuan	1
 火国	huo guo	1
 现点	xian dian	1
 孽杀	nie sha	1
-缺碘	que dian	1
 拼组	pin zu	1
 开炸	kai zha	1
 不是叭	bu shi ba	1
@@ -12934,7 +12443,6 @@ use_preset_vocabulary: false
 良俗	liang su	1
 屯菜	tun cai	1
 进菜	jin cai	1
-千世	qian shi	1
 三专	san zhuan	1
 幻塔	huan ta	1
 匠木	jiang mu	1
@@ -12950,13 +12458,11 @@ use_preset_vocabulary: false
 渡美	du mei	1
 炸区	zha qu	1
 织密	zhi mi	1
-恐魔	kong mo	1
 手伤	shou shang	1
 夜摊	ye tan	1
 魔驴	mo lv	1
 快乐呦	kuai le you	1
 退旗	tui qi	1
-林石	lin shi	1
 神价	shen jia	1
 呆驼	dai tuo	1
 皆甜	jie tian	1
@@ -12977,10 +12483,7 @@ use_preset_vocabulary: false
 垫音	dian yin	1
 卡九	ka jiu	1
 非裔	fei yi	1
-电次	dian ci	1
-铠侠	kai xia	1
 酸糖	suan tang	1
-响子	xiang zi	1
 首甲	shou jia	1
 问姐	wen jie	1
 姬霓太美	ji ni tai mei	1
@@ -13010,7 +12513,6 @@ use_preset_vocabulary: false
 寒池	han chi	1
 送金	song jin	1
 淬灵	cui ling	1
-星武	xing wu	1
 金贴	jin tie	1
 互心	hu xin	1
 情皮	qing pi	1
@@ -13042,7 +12544,6 @@ use_preset_vocabulary: false
 抖人	dou ren	1
 韩专	han zhuan	1
 四市	si shi	1
-中秘	zhong mi	1
 印签	yin qian	1
 装瘸	zhuang que	1
 强基	qiang ji	1
@@ -13052,19 +12553,14 @@ use_preset_vocabulary: false
 祖兰	zu lan	1
 球皇	qiu huang	1
 镜水	jing shui	1
-拦门	lan men	1
 非热	fei re	1
-春决	chun jue	1
 大不溜	da bu liu	1
 四为	si wei	1
 契子	qi zi	1
 渔寮	yu liao	1
 六关	liu guan	1
-三跑	san pao	1
 晒海	shai hai	1
 跳棍	tiao gun	1
-凤皇	feng huang	1
-雾山	wu shan	1
 赵棠	zhao tang	1
 豫团	yu tuan	1
 红蔓	hong man	1
@@ -13078,13 +12574,10 @@ use_preset_vocabulary: false
 颇颇	po po	1
 宁蒂	ning di	1
 梓渝	zi yu	1
-格文	ge wen	1
-端王	duan wang	1
 酸科	suan ke	1
 出市	chu shi	1
 囬气	hui qi	1
 赤海	chi hai	1
-月尘	yue chen	1
 快如	kuai ru	1
 割肝	ge gan	1
 葵虎	kui hu	1
@@ -13092,7 +12585,6 @@ use_preset_vocabulary: false
 瓦龙	wa long	1
 鞋王	xie wang	1
 智虫	zhi chong	1
-童眼	tong yan	1
 七皇	qi huang	1
 散爆	san bao	1
 收胯	shou kua	1
@@ -13130,7 +12622,6 @@ use_preset_vocabulary: false
 土姐	tu jie	1
 越牛	yue niu	1
 厨二病	chu er bing	1
-借粮	jie liang	1
 免排	mian pai	1
 援非	yuan fei	1
 五强	wu qiang	1
@@ -13141,11 +12632,9 @@ use_preset_vocabulary: false
 鲨凋	sha diao	1
 氪条	ke tiao	1
 板仔	ban zai	1
-狱火	yu huo	1
 围读	wei du	1
 唯三	wei san	1
 茄茄	qie qie	1
-象群	xiang qun	1
 幼宁	you ning	1
 先更	xian geng	1
 边坦	bian tan	1
@@ -13154,15 +12643,11 @@ use_preset_vocabulary: false
 黑漫	hei man	1
 幻书	huan shu	1
 多熬	duo ao	1
-森巴	sen ba	1
-莲生	lian sheng	1
 水弩	shui nu	1
 无疫	wu yi	1
-岩柱	yan zhu	1
 蛇柱	she zhu	1
 果州	guo zhou	1
 泳动	yong dong	1
-申清	shen qing	1
 多仔	duo zai	1
 花合	hua he	1
 艾芬	ai fen	1
@@ -13171,7 +12656,6 @@ use_preset_vocabulary: false
 善女	shan nv	1
 乱魂	luan hun	1
 戎狄	rong di	1
-麻浦	ma pu	1
 暖企	nuan qi	1
 乱魄	luan po	1
 邓柯	deng ke	1
@@ -13183,13 +12667,11 @@ use_preset_vocabulary: false
 宝嫂	bao sao	1
 钴业	gu ye	1
 陶伦	tao lun	1
-策勋	ce xun	1
 冉颜	ran yan	1
 许洛	xu luo	1
 温枪	wen qiang	1
 项店	xiang dian	1
 温冬	wen dong	1
-米德	mi de	1
 娜诺	na nuo	1
 孙同	sun tong	1
 托鲸	tuo jing	1
@@ -13198,15 +12680,11 @@ use_preset_vocabulary: false
 周期率	zhou qi lv	1
 离汉	li han	1
 锁城	suo cheng	1
-青野	qing ye	1
-朱安	zhu an	1
-河妖	he yao	1
 悬日	xuan ri	1
 麦飞	mai fei	1
 幻抗	huan kang	1
 腌蒜	yan suan	1
 润香	run xiang	1
-沈重	shen zhong	1
 火评	huo ping	1
 余堂	yu tang	1
 绣园	xiu yuan	1
@@ -13233,8 +12711,6 @@ use_preset_vocabulary: false
 团专	tuan zhuan	1
 开捕	kai bu	1
 袁莱	yuan lai	1
-森蚺	sen ran	1
-戳脸	chuo lian	1
 田铺	tian pu	1
 虚淮	xu huai	1
 李蕙	li hui	1
@@ -13242,7 +12718,6 @@ use_preset_vocabulary: false
 手皮	shou pi	1
 恋柱	lian zhu	1
 夏决	xia jue	1
-周均	zhou jun	1
 复推	fu tui	1
 媚粉	mei fen	1
 违体	wei ti	1
@@ -13252,12 +12727,10 @@ use_preset_vocabulary: false
 柯比	ke bi	1
 媚宅	mei zhai	1
 博肖	bo xiao	1
-六枪	liu qiang	1
 耿达	geng da	1
 海囚	hai qiu	1
 蝉男	chan nan	1
 幼杀	you sha	1
-平跑	ping pao	1
 轧戏	ya xi	1
 林澜	lin lan	1
 獾院	huan yuan	1
@@ -13282,7 +12755,6 @@ use_preset_vocabulary: false
 互鉴	hu jian	1
 科本	ke ben	1
 姚麦	yao mai	1
-玉狐	yu hu	1
 蹦豆	beng dou	1
 老骚	lao sao	1
 陈旗	chen qi	1
@@ -13291,10 +12763,6 @@ use_preset_vocabulary: false
 知南	zhi nan	1
 考儿	kao er	1
 停胎	ting tai	1
-苏护	su hu	1
-瑟奇	se qi	1
-养草	yang cao	1
-樱田	ying tian	1
 郭道	guo dao	1
 武吹	wu chui	1
 控窑	kong yao	1
@@ -13309,14 +12777,12 @@ use_preset_vocabulary: false
 麦川	mai chuan	1
 池震	chi zhen	1
 仲怀	zhong huai	1
-袁木	yuan mu	1
 考程	kao cheng	1
 孙璟	sun jing	1
 树油	shu you	1
 郭曲	guo qu	1
 猫音	mao yin	1
 哈迷	ha mi	1
-傲罗	ao luo	1
 板障山	ban zhang shan	1
 璐璇	lu xuan	1
 逆练	ni lian	1
@@ -13334,22 +12800,15 @@ use_preset_vocabulary: false
 闵静	min jing	1
 斋祀	zhai si	1
 舌害	she hai	1
-静山	jing shan	1
 霸座	ba zuo	1
-杨好	yang hao	1
 浪灯	lang deng	1
 霓光	ni guang	1
 酷本	ku ben	1
-地官	di guan	1
 周疃	zhou tuan	1
 肯豆	ken dou	1
 聚看	ju kan	1
 刘丧	liu sang	1
-梁湾	liang wan	1
-喊山	han shan	1
-永琮	yong cong	1
 桂雅	gui ya	1
-邪武	xie wu	1
 辩位	bian wei	1
 张非	zhang fei	1
 斋叔	zhai shu	1
@@ -13363,8 +12822,6 @@ use_preset_vocabulary: false
 妈木	ma mu	1
 炫宝	xuan bao	1
 正善	zheng shan	1
-玛莉亚	ma li ya	1
-铁娃	tie wa	1
 沙庙	sha miao	1
 拼婚	pin hun	1
 勇蜜	yong mi	1
@@ -13375,15 +12832,10 @@ use_preset_vocabulary: false
 毕冉	bi ran	1
 野肆	ye si	1
 伍隍	wu huang	1
-素书	su shu	1
-柏海	bai hai	1
 平球	ping qiu	1
 赌仔	du zai	1
-伊姆	yi mu	1
-恩克	en ke	1
 好游	hao you	1
 福丸	fu wan	1
-对食	dui shi	1
 斗腕	dou wan	1
 逃逃	tao tao	1
 避台	bi tai	1
@@ -13395,9 +12847,7 @@ use_preset_vocabulary: false
 溪云	xi yun	1
 促睾	cu gao	1
 乐潮	le chao	1
-中币	zhong bi	1
 快皇	kuai huang	1
-迎福	ying fu	1
 罪途	zui tu	1
 李濛	li meng	1
 萌犬	meng quan	1
@@ -13405,7 +12855,6 @@ use_preset_vocabulary: false
 象帕	xiang pa	1
 喜中	xi zhong	1
 流夏	liu xia	1
-三冰	san bing	1
 桐中	tong zhong	1
 拟录	ni lu	1
 晁然	chao ran	1
@@ -13413,14 +12862,11 @@ use_preset_vocabulary: false
 悦未来	yue wei lai	1
 惠邻	hui lin	1
 美货	mei huo	1
-嘉名	jia ming	1
 仙穹	xian qiong	1
 魏锐	wei rui	1
 娜俊	na jun	1
 金弦	jin xian	1
 慕沙	mu sha	1
-濮水	pu shui	1
-赤口	chi kou	1
 杏梨	xing li	1
 家堂	jia tang	1
 乡坝	xiang ba	1
@@ -13428,7 +12874,6 @@ use_preset_vocabulary: false
 发纸	fa zhi	1
 满品	man pin	1
 毒泉	du quan	1
-田朴珺	tian pu jun	1
 边大	bian da	1
 诺巴	nuo ba	1
 抱对	bao dui	1
@@ -13439,7 +12884,6 @@ use_preset_vocabulary: false
 稀稠	xi chou	1
 赝作	yan zuo	1
 龚克	gong ke	1
-光灵	guang ling	1
 狂年	kuang nian	1
 戴正	dai zheng	1
 冀星	ji xing	1
@@ -13447,12 +12891,10 @@ use_preset_vocabulary: false
 惊云	jing yun	1
 二民	er min	1
 张迟	zhang chi	1
-喵王	miao wang	1
 奴良	nu liang	1
 加朵	jia duo	1
 奥恰	ao qia	1
 外柜	wai gui	1
-玄苍	xuan cang	1
 密盾	mi dun	1
 渡人	du ren	1
 少囧	shao jiong	1
@@ -13471,17 +12913,13 @@ use_preset_vocabulary: false
 狄公	di gong	1
 展茅	zhan mao	1
 神度	shen du	1
-秦颂	qin song	1
-石黑	shi hei	1
 应节	ying jie	1
 正酒	zheng jiu	1
 中切	zhong qie	1
 歌头	ge tou	1
 美棠	mei tang	1
-韦斯	wei si	1
 豪雪	hao xue	1
 控枪	kong qiang	1
-烈爱	lie ai	1
 怀先	huai xian	1
 加衣	jia yi	1
 代吃	dai chi	1
@@ -13494,7 +12932,6 @@ use_preset_vocabulary: false
 哈卷	ha juan	1
 玛娃	ma wa	1
 穿盾	chuan dun	1
-蓬山	peng shan	1
 黑爹	hei die	1
 邵元	shao yuan	1
 董群	dong qun	1
@@ -13519,13 +12956,11 @@ use_preset_vocabulary: false
 抢码	qiang ma	1
 优劲	you jin	1
 塔坨	ta tuo	1
-诡事	gui shi	1
 万市	wan shi	1
 陆中	lu zhong	1
 趟河	tang he	1
 省线	sheng xian	1
 魄狙	po ju	1
-入谷	ru gu	1
 学勉	xue mian	1
 蒙题	meng ti	1
 禁考	jin kao	1
@@ -13552,7 +12987,6 @@ use_preset_vocabulary: false
 布鸽	bu ge	1
 米六	mi liu	1
 外战	wai zhan	1
-深城	shen cheng	1
 葬爷	zang ye	1
 灰马	hui ma	1
 前点	qian dian	1
@@ -13579,7 +13013,6 @@ use_preset_vocabulary: false
 癫癫	dian dian	1
 吞酒	tun jiu	1
 摸秋	mo qiu	1
-引玉	yin yu	1
 书膜	shu mo	1
 辰乐	chen le	1
 柴豆	chai dou	1
@@ -13591,7 +13024,6 @@ use_preset_vocabulary: false
 轮行	lun xing	1
 包更	bao geng	1
 查白	cha bai	1
-武公	wu gong	1
 茵梦	yin meng	1
 顶胯	ding kua	1
 炸桥	zha qiao	1
@@ -13600,7 +13032,6 @@ use_preset_vocabulary: false
 双陈	shuang chen	1
 烁金	shuo jin	1
 紫圈	zi quan	1
-冬病	dong bing	1
 濯港	zhuo gang	1
 深囧	shen jiong	1
 罪木	zui mu	1
@@ -13627,8 +13058,6 @@ use_preset_vocabulary: false
 铸星	zhu xing	1
 春浪	chun lang	1
 狐兔	hu tu	1
-库西	ku xi	1
-楚青	chu qing	1
 拜公	bai gong	1
 巴打	ba da	1
 娄清	lou qing	1
@@ -13638,4 +13067,3 @@ use_preset_vocabulary: false
 梁茵	liang yin	1
 狗善	gou shan	1
 泽善	ze shan	1
-冰璃	bing li	1
