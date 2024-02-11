@@ -1,15 +1,127 @@
 ---
 name: sogou_popular
-version: "2024.02.06"
+version: "2024.02.11"
 sort: by_weight
 use_preset_vocabulary: false
 ...
 
+冥火大公	ming huo da gong	1
+钟表小子	zhong biao xiao zi	1
+中基健康	zhong ji jian kang	1
+圆吧	yuan ba	1
+原叶鲜萃	yuan ye xian cui	1
+遗忘之水	yi wang zhi shui	1
+姓铁	xing tie	1
+星穹铁道黄泉	xing qiong tie dao huang quan	1
+小龙糕	xiao long gao	1
+现实点讲	xian shi dian jiang	1
+无名客	wu ming ke	1
+我嘞乖	wo le guai	1
+我想追你嘛	wo xiang zhui ni ma	1
+我福了	wo fu le	1
+微盘股	wei pan gu	1
+王下一桶	wang xia yi tong	1
+王楚淇	wang chu qi	1
+踢满	ti man	1
+糖环	tang huan	1
+她真好看	ta zhen hao kan	1
+送十连	song shi lian	1
+双快活	shuang kuai huo	1
+栓栓	shuan shuan	1
+使一颗心	shi yi ke xin	1
+时之魔女	shi zhi mo nv	1
+生稀盐酸	sheng xi yan suan	1
+曲木铁古木	qu mu tie gu mu	1
+潜光君	qian guang jun	1
+匹诺康尼	pi nuo kang ni	1
+逆境之王	ni jing zhi wang	1
+梅粉	mei fen	1
+麻安	ma an	1
+骆明	luo ming	1
+罗迷	luo mi	1
+罗粉	luo fen	1
+龙年暴富	long nian bao fu	1
+流荧	liu ying	1
+老桑博	lao sang bo	1
+扣税了	kou shui le	1
+卡萨皮亚	ka sa pi ya	1
+就除夕	jiu chu xi	1
+好运齐来	hao yun qi lai	1
+国际邮	guo ji you	1
+闺蜜夫	gui mi fu	1
+广坤叔	guang kun shu	1
+刚炸出来	gang zha chu lai	1
+风月不相关	feng yue bu xiang guan	1
+发发乐	fa fa le	1
+多里亚	duo li ya	1
+搓大澡	cuo da zao	1
+仇晓飞	qiu xiao fei	1
+抽花火	chou hua huo	1
+冲树	chong shu	1
+鼻噶	bi ga	1
+北芭	bei ba	1
+伴身皮	ban shen pi	1
+勥烎菿奣	jiang yin dao weng	1
+硌応	ge ying	1
+冥绝村	ming jue cun	1
+砸龙蛋	za long dan	1
+一亿杯	yi yi bei	1
+雪沙子	xue sha zi	1
+雪没化	xue mei hua	1
+续章	xu zhang	1
+星之环	xing zhi huan	1
+笑到啦	xiao dao la	1
+小宝茶	xiao bao cha	1
+小包茶	xiao bao cha	1
+问神	wen shen	1
+王者小宝茶	wang zhe xiao bao cha	1
+通类	tong lei	1
+甜米	tian mi	1
+天龙祈愿	tian long qi yuan	1
+瘦普	shou pu	1
+授她以柄	shou ta yi bing	1
+十注	shi zhu	1
+人魅	ren mei	1
+千载织心	qian zai zhi xin	1
+千股跌停了	qian gu die ting le	1
+齐百草	qi bai cao	1
+酿酿酱酱	niang niang jiang jiang	1
+陌域	mo yu	1
+魔鬼蛋	mo gui dan	1
+霉霉姐	mei mei jie	1
+龙舞九天	long wu jiu tian	1
+龙头菜	long tou cai	1
+龙符咒	long fu zhou	1
+龙鹅	long e	1
+流专	liu zhuan	1
+拉雪	la xue	1
+控黑	kong hei	1
+荆岳大桥	jing yue da qiao	1
+金刚串	jin gang chuan	1
+化化雪	hua hua xue	1
+化化冻	hua hua dong	1
+化得快	hua de kuai	1
+咕咕盒	gu gu he	1
+割年肉	ge nian rou	1
+高速通了	gao su tong le	1
+福气加倍	fu qi jia bei	1
+厄兽	e shou	1
+都通了	dou tong le	1
+都化	dou hua	1
+蛋仔圈	dan zai quan	1
+大展龙图	da zhan long tu	1
+大名誉	da ming yu	1
+锄雪	chu xue	1
+初几头	chu ji tou	1
+长票	chang piao	1
+长庚伴月	chang geng ban yue	1
+不铲雪	bu chan xue	1
+北往	bei wang	1
+包包入侵	bao bao ru qin	1
 岱黄	dai huang	1
 装到啦	zhuang dao la	1
 滞留了	zhi liu le	1
 郑启泰	zheng qi tai	1
-这大的雪	zhe da de xue	1
 张哲华	zhang zhe hua	1
 咋躲	za duo	1
 怎么躲	zen me duo	1
@@ -47,7 +159,6 @@ use_preset_vocabulary: false
 就没雪	jiu mei xue	1
 九紫离火运	jiu zi li huo yun	1
 今天打春	jin tian da chun	1
-甲辰龙年	jia chen long nian	1
 吉牛史约	ji niu shi yue	1
 基诺内斯	ji nuo nei si	1
 婚奴	hun nu	1
@@ -76,17 +187,14 @@ use_preset_vocabulary: false
 打春啦	da chun la	1
 打春鸡	da chun ji	1
 春与人宜	chun yu ren yi	1
-吃春饼了吗	chi chun bing le ma	1
 潮水啊	chao shui a	1
 铲不完	chan bu wan	1
 草木知	cao mu zhi	1
-不用躲	bu yong duo	1
 不躲春	bu duo chun	1
 不保单	bu bao dan	1
 斌田	bin tian	1
 被雪	bei xue	1
 扒雪	ba xue	1
-阿萨塔	a sa ta	1
 佐子	zuo zi	1
 祖人	zu ren	1
 子亦	zi yi	1
@@ -288,7 +396,6 @@ use_preset_vocabulary: false
 点龙灯	dian long deng	1
 第几枚	di ji mei	1
 苍澜关羽	cang lan guan yu	1
-暴富卡	bao fu ka	1
 搬位	ban wei	1
 敖隐	ao yin	1
 沐夜	mu ye	1
@@ -443,7 +550,6 @@ use_preset_vocabulary: false
 堆雪娃娃	dui xue wa wa	1
 堆起了	dui qi le	1
 成都的雪	cheng du de xue	1
-奥利文	ao li wen	1
 庄远	zhuang yuan	1
 钟鼎寺	zhong ding si	1
 中蒜	zhong suan	1
@@ -491,7 +597,6 @@ use_preset_vocabulary: false
 大姆山	da mu shan	1
 出大太阳了	chu da tai yang le	1
 陈红强	chen hong qiang	1
-不仁义的	bu ren yi de	1
 不亲昵	bu qin ni	1
 不及黄泉	bu ji huang quan	1
 边邑	bian yi	1
@@ -499,7 +604,6 @@ use_preset_vocabulary: false
 安可场	an ke chang	1
 阿费夫	a fei fu	1
 阿菲夫	a fei fu	1
-砖了个砖	zhuan le ge zhuan	1
 云海鹿	yun hai lu	1
 豫答豫勇	yu da yu yong	1
 要冻掉了	yao dong diao le	1
@@ -524,7 +628,6 @@ use_preset_vocabulary: false
 如纱	ru sha	1
 掐脖	qia bo	1
 铺不起来	pu bu qi lai	1
-帕鲁球	pa lu qiu	1
 棉悠悠	mian you you	1
 米头雪	mi tou xue	1
 梦秀	meng xiu	1
@@ -652,7 +755,6 @@ use_preset_vocabulary: false
 别馋	bie chan	1
 扁络桓	bian luo huan	1
 暴富鸡块	bao fu ji kuai	1
-宝石矿工	bao shi kuang gong	1
 白小莹	bai xiao ying	1
 爱露	ai lu	1
 阿纸	a zhi	1
@@ -799,7 +901,6 @@ use_preset_vocabulary: false
 画平生	hua ping sheng	1
 风暴狂涌	feng bao kuang yong	1
 二塑	er su	1
-抽杯子	chou bei zi	1
 陈母问勇	chen mu wen yong	1
 白亚光	bai ya guang	1
 作弊姐	zuo bi jie	1
@@ -884,7 +985,6 @@ use_preset_vocabulary: false
 杜红根	du hong gen	1
 蛋爆	dan bao	1
 大摸底	da mo di	1
-葱省	cong sheng	1
 超强潮汐架构	chao qiang chao xi jia gou	1
 褚渊落水	chu yuan luo shui	1
 璨光	can guang	1
@@ -1130,7 +1230,6 @@ use_preset_vocabulary: false
 灯门	deng men	1
 春粉	chun fen	1
 抽蛋	chou dan	1
-抽彩蛋	chou cai dan	1
 妍珍呐	yan zhen na	1
 真爱试炼	zhen ai shi lian	1
 詹杜库	zhan du ku	1
@@ -1381,7 +1480,6 @@ use_preset_vocabulary: false
 床晃	chuang huang	1
 沉玉谷	chen yu gu	1
 藏睡	cang shui	1
-不震了	bu zhen le	1
 不摇了	bu yao le	1
 不晃了	bu huang le	1
 鳖盖	bie gai	1
@@ -1970,7 +2068,6 @@ use_preset_vocabulary: false
 二费卡	er fei ka	1
 二费	er fei	1
 堆友	dui you	1
-不折分	bu zhe fen	1
 伴风	ban feng	1
 婵宝	chan bao	1
 羊肉美食节	yang rou mei shi jie	1
@@ -3458,7 +3555,6 @@ use_preset_vocabulary: false
 钻爸钻妈的一家	zuan ba zuan ma de yi jia	1
 钻爸	zuan ba	1
 自御力	zi yu li	1
-这八天	zhe ba tian	1
 粤饼	yue bing	1
 香包节	xiang bao jie	1
 舞乐	wu le	1
@@ -3538,7 +3634,6 @@ use_preset_vocabulary: false
 爱达未来	ai da wei lai	1
 铉辰	xuan chen	1
 睿蓝	rui lan	1
-重拾快乐	chong shi kuai le	1
 真藏实窖	zhen cang shi jiao	1
 摘袋	zhai dai	1
 栽蒜	zai suan	1
@@ -3930,7 +4025,6 @@ use_preset_vocabulary: false
 大家的祝福	da jia de zhu fu	1
 答题有礼	da ti you li	1
 传剪器	chuan jian qi	1
-巴黎见	ba li jian	1
 自动调	zi dong tiao	1
 云之徵	yun zhi zhi	1
 御巫	yu wu	1
@@ -5635,7 +5729,6 @@ use_preset_vocabulary: false
 安徽二建	an hui er jian	1
 尊嘟	zun du	1
 朱冰楚	zhu bing chu	1
-重生版	chong sheng ban	1
 中门寺	zhong men si	1
 郑光泉	zheng guang quan	1
 郑光	zheng guang	1
@@ -6589,7 +6682,6 @@ use_preset_vocabulary: false
 初入职场的我们	chu ru zhi chang de wo men	1
 出录取结果了	chu lu qu jie guo le	1
 抽符玄	chou fu xuan	1
-抽爆	chou bao	1
 池州公安	chi zhou gong an	1
 尝在围中	chang zai wei zhong	1
 茶言	cha yan	1
@@ -6619,7 +6711,6 @@ use_preset_vocabulary: false
 艾绰	ai chuo	1
 阿多丸	a duo wan	1
 昨夜书	zuo ye shu	1
-自由之声	zi you zhi sheng	1
 子江	zi jiang	1
 淄博职业	zi bo zhi ye	1
 追光的日子	zhui guang de ri zi	1
@@ -7438,7 +7529,6 @@ use_preset_vocabulary: false
 酒醒的蝴蝶	jiu xing de hu die	1
 九尾加油	jiu wei jia you	1
 金建成	jin jian cheng	1
-今晚台风	jin wan tai feng	1
 杰伦日	jie lun ri	1
 姜野	jiang ye	1
 江西教育电视台	jiang xi jiao yu dian shi tai	1
@@ -8349,7 +8439,6 @@ use_preset_vocabulary: false
 坤土	kun tu	1
 恐男了	kong nan le	1
 九州风雷	jiu zhou feng lei	1
-今晚不加班	jin wan bu jia ban	1
 今年太难了	jin nian tai nan le	1
 江西信息	jiang xi xin xi	1
 江西青年	jiang xi qing nian	1
@@ -9081,7 +9170,6 @@ use_preset_vocabulary: false
 还歪	hai wai	1
 很非	hen fei	1
 国神	guo shen	1
-抽呗	chou bei	1
 不欧	bu ou	1
 早接	zao jie	1
 店休	dian xiu	1
@@ -9329,7 +9417,6 @@ use_preset_vocabulary: false
 花津	hua jin	1
 外返	wai fan	1
 声谷	sheng gu	1
-脑雾	nao wu	1
 冰缘	bing yuan	1
 换站	huan zhan	1
 韩区	han qu	1
