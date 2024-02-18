@@ -1,6 +1,6 @@
 ---
 name: sogou_popular
-version: "2024.02.11"
+version: "2024.02.18"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -434,7 +434,6 @@ use_preset_vocabulary: false
 菜菜菜	cai cai cai	1
 财运福	cai yun fu	1
 拔酸	ba suan	1
-拔伞	ba san	1
 安木拉	an mu la	1
 做完席	zuo wan xi	1
 召集券	zhao ji quan	1
@@ -600,7 +599,6 @@ use_preset_vocabulary: false
 不亲昵	bu qin ni	1
 不及黄泉	bu ji huang quan	1
 边邑	bian yi	1
-巴萨姆	ba sa mu	1
 安可场	an ke chang	1
 阿费夫	a fei fu	1
 阿菲夫	a fei fu	1
@@ -6404,7 +6402,6 @@ use_preset_vocabulary: false
 必有票	bi you piao	1
 比亚迪法务部	bi ya di fa wu bu	1
 巴王超过	ba wang chao guo	1
-巴日和	ba ri he	1
 傲夜	ao ye	1
 暗黑之猫	an hei zhi mao	1
 爱在马赛	ai zai ma sai	1
