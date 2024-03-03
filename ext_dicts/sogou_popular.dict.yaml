@@ -1,10 +1,214 @@
 ---
 name: sogou_popular
-version: "2024.02.25"
+version: "2024.03.03"
 sort: by_weight
 use_preset_vocabulary: false
 ...
 
+莞儿	guan er	1
+治愈所有	zhi yu suo you	1
+张沐妍	zhang mu yan	1
+与行星相会	yu xing xing xiang hui	1
+有室友	you shi you	1
+优毕	you bi	1
+樱切	ying qie	1
+言雀	yan que	1
+寻机头	xun ji tou	1
+星引擎	xing yin qing	1
+新质生产力	xin zhi sheng chan li	1
+新战令	xin zhan ling	1
+陷阱师	xian jing shi	1
+下课课	xia ke ke	1
+沃鼎	wo ding	1
+太原教育	tai yuan jiao yu	1
+搜剧	sou ju	1
+四年之约	si nian zhi yue	1
+四年一遇的	si nian yi yu de	1
+四年一闰	si nian yi run	1
+四年过一次	si nian guo yi ci	1
+时空之影	shi kong zhi ying	1
+十管体力	shi guan ti li	1
+十管	shi guan	1
+生日谷	sheng ri gu	1
+热爱篇	re ai pian	1
+旁肋	pang lei	1
+明天有早八	ming tian you zao ba	1
+妙妙包	miao miao bao	1
+麦门	mai men	1
+乱轴	luan zhou	1
+楼人	lou ren	1
+量子战舰	liang zi zhan jian	1
+李肉肉	li rou rou	1
+乐子神	le zi shen	1
+金懿玄	jin yi xuan	1
+江米人	jiang mi ren	1
+花嘴巴	hua zui ba	1
+隔世相逢	ge shi xiang feng	1
+岗一	gang yi	1
+拂晓之前	fu xiao zhi qian	1
+反包了	fan bao le	1
+二曹	er cao	1
+堕天遗武	duo tian yi wu	1
+典妻	dian qi	1
+凑十	cou shi	1
+菜狗大作战	cai gou da zuo zhan	1
+才过一次	cai guo yi ci	1
+毕巴	bi ba	1
+白虎之力	bai hu zhi li	1
+正季黑桑葚	zheng ji hei sang shen	1
+正季	zheng ji	1
+镇妖司	zhen yao si	1
+珍钻	zhen zuan	1
+永恒之花	yong heng zhi hua	1
+硬帅	ying shuai	1
+巡堂	xun tang	1
+选满	xuan man	1
+秀佳	xiu jia	1
+无先机	wu xian ji	1
+万首诗	wan shou shi	1
+四年一遇	si nian yi yu	1
+首阴	shou yin	1
+七合格	qi he ge	1
+派小轩	pai xiao xuan	1
+密阿雷市	mi a lei shi	1
+玛沙多拉	ma sha duo la	1
+六十年间万首诗	liu shi nian jian wan shou shi	1
+两练	liang lian	1
+来古弥新	lai gu mi xin	1
+几合格	ji he ge	1
+横掠	heng lue	1
+黑白复刻	hei bai fu ke	1
+海麻线	hai ma xian	1
+非玩不可	fei wan bu ke	1
+单招题	dan zhao ti	1
+出贴纸了	chu tie zhi le	1
+潮盒电动	chao he dian dong	1
+布什内尔	bu shi nei er	1
+宝怪	bao guai	1
+八合格	ba he ge	1
+组好了	zu hao le	1
+祖父的园子	zu fu de yuan zi	1
+占分	zhan fen	1
+再考一回	zai kao yi hui	1
+越考越少	yue kao yue shao	1
+岩帝	yan di	1
+小小四级	xiao xiao si ji	1
+戏点鸳鸯	xi dian yuan yang	1
+物华弥新	wu hua mi xin	1
+五战	wu zhan	1
+五颜一	wu yan yi	1
+五恋一	wu lian yi	1
+我四级没过	wo si ji mo guo	1
+我的四级	wo de si ji	1
+抬床	tai chuang	1
+虽然没过	sui ran mo guo	1
+四级资料	si ji zi liao	1
+四级咋样	si ji za yang	1
+四级书	si ji shu	1
+四级挂了	si ji gua le	1
+四级出了	si ji chu le	1
+谁过了	shui guo le	1
+双圣剑	shuang sheng jian	1
+上唇翘	shang chun qiao	1
+三战了	san zhan le	1
+全正路	quan zheng lu	1
+青如玉	qing ru yu	1
+起来查	qi lai cha	1
+破四级	po si ji	1
+破墓	po mu	1
+弄冰	nong bing	1
+南稻北粟	nan dao bei su	1
+落灯	luo deng	1
+六级过没	liu ji guo mei	1
+六级分	liu ji fen	1
+林冬雨	lin dong yu	1
+两导	liang dao	1
+雷索纳斯	lei suo na si	1
+镜中的	jing zhong de	1
+金多娟	jin duo juan	1
+接妞	jie niu	1
+接水的	jie shui de	1
+嫁东宫	jia dong gong	1
+婚后事	hun hou shi	1
+荷尔	he er	1
+过是过了	guo shi guo le	1
+贡菜卷	gong cai juan	1
+第二十条原型	di er shi tiao yuan xing	1
+担架工	dan jia gong	1
+大削	da xue	1
+初友	chu you	1
+超越班	chao yue ban	1
+差九分	cha jiu fen	1
+差八分	cha ba fen	1
+不朽花	bu xiu hua	1
+并镇	bing zhen	1
+骈山	pian shan	1
+自粘书皮	zi zhan shu pi	1
+周洋鑫	zhou yang xin	1
+有所失	you suo shi	1
+学教资	xue jiao zi	1
+悬着的心死了	xuan zhe de xin si le	1
+我单科	wo dan ke	1
+为国攀登	wei guo pan deng	1
+天祸	tian huo	1
+她考了	ta kao le	1
+她的课	ta de ke	1
+胖乖	pang guai	1
+农艺与种业	nong yi yu zhong ye	1
+男顶流	nan ding liu	1
+课课贴	ke ke tie	1
+考编的	kao bian de	1
+就有学上	jiu you xue shang	1
+就上岸	jiu shang an	1
+酒吧舞	jiu ba wu	1
+寄咯	ji ge	1
+鸡球	ji qiu	1
+黑龙刺	hei long ci	1
+和声曲式	he sheng qu shi	1
+荷尔健康	he er jian kang	1
+倒放视频	dao fang shi pin	1
+大路通罗马	da lu tong luo ma	1
+大导	da dao	1
+材科	cai ke	1
+报低了	bao di le	1
+咋不亮	za bu liang	1
+在发书	zai fa shu	1
+要书	yao shu	1
+小破床	xiao po chuang	1
+想亖	xiang si	1
+西南舁	xi nan yu	1
+万事美好	wan shi mei hao	1
+晚二	wan er	1
+孙子见	sun zi jian	1
+斯韦思林	si wei si lin	1
+输日本	shu ri ben	1
+十一连冠	shi yi lian guan	1
+上赛	shang sai	1
+趣智	qu zhi	1
+七上七下	qi shang qi xia	1
+破床	po chuang	1
+捏蛋	nie dan	1
+拿到书了	na dao shu le	1
+没铺	mei pu	1
+没领书	mei ling shu	1
+领到书	ling dao shu	1
+来齐了	lai qi le	1
+烤百灵	kao bai ling	1
+古栾水镇	gu luan shui zhen	1
+俄钓	e diao	1
+灯糕	deng gao	1
+道法书	dao fa shu	1
+大理寺少卿游	da li si shao qing you	1
+达仔	da zai	1
+崔倍	cui bei	1
+串寝	chuan qin	1
+成训	cheng xun	1
+不用书	bu yong shu	1
+包书壳	bao shu ke	1
+搬完了吗	ban wan le ma	1
+搬书去了	ban shu qu le	1
+百灵火	bai ling huo	1
+八上八下	ba shang ba xia	1
 卓护	zhuo hu	1
 撞桥	zhuang qiao	1
 朱成竹	zhu cheng zhu	1
@@ -65,7 +269,6 @@ use_preset_vocabulary: false
 大登	da deng	1
 铲不掉	chan bu diao	1
 冰珠子	bing zhu zi	1
-爱如往昔	ai ru wang xi	1
 转风	zhuan feng	1
 云黎	yun li	1
 月边音	yue bian yin	1
@@ -98,13 +301,10 @@ use_preset_vocabulary: false
 到课	dao ke	1
 代高政	dai gao zheng	1
 布班迪	bu ban di	1
-杯杯倒满	bei bei dao man	1
-半个省	ban ge sheng	1
 巴太	ba tai	1
 霰雪	xian xue	1
 枭起	xiao qi	1
 撸毛	lu mao	1
-醉关公	zui guan gong	1
 朱明泉	zhu ming quan	1
 掷圣杯	zhi sheng bei	1
 只道是寻常	zhi dao shi xun chang	1
@@ -203,11 +403,8 @@ use_preset_vocabulary: false
 冰块子	bing kuai zi	1
 冰壳子	bing ke zi	1
 背水山	bei shui shan	1
-北京下雪啦	bei jing xia xue la	1
 半山水	ban shan shui	1
-巴西莓粉	ba xi mei fen	1
 俺主任	an zhu ren	1
-阿依多斯	a yi duo si	1
 楠木坝	nan mu ba	1
 组化	zu hua	1
 自默	zi mo	1
@@ -225,7 +422,6 @@ use_preset_vocabulary: false
 找厂	zhao chang	1
 站起来蹬	zhan qi lai deng	1
 炸聋	zha long	1
-脏了没洗	zang le mei xi	1
 栽洋芋	zai yang yu	1
 育护	yu hu	1
 羽素	yu su	1
@@ -306,7 +502,6 @@ use_preset_vocabulary: false
 北自科技	bei zi ke ji	1
 报回	bao hui	1
 包单	bao dan	1
-把手机还给我	ba shou ji huan gei wo	1
 禅院真希	chan yuan zhen xi	1
 卓翼宸	zhuo yi chen	1
 赵远舟	zhao yuan zhou	1
@@ -435,8 +630,6 @@ use_preset_vocabulary: false
 撤收	che shou	1
 补到了	bu dao le	1
 别取	bie qu	1
-爱能克服	ai neng ke fu	1
-阿瓦迪夫卡	a wa di fu ka	1
 阿夫迪夫卡	a fu di fu ka	1
 冥火大公	ming huo da gong	1
 钟表小子	zhong biao xiao zi	1
@@ -548,7 +741,6 @@ use_preset_vocabulary: false
 长票	chang piao	1
 长庚伴月	chang geng ban yue	1
 不铲雪	bu chan xue	1
-北往	bei wang	1
 包包入侵	bao bao ru qin	1
 岱黄	dai huang	1
 装到啦	zhuang dao la	1
@@ -628,7 +820,6 @@ use_preset_vocabulary: false
 佐子	zuo zi	1
 祖人	zu ren	1
 子亦	zi yi	1
-涨赞	zhang zan	1
 沾了什么	zhan le shen me	1
 以东方茶会世界友	yi dong fang cha hui shi jie you	1
 以东方茶	yi dong fang cha	1
@@ -674,7 +865,6 @@ use_preset_vocabulary: false
 冰叶子	bing ye zi	1
 表管	biao guan	1
 半糖小子	ban tang xiao zi	1
-板仓滉	ban cang huang	1
 百观	bai guan	1
 芙拉维亚	fu la wei ya	1
 孬孩	nao hai	1
@@ -728,7 +918,6 @@ use_preset_vocabulary: false
 抽错	chou cuo	1
 超武乾坤	chao wu qian kun	1
 茶太狼	cha tai lang	1
-苞米穗	bao mi sui	1
 喔刷	wo shua	1
 作弊卷	zuo bi juan	1
 终极学说	zhong ji xue shuo	1
@@ -773,9 +962,7 @@ use_preset_vocabulary: false
 草套	cao tao	1
 彩狸	cai li	1
 毕分办	bi fen ban	1
-拜年领红包	bai nian ling hong bao	1
 白应苍	bai ying cang	1
-白毛少女	bai mao shao nv	1
 曜北斗	yao bei dou	1
 屙一泡	e yi pao	1
 专业杯	zhuan ye bei	1
@@ -868,7 +1055,6 @@ use_preset_vocabulary: false
 召集券	zhao ji quan	1
 玉米几	yu mi ji	1
 又加时	you jia shi	1
-又吃席	you chi xi	1
 有大雪	you da xue	1
 一小妹	yi xiao mei	1
 一分雨	yi fen yu	1
@@ -897,7 +1083,6 @@ use_preset_vocabulary: false
 辰志	chen zhi	1
 波杰	bo jie	1
 拜年送食养礼	bai nian song shi yang li	1
-拜年送	bai nian song	1
 拔作岛	ba zuo dao	1
 伽罗新皮肤	jia luo xin pi fu	1
 子鼠卡	zi shu ka	1
@@ -1107,7 +1292,6 @@ use_preset_vocabulary: false
 播王者	bo wang zhe	1
 冰豆子	bing dou zi	1
 泵铁	beng tie	1
-拜过堂	bai guo tang	1
 熘米	liu mi	1
 诸事粥全	zhu shi zhou quan	1
 众神派对	zhong shen pai dui	1
@@ -1298,7 +1482,6 @@ use_preset_vocabulary: false
 参与进攻	can yu jin gong	1
 补发师	bu fa shi	1
 避人	bi ren	1
-被吹掉了	bei chui diao le	1
 橘座	ju zuo	1
 橘三岁	ju san sui	1
 祝灵	zhu ling	1
@@ -1354,7 +1537,6 @@ use_preset_vocabulary: false
 白荆	bai jing	1
 祺祥重宝	qi xiang zhong bao	1
 元藏	yuan cang	1
-与辉同行	yu hui tong xing	1
 小冻梨	xiao dong li	1
 吴凯磊	wu kai lei	1
 温米	wen mi	1
@@ -1910,8 +2092,6 @@ use_preset_vocabulary: false
 不摇了	bu yao le	1
 不晃了	bu huang le	1
 鳖盖	bie gai	1
-被晃醒	bei huang xing	1
-白头霜	bai tou shuang	1
 惄焉如捣	ni yan ru dao	1
 涮点	shuan dian	1
 呲溜滑	ci liu hua	1
@@ -1991,7 +2171,6 @@ use_preset_vocabulary: false
 边下雪	bian xia xue	1
 边下	bian xia	1
 边打雷	bian da lei	1
-北风烟雪	bei feng yan xue	1
 薄冰哥	bo bing ge	1
 硌应	ge ying	1
 住单位	zhu dan wei	1
@@ -2039,7 +2218,6 @@ use_preset_vocabulary: false
 划拳歌	hua quan ge	1
 冬测	dong ce	1
 差传	cha chuan	1
-白日提灯	bai ri ti deng	1
 踹树	chuai shu	1
 煨被窝	wei bei wo	1
 助力上	zhu li shang	1
@@ -2458,7 +2636,6 @@ use_preset_vocabulary: false
 虎步关右	hu bu guan you	1
 都没涂完	dou mei tu wan	1
 裁决使	cai jue shi	1
-被蹬	bei deng	1
 柏闻	bai wen	1
 在韩	zai han	1
 玉镖夺魁	yu biao duo kui	1
@@ -2597,7 +2774,6 @@ use_preset_vocabulary: false
 春风若有怜花意	chun feng ruo you lian hua yi	1
 查考点	cha kao dian	1
 踩头	cai tou	1
-摆烂门	bai lan men	1
 缇莉	ti li	1
 茉莉雪芽	mo li xue ya	1
 装造	zhuang zao	1
@@ -2648,7 +2824,6 @@ use_preset_vocabulary: false
 猜口令	cai kou ling	1
 别办	bie ban	1
 被零封了	bei ling feng le	1
-被横扫了	bei heng sao le	1
 锖青磁	qiang qing ci	1
 镇国神婿	zhen guo shen xu	1
 云阔	yun kuo	1
@@ -2715,7 +2890,6 @@ use_preset_vocabulary: false
 超机智	chao ji zhi	1
 波杰姆斯基	bo jie mu si ji	1
 榜十	bang shi	1
-帮签	bang qian	1
 芙蓉果	fu rong guo	1
 叶向真	ye xiang zhen	1
 雅思界	ya si jie	1
@@ -2791,7 +2965,6 @@ use_preset_vocabulary: false
 整一件	zheng yi jian	1
 整没整上	zheng mei zheng shang	1
 真赢了	zhen ying le	1
-真夺冠了	zhen duo guan le	1
 这四把	zhe si ba	1
 这剑魔	zhe jian mo	1
 摘星币	zhai xing bi	1
@@ -3022,7 +3195,6 @@ use_preset_vocabulary: false
 采完了	cai wan le	1
 才感晚秋	cai gan wan qiu	1
 必歪	bi wai	1
-北风潜入悄无声	bei feng qian ru qiao wu sheng	1
 邦多利	bang duo li	1
 囟球	xin qiu	1
 仔仔吗	zai zai ma	1
@@ -3612,7 +3784,6 @@ use_preset_vocabulary: false
 潮游	chao you	1
 唱队	chang dui	1
 侧刻	ce ke	1
-百花教	bai hua jiao	1
 绯色回响	fei se hui xiang	1
 状师	zhuang shi	1
 抓狗	zhua gou	1
@@ -3669,7 +3840,6 @@ use_preset_vocabulary: false
 陈柏文	chen bo wen	1
 饼组	bing zu	1
 变狼	bian lang	1
-白鸽天鹅	bai ge tian e	1
 朱苏极航	zhu su ji hang	1
 朱苏	zhu su	1
 肘姐	zhou jie	1
@@ -3692,7 +3862,6 @@ use_preset_vocabulary: false
 董赤赤	dong chi chi	1
 刺瓜	ci gua	1
 程耳	cheng er	1
-摆烂队	bai lan dui	1
 钻妈	zuan ma	1
 正义盟军	zheng yi meng jun	1
 血芙蓉	xue fu rong	1
@@ -4181,7 +4350,6 @@ use_preset_vocabulary: false
 赶茶场	gan cha chang	1
 低颅	di lu	1
 大雹子	da bao zi	1
-报应主义	bao ying zhu yi	1
 于文红	yu wen hong	1
 小孩哥	xiao hai ge	1
 惟闻女叹息	wei wen nv tan xi	1
@@ -4473,7 +4641,6 @@ use_preset_vocabulary: false
 猜圈	cai quan	1
 博才梅溪湖	bo cai mei xi hu	1
 爆团团	bao tuan tuan	1
-摆字	bai zi	1
 寰宇蝗灾	huan yu huang zai	1
 诸神殿	zhu shen dian	1
 直升券	zhi sheng quan	1
@@ -4630,7 +4797,6 @@ use_preset_vocabulary: false
 比江岛慎	bi jiang dao shen	1
 贝蕾亚	bei lei ya	1
 北队	bei dui	1
-包完书皮	bao wan shu pi	1
 暗面包	an mian bao	1
 阿船	a chuan	1
 晟楷	sheng kai	1
@@ -4938,7 +5104,6 @@ use_preset_vocabulary: false
 不吃海盐	bu chi hai yan	1
 编译着色器	bian yi zhuo se qi	1
 备盐	bei yan	1
-北赤道	bei chi dao	1
 震完了	zhen wan le	1
 有仙则灵	you xian ze ling	1
 因岳	yin yue	1
@@ -5216,7 +5381,6 @@ use_preset_vocabulary: false
 草神瞳	cao shen tong	1
 壁炉之家	bi lu zhi jia	1
 必吃节	bi chi jie	1
-杯杯敬自己	bei bei jing zi ji	1
 保突村	bao tu cun	1
 紫菜蛋花兔	zi cai dan hua tu	1
 逐风岛	zhu feng dao	1
@@ -5360,7 +5524,6 @@ use_preset_vocabulary: false
 承实	cheng shi	1
 车皇	che huang	1
 朝歌赋	chao ge fu	1
-悲风白杨	bei feng bai yang	1
 半身皮	ban shen pi	1
 八期会员礼	ba qi hui yuan li	1
 阿署达	a shu da	1
@@ -5502,7 +5665,6 @@ use_preset_vocabulary: false
 爱缇	ai ti	1
 吖嘀吖嘀	a di a di	1
 只追	zhi zhui	1
-真风凉	zhen feng liang	1
 云彼丘	yun bi qiu	1
 狱火机	yu huo ji	1
 相夷	xiang yi	1
@@ -5749,7 +5911,6 @@ use_preset_vocabulary: false
 本然重塑	ben ran chong su	1
 包头职业技术学院	bao tou zhi ye ji shu xue yuan	1
 包头铁道	bao tou tie dao	1
-白荔枝	bai li zhi	1
 奥特曼联动	ao te man lian dong	1
 遨游令	ao you ling	1
 暗星烬	an xing jin	1
@@ -5929,7 +6090,6 @@ use_preset_vocabulary: false
 北京台风	bei jing tai feng	1
 宝丰教育	bao feng jiao yu	1
 百毒不侵一顺百顺	bai du bu qin yi shun bai shun	1
-白沟泄洪	bai gou xie hong	1
 暗河传	an he chuan	1
 追愉	zhui yu	1
 周彦羲	zhou yan xi	1
@@ -6054,7 +6214,6 @@ use_preset_vocabulary: false
 美国超导	mei guo chao dao	1
 梅正荣	mei zheng rong	1
 没被淹	mei bei yan	1
-迈向八月	mai xiang ba yue	1
 铝电	lv dian	1
 漏卡	lou ka	1
 流光似箭	liu guang si jian	1
@@ -6164,7 +6323,6 @@ use_preset_vocabulary: false
 月跑量	yue pao liang	1
 圆萌乐	yuan meng le	1
 永夜星河	yong ye xing he	1
-迎接八月	ying jie ba yue	1
 隐宗	yin zong	1
 意映	yi ying	1
 迤山	yi shan	1
@@ -6357,7 +6515,6 @@ use_preset_vocabulary: false
 北沙良	bei sha liang	1
 棒地劫	bang di jie	1
 白粥小姐	bai zhou xiao jie	1
-白金年代	bai jin nian dai	1
 八号立秋	ba hao li qiu	1
 安大线	an da xian	1
 淄博师范	zi bo shi fan	1
@@ -6601,8 +6758,6 @@ use_preset_vocabulary: false
 宝鸡教育	bao ji jiao yu	1
 包国伟	bao guo wei	1
 包凡	bao fan	1
-摆烂大王	bai lan da wang	1
-白虎之魄	bai hu zhi po	1
 白虎音效卡	bai hu yin xiao ka	1
 巴昱凯	ba yu kai	1
 爱心闪	ai xin shan	1
@@ -7114,9 +7269,7 @@ use_preset_vocabulary: false
 滨溪河	bin xi he	1
 壁尻	bi kao	1
 奔富一号	ben fu yi hao	1
-宝珠公主	bao zhu gong zhu	1
 宝石剑圣	bao shi jian sheng	1
-百家伐羊	bai jia fa yang	1
 白子说话	bai zi shuo hua	1
 澳洲劳务	ao zhou lao wu	1
 安徽一本	an hui yi ben	1
@@ -7468,7 +7621,6 @@ use_preset_vocabulary: false
 枣庄出行服务	zao zhuang chu xing fu wu	1
 月亮降落点	yue liang jiang luo dian	1
 幼年卡	you nian ka	1
-游戏调研	you xi diao yan	1
 甬矽电子	yong xi dian zi	1
 拥抱人才	yong bao ren cai	1
 应援场	ying yuan chang	1
@@ -7661,7 +7813,6 @@ use_preset_vocabulary: false
 宝鸡公安	bao ji gong an	1
 半年节	ban nian jie	1
 百登夜行	bai deng ye xing	1
-白狼王甲	bai lang wang jia	1
 芭门永存	ba men yong cun	1
 八同	ba tong	1
 澳杯	ao bei	1
@@ -7679,7 +7830,6 @@ use_preset_vocabulary: false
 源轩	yuan xuan	1
 语文山水	yu wen shan shui	1
 游戏发行人计划	you xi fa xing ren ji hua	1
-游戏发行人	you xi fa xing ren	1
 英雄武林	ying xiong wu lin	1
 银素顶	yin su ding	1
 一夜北风万花开	yi ye bei feng wan hua kai	1
@@ -8006,7 +8156,6 @@ use_preset_vocabulary: false
 又炸房了	you zha fang le	1
 又维护了	you wei hu le	1
 有友节	you you jie	1
-游戏炸了	you xi zha le	1
 游咔	you ka	1
 优品租	you pin zu	1
 英雄超标	ying xiong chao biao	1
@@ -8338,7 +8487,6 @@ use_preset_vocabulary: false
 敖潜	ao qian	1
 黑暗集会	hei an ji hui	1
 集束弹	ji shu dan	1
-又潮又热	you chao you re	1
 还有高手	hai you gao shou	1
 富豪人生	fu hao ren sheng	1
 二娟儿	er juan er	1
@@ -8415,7 +8563,6 @@ use_preset_vocabulary: false
 三金三火	san jin san huo	1
 猪猪宝宝	zhu zhu bao bao	1
 东了个东	dong le ge dong	1
-半股	ban gu	1
 西树	xi shu	1
 几月几日丧尸爆发	ji yue ji ri sang shi bao fa	1
 少年白马醉春风	shao nian bai ma zui chun feng	1
@@ -8678,7 +8825,6 @@ use_preset_vocabulary: false
 真料	zhen liao	1
 玉骨遥预告	yu gu yao yu gao	1
 玉骨遥电视剧	yu gu yao dian shi ju	1
-游戏小视频	you xi xiao shi pin	1
 幽灵诡计	you ling gui ji	1
 宜昌中考	yi chang zhong kao	1
 央视都下架了	yang shi dou xia jia le	1
@@ -9244,7 +9390,6 @@ use_preset_vocabulary: false
 解擦	jie ca	1
 打车嘛	da che ma	1
 车文	che wen	1
-被鸽了	bei ge le	1
 斐济杯	fei ji bei	1
 寰球工程	huan qiu gong cheng	1
 罔两问影	wang liang wen ying	1
