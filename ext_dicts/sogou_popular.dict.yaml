@@ -1,10 +1,352 @@
 ---
 name: sogou_popular
-version: "2024.03.24"
+version: "2024.03.31"
 sort: by_weight
 use_preset_vocabulary: false
 ...
 
+提灯定损	ti deng ding sun	1
+绣衣天下	xiu yi tian xia	1
+无畏无敌	wu wei wu di	1
+鉴真路	jian zhen lu	1
+唐色	tang se	1
+棕长	zong chang	1
+外面热死了	wai mian re si le	1
+扫墓去了	sao mu qu le	1
+雾行者	wu xing zhe	1
+讲述稿	jiang shu gao	1
+大梦加油	da meng jia you	1
+今天热死了	jin tian re si le	1
+考一上午	kao yi shang wu	1
+梁甜甜	liang tian tian	1
+科技实务	ke ji shi wu	1
+论证评价	lun zheng ping jia	1
+到考场了	dao kao chang le	1
+攻击球	gong ji qiu	1
+元梦之星声明	yuan meng zhi xing sheng ming	1
+好曲	hao qu	1
+哨歌	shao ge	1
+愉悦值	yu yue zhi	1
+墟弥	xu mi	1
+十二选十	shi er xuan shi	1
+十选十	shi xuan shi	1
+孕博会	yun bo hui	1
+梨花会	li hua hui	1
+绿锤	lv chui	1
+潮沙	chao sha	1
+扫墓的	sao mu de	1
+挂清明	gua qing ming	1
+互喂	hu wei	1
+三生三世三生三世	san sheng san shi san sheng san shi	1
+舞台见	wu tai jian	1
+冰嘎	bing ga	1
+逐空	zhu kong	1
+家乡赛	jia xiang sai	1
+囚于永夜	qiu yu yong ye	1
+港媳嫁到	gang xi jia dao	1
+转髋	zhuan kuan	1
+八月爱人	ba yue ai ren	1
+快发这个	kuai fa zhe ge	1
+金刚大战哥斯拉	jin gang da zhan ge si la	1
+星刃	xing ren	1
+下很大雨	xia hen da yu	1
+哥斯拉大战	ge si la da zhan	1
+雾影重重	wu ying chong chong	1
+旧仓	jiu cang	1
+转胯	zhuan kua	1
+柯东	ke dong	1
+炒茶叶	chao cha ye	1
+就清明	jiu qing ming	1
+近真	jin zhen	1
+春曲	chun qu	1
+少欲	shao yu	1
+陆淮	lu huai	1
+挂青	gua qing	1
+行雷	xing lei	1
+春日福利	chun ri fu li	1
+反深代词	fan shen dai ci	1
+乔家洼	qiao jia wa	1
+翠袖传觞	cui xiu chuan shang	1
+入展	ru zhan	1
+五点十七	wu dian shi qi	1
+全场红包	quan chang hong bao	1
+季度底	ji du di	1
+乘风踏浪	cheng feng ta lang	1
+金刚大战	jin gang da zhan	1
+星推	xing tui	1
+真晒	zhen shai	1
+妖神令	yao shen ling	1
+刀疤王	dao ba wang	1
+破械	po xie	1
+宁科生物	ning ke sheng wu	1
+积存金	ji cun jin	1
+次神颜	ci shen yan	1
+舒翁	shu weng	1
+锁定配置	suo ding pei zhi	1
+幸运合伙人	xing yun he huo ren	1
+我的对象是	wo de dui xiang shi	1
+可晒	ke shai	1
+壶神	hu shen	1
+不锁单	bu suo dan	1
+幕布之后	mu bu zhi hou	1
+日卡套	ri ka tao	1
+鸡屎果	ji shi guo	1
+双橙	shuang cheng	1
+哥总	ge zong	1
+鸡腿桶	ji tui tong	1
+首撞	shou zhuang	1
+新日卡	xin ri ka	1
+凣凣尜尜	fan fan ga ga	1
+未休假	wei xiu jia	1
+苏七	su qi	1
+锁单了	suo dan le	1
+交完材料	jiao wan cai liao	1
+下周清明	xia zhou qing ming	1
+优惠社	you hui she	1
+蕾奥规划	lei ao gui hua	1
+宁科	ning ke	1
+七天可退	qi tian ke tui	1
+梅职	mei zhi	1
+对小米	dui xiao mi	1
+新誉佳	xin yu jia	1
+不买电车	bu mai dian che	1
+广酒	guang jiu	1
+失明了	shi ming le	1
+五万台	wu wan tai	1
+梦中情车	meng zhong qing che	1
+克劳克	ke lao ke	1
+试驾了	shi jia le	1
+溜背	liu bei	1
+杨弋	yang yi	1
+搞辆	gao liang	1
+这外观	zhe wai guan	1
+你想活出	ni xiang huo chu	1
+即兴爵士	ji xing jue shi	1
+琥珀王	hu po wang	1
+忻州安全	xin zhou an quan	1
+满血鸡	man xue ji	1
+拉约	la yue	1
+扭不出来	niu bu chu lai	1
+辜负真心	gu fu zhen xin	1
+试驾完	shi jia wan	1
+孙少军	sun shao jun	1
+五万辆	wu wan liang	1
+迅捷射手	xun jie she shou	1
+卡我牌	ka wo pai	1
+插混	cha hun	1
+霞与洛	xia yu luo	1
+他对标	ta dui biao	1
+零白	ling bai	1
+小米这车	xiao mi zhe che	1
+雷总说了	lei zong shuo le	1
+车买早了	che mai zao le	1
+发布会了吗	fa bu hui le ma	1
+豪华音响	hao hua yin xiang	1
+价格出了	jia ge chu le	1
+小米牛逼	xiao mi niu bi	1
+今天发布会	jin tian fa bu hui	1
+直接对标	zhi jie dui biao	1
+出价格了吗	chu jia ge le ma	1
+我都想买了	wo dou xiang mai le	1
+传世版	chuan shi ban	1
+红内	hong nei	1
+潮蛋	chao dan	1
+流星蓝	liu xing lan	1
+传世宝	chuan shi bao	1
+梅花轮毂	mei hua lun gu	1
+哄你骑车	hong ni qi che	1
+出汽车	chu qi che	1
+创始人版	chuang shi ren ban	1
+看完发布会	kan wan fa bu hui	1
+发布会的	fa bu hui de	1
+买车模	mai che mo	1
+跟保时捷	gen bao shi jie	1
+冰箱彩电大沙发	bing xiang cai dian da sha fa	1
+我是想抽根烟	wo shi xiang chou gen yan	1
+神行电池	shen xing dian chi	1
+两秒多	liang miao duo	1
+五千台	wu qian tai	1
+小米的车	xiao mi de che	1
+小米这个	xiao mi zhe ge	1
+麒麟电池	qi lin dian chi	1
+这个定价	zhe ge ding jia	1
+特斯拉了	te si la le	1
+支持一波	zhi chi yi bo	1
+期待发货	qi dai fa huo	1
+提一台	ti yi tai	1
+十二校	shi er xiao	1
+他这个车	ta zhe ge che	1
+比亚迪的	bi ya di de	1
+买个车模	mai ge che mo	1
+这不冲	zhe bu chong	1
+你买我推荐	ni mai wo tui jian	1
+给我买一辆	gei wo mai yi liang	1
+你买一辆	ni mai yi liang	1
+卖车了	mai che le	1
+真心动	zhen xin dong	1
+这新赛季	zhe xin sai ji	1
+扭不起来	niu bu qi lai	1
+送一辆	song yi liang	1
+特斯拉的	te si la de	1
+顶配了	ding pei le	1
+米市街	mi shi jie	1
+定一辆	ding yi liang	1
+李晟达	li sheng da	1
+补能	bu neng	1
+我新赛季	wo xin sai ji	1
+闭眼冲	bi yan chong	1
+大司令	da si ling	1
+抢免单	qiang mian dan	1
+这定价	zhe ding jia	1
+米氏对比法	mi shi dui bi fa	1
+米时捷	mi shi jie	1
+说价格了吗	shuo jia ge le ma	1
+还不出价格	hai bu chu jia ge	1
+定价来了	ding jia lai le	1
+城市领航	cheng shi ling hang	1
+对标特斯拉	dui biao te si la	1
+我在看小米	wo zai kan xiao mi	1
+要定价了	yao ding jia le	1
+要说价格了	yao shuo jia ge le	1
+越说越贵	yue shuo yue gui	1
+这个发布会	zhe ge fa bu hui	1
+快说价格	kuai shuo jia ge	1
+我在看发布会	wo zai kan fa bu hui	1
+十九万九	shi jiu wan jiu	1
+要出价格了	yao chu jia ge le	1
+价格要来了	jia ge yao lai le	1
+还不公布价格	hai bu gong bu jia ge	1
+雷总牛逼	lei zong niu bi	1
+对标保时捷	dui biao bao shi jie	1
+发布会啊	fa bu hui a	1
+还在介绍	hai zai jie shao	1
+连夜说服	lian ye shuo fu	1
+雷氏对比法	lei shi dui bi fa	1
+讲车	jiang che	1
+雷军的	lei jun de	1
+雅灰	ya hui	1
+卖爆了	mai bao le	1
+汽车了	qi che le	1
+换新版	huan xin ban	1
+比特斯拉	bi te si la	1
+仙箓	xian lu	1
+还不报价	hai bu bao jia	1
+发布会吗	fa bu hui ma	1
+找你汽车	zhao ni qi che	1
+还没出价格	hai mei chu jia ge	1
+还没说价格	hai mei shuo jia ge	1
+还不公布	hai bu gong bu	1
+出价格了	chu jia ge le	1
+这个赛道	zhe ge sai dao	1
+海湾蓝	hai wan lan	1
+五十万以内	wu shi wan yi nei	1
+发布会开始了	fa bu hui kai shi le	1
+九种颜色	jiu zhong yan se	1
+看发布会了	kan fa bu hui le	1
+公布价格了	gong bu jia ge le	1
+王庭凯	wang ting kai	1
+九个颜色	jiu ge yan se	1
+抽一台	chou yi tai	1
+看小米	kan xiao mi	1
+小米车	xiao mi che	1
+蔚小理	wei xiao li	1
+霞光紫	xia guang zi	1
+下墙	xia qiang	1
+小米汽车发布会	xiao mi qi che fa bu hui	1
+寻找彩蛋	xun zhao cai dan	1
+汽车发布会	qi che fa bu hui	1
+绝缘梯子	jue yuan ti zi	1
+小米汽车价格	xiao mi qi che jia ge	1
+陌兮	mo xi	1
+票蜜蜂	piao mi feng	1
+巴掌哥	ba zhang ge	1
+发布会了	fa bu hui le	1
+双羊刀	shuang yang dao	1
+三星刀妹	san xing dao mei	1
+三星猴子	san xing hou zi	1
+焕蓝基金	huan lan ji jin	1
+焕蓝未来	huan lan wei lai	1
+焕蓝梦想	huan lan meng xiang	1
+王一通	wang yi tong	1
+重装前哨	zhong zhuang qian shao	1
+芽类	ya lei	1
+武磊牛逼	wu lei niu bi	1
+无限共振	wu xian gong zhen	1
+泰滑卡	tai hua ka	1
+四比一了	si bi yi le	1
+闪动校园	shan dong xiao yuan	1
+韧性条	ren xing tiao	1
+七宝街	qi bao jie	1
+明节	ming jie	1
+慢兔	man tu	1
+卖班	mai ban	1
+李沅禧	li yuan xi	1
+李佳前	li jia qian	1
+境萌花	jing meng hua	1
+刚进球	gang jin qiu	1
+毒试卷	du shi juan	1
+电磁爆	dian ci bao	1
+达苏	da su	1
+不开心假	bu kai xin jia	1
+凹凸电波	ao tu dian bo	1
+暗镇魂	an zhen hun	1
+邹沛沛	zou pei pei	1
+志效	zhi xiao	1
+鱼茶	yu cha	1
+烟男	yan nan	1
+心跳向左	xin tiao xiang zuo	1
+香菜汁	xiang cai zhi	1
+昔妃	xi fei	1
+我要传火	wo yao chuan huo	1
+亡将	wang jiang	1
+晴天小羊	qing tian xiao yang	1
+抢个码	qiang ge ma	1
+皮肤号	pi fu hao	1
+墨妈	mo ma	1
+梅宏	mei hong	1
+轮墓	lun mu	1
+林樵松	lin qiao song	1
+可惜夜	ke xi ye	1
+九亿的梦	jiu yi de meng	1
+见敌竖两股	jian di shu liang gu	1
+欢乐寻宝	huan le xun bao	1
+光替	guang ti	1
+瓜裟	gua sha	1
+福耀科技大学	fu yao ke ji da xue	1
+福耀科技	fu yao ke ji	1
+二突	er tu	1
+地磁风暴	di ci feng bao	1
+别被双抓	bie bei shuang zhua	1
+支持与凤行	zhi chi yu feng xing	1
+雨还挺大	yu hai ting da	1
+一二带回	yi er dai hui	1
+姚郁	yao yu	1
+烟位	yan wei	1
+亚连王	ya lian wang	1
+塔炮	ta pao	1
+热鼠	re shu	1
+群马温泉	qun ma wen quan	1
+婆娑步	po suo bu	1
+跑崩	pao beng	1
+南海线	nan hai xian	1
+暮蝶	mu die	1
+姆普	mu pu	1
+墨之影	mo zhi ying	1
+毛伟杰	mao wei jie	1
+李金帅	li jin shuai	1
+九亿的	jiu yi de	1
+景诗	jing shi	1
+禁雨	jin yu	1
+皆成性格	jie cheng xing ge	1
+火菩提	huo pu ti	1
+黑服	hei fu	1
+恩德里克	en de li ke	1
+德善啊	de shan a	1
+大磁暴	da ci bao	1
+春季菜王	chun ji cai wang	1
+菜王	cai wang	1
+薄香	bo xiang	1
+阿洛娜	a luo na	1
 祝缘	zhu yuan	1
 直伤流	zhi shang liu	1
 找星星	zhao xing xing	1
