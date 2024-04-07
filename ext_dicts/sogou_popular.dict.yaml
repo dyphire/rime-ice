@@ -1,10 +1,794 @@
 ---
 name: sogou_popular
-version: "2024.03.31"
+version: "2024.04.07"
 sort: by_weight
 use_preset_vocabulary: false
 ...
 
+奥莉娜	ao li na	1
+明天上学了	ming tian shang xue le	1
+六冥	liu ming	1
+湖女	hu nv	1
+琉羽	liu yu	1
+今天出去玩了	jin tian chu qu wan le	1
+假期结束了	jia qi jie shu le	1
+山不见我	shan bu jian wo	1
+有幸相遇	you xing xiang yu	1
+哒宰	da zai	1
+走拍	zou pai	1
+盖德尔	gai de er	1
+一笔未动	yi bi wei dong	1
+南溪里	nan xi li	1
+魏祠	wei ci	1
+明天就开学了	ming tian jiu kai xue le	1
+你作业写了没	ni zuo ye xie le mei	1
+明天就回去了	ming tian jiu hui qu le	1
+想你就写信	xiang ni jiu xie xin	1
+兑图	dui tu	1
+小崆峒	xiao kong tong	1
+李易臻	li yi zhen	1
+桃厂	tao chang	1
+异形舞台	yi xing wu tai	1
+求返图	qiu fan tu	1
+吴秋怡	wu qiu yi	1
+灌开水	guan kai shui	1
+逛不动了	guang bu dong le	1
+大禹城	da yu cheng	1
+雯淇	wen qi	1
+浪漫小长假	lang man xiao chang jia	1
+灰谷	hui gu	1
+兔赤	tu chi	1
+志极	zhi ji	1
+聚友斋	ju you zhai	1
+内鬼吧	nei gui ba	1
+老祺	lao qi	1
+前路回响	qian lu hui xiang	1
+伏击客	fu ji ke	1
+梨树王	li shu wang	1
+宝太郎	bao tai lang	1
+火灾调查员	huo zai diao cha yuan	1
+摇床声	yao chuang sheng	1
+精华三	jing hua san	1
+昨天清明	zuo tian qing ming	1
+充值特惠	chong zhi te hui	1
+面场圃	mian chang pu	1
+开轩	kai xuan	1
+亚刻	ya ke	1
+中华战舞	zhong hua zhan wu	1
+温格高	wen ge gao	1
+五万步	wu wan bu	1
+吃笋	chi sun	1
+咕子	gu zi	1
+吉伊	ji yi	1
+爬一天	pa yi tian	1
+常觉亏欠	chang jue kui qian	1
+杨花大桥	yang hua da qiao	1
+泡泡红包	pao pao hong bao	1
+体育之路	ti yu zhi lu	1
+去茶山	qu cha shan	1
+帮我扩图	bang wo kuo tu	1
+发动态了	fa dong tai le	1
+哪玩了	na wan le	1
+喜欢宗介	xi huan zong jie	1
+没逛完	mei guang wan	1
+历政生	li zheng sheng	1
+紫清湖	zi qing hu	1
+少萝	shao luo	1
+不嘻嘻	bu xi xi	1
+街路棚	jie lu peng	1
+红线划过	hong xian hua guo	1
+下那么大雨	xia na me da yu	1
+互换头像	hu huan tou xiang	1
+挖不完	wa bu wan	1
+国家植物园	guo jia zhi wu yuan	1
+盐河巷	yan he xiang	1
+全是人头	quan shi ren tou	1
+来看电影了	lai kan dian ying le	1
+海肠捞饭	hai chang lao fan	1
+古武当山	gu wu dang shan	1
+鱼子西	yu zi xi	1
+想哭就弹琴	xiang ku jiu tan qin	1
+去爬山了	qu pa shan le	1
+扩图	kuo tu	1
+小小频	xiao xiao pin	1
+香颂城	xiang song cheng	1
+予梦	yu meng	1
+谢帝谢帝	xie di xie di	1
+摘不完	zhai bu wan	1
+看解说	kan jie shuo	1
+四牌坊	si pai fang	1
+专辑店	zhuan ji dian	1
+我刚看完电影	wo gang kan wan dian ying	1
+同发号	tong fa hao	1
+终突	zhong tu	1
+丰储街	feng chu jie	1
+拜完啦	bai wan la	1
+布鲁维斯	bu lu wei si	1
+罗汉腿	luo han tui	1
+一亿个人	yi yi ge ren	1
+哪哪都是人	na na dou shi ren	1
+琉璃馆	liu li guan	1
+摄影区	she ying qu	1
+会船	hui chuan	1
+拜完了吗	bai wan le ma	1
+刚拜完	gang bai wan	1
+来扫墓	lai sao mu	1
+你不扫墓	ni bu sao mu	1
+扫墓呢	sao mu ne	1
+郎东哲	lang dong zhe	1
+刚扫完墓	gang sao wan mu	1
+拜完咯	bai wan ge	1
+天涯山	tian ya shan	1
+二武	er wu	1
+扫完墓了	sao wan mu le	1
+我在扫墓	wo zai sao mu	1
+雨兮兮	yu xi xi	1
+麻叶果	ma ye guo	1
+上了坟	shang le fen	1
+剑汤	jian tang	1
+妮蔻拉	ni kou la	1
+铲草	chan cao	1
+龙井香	long jing xiang	1
+去上坟了	qu shang fen le	1
+我到老家了	wo dao lao jia le	1
+烧纸呢	shao zhi ne	1
+清明酒	qing ming jiu	1
+扫墓了吗	sao mu le ma	1
+磕几个头	ke ji ge tou	1
+这清明节	zhe qing ming jie	1
+天马岛	tian ma dao	1
+去祭祖	qu ji zu	1
+找太公	zhao tai gong	1
+拜山吗	bai shan ma	1
+放水节	fang shui jie	1
+刚上完坟	gang shang wan fen	1
+守路口	shou lu kou	1
+拜坟	bai fen	1
+所念人	suo nian ren	1
+上完坟了	shang wan fen le	1
+你扫墓	ni sao mu	1
+清风化雨	qing feng hua yu	1
+全能奶爸	quan neng nai ba	1
+去扫墓了	qu sao mu le	1
+上坟呢	shang fen ne	1
+我扫墓	wo sao mu	1
+你上坟	ni shang fen	1
+你回老家了吗	ni hui lao jia le ma	1
+我们不休假	wo men bu xiu jia	1
+太公太婆	tai gong tai po	1
+进阶录	jin jie lu	1
+清明节安康	qing ming jie an kang	1
+一岁一追思	yi sui yi zhui si	1
+十凶	shi xiong	1
+目莲	mu lian	1
+漫葡小镇	man pu xiao zhen	1
+又堵了	you du le	1
+就写信	jiu xie xin	1
+曹宪	cao xian	1
+我没带电脑	wo mei dai dian nao	1
+六九折	liu jiu zhe	1
+宫老	gong lao	1
+圆房了	yuan fang le	1
+一年一清明	yi nian yi qing ming	1
+冰之子	bing zhi zi	1
+太舅公	tai jiu gong	1
+上坟吗	shang fen ma	1
+铁腚	tie ding	1
+坐烂	zuo lan	1
+宫老爷子	gong lao ye zi	1
+就弹琴	jiu tan qin	1
+祝第五人格	zhu di wu ren ge	1
+行人欲断魂	xing ren yu duan hun	1
+天元谷	tian yuan gu	1
+比较松弛	bi jiao song chi	1
+始盗龙	shi dao long	1
+几百分钟	ji bai fen zhong	1
+都回老家了	dou hui lao jia le	1
+都延误	dou yan wu	1
+上单韦鲁斯	shang dan wei lu si	1
+在我出生之后	zai wo chu sheng zhi hou	1
+前五万	qian wu wan	1
+石碑坪	shi bei ping	1
+小四四	xiao si si	1
+蕾祸	lei huo	1
+不堵车了	bu du che le	1
+一出站	yi chu zhan	1
+小熊花园	xiao xiong hua yuan	1
+大清明节	da qing ming jie	1
+不让烧	bu rang shao	1
+林扒皮	lin ba pi	1
+虞老	yu lao	1
+徐老爹	xu lao die	1
+就不堵	jiu bu du	1
+港区北	gang qu bei	1
+你还没到家吗	ni hai mei dao jia ma	1
+噗宝	pu bao	1
+你放三天	ni fang san tian	1
+泉州南	quan zhou nan	1
+我后天去	wo hou tian qu	1
+有一班	you yi ban	1
+坐上地铁了	zuo shang di tie le	1
+走鱼	zou yu	1
+冠军皮	guan jun pi	1
+橘桑	ju sang	1
+就堵	jiu du	1
+非回不可	fei hui bu ke	1
+准备下车了	zhun bei xia che le	1
+明天休息了	ming tian xiu xi le	1
+剩下两天	sheng xia liang tian	1
+位置签到	wei zhi qian dao	1
+你上车了没	ni shang che le mei	1
+会很堵	hui hen du	1
+我下高速了	wo xia gao su le	1
+回家嘛	hui jia ma	1
+清明这几天	qing ming zhe ji tian	1
+勿跑空	wu pao kong	1
+进隧道了	jin sui dao le	1
+也很堵	ye hen du	1
+不检票	bu jian piao	1
+你们不放假吗	ni men bu fang jia ma	1
+拜太公	bai tai gong	1
+我那趟	wo na tang	1
+有座了	you zuo le	1
+坐上公交了	zuo shang gong jiao le	1
+武汉东站	wu han dong zhan	1
+我快下车了	wo kuai xia che le	1
+艾粄	ai ban	1
+小青团	xiao qing tuan	1
+哪趟车	na tang che	1
+寻好友	xun hao you	1
+骨灰房	gu hui fang	1
+都放假啦	dou fang jia la	1
+我放一天	wo fang yi tian	1
+我已经上车了	wo yi jing shang che le	1
+走人工	zou ren gong	1
+我就放一天	wo jiu fang yi tian	1
+你那趟	ni na tang	1
+假期之后	jia qi zhi hou	1
+差点没赶上	cha dian mei gan shang	1
+清团	qing tuan	1
+他不回去	ta bu hui qu	1
+愿一切平安	yuan yi qie ping an	1
+假期开始了	jia qi kai shi le	1
+先放假	xian fang jia	1
+赣州站	gan zhou zhan	1
+你放学没	ni fang xue mei	1
+收假来	shou jia lai	1
+我坐上车啦	wo zuo shang che la	1
+节假日了	jie jia ri le	1
+晚多久	wan duo jiu	1
+回家扫墓	hui jia sao mu	1
+我三月三	wo san yue san	1
+放的早	fang de zao	1
+过起节	guo qi jie	1
+等收假	deng shou jia	1
+你还没上车	ni hai mei shang che	1
+已经在家了	yi jing zai jia le	1
+全回家	quan hui jia	1
+我拟录取	wo ni lu qu	1
+放家了	fang jia le	1
+大清明的	da qing ming de	1
+爱的镜头	ai de jing tou	1
+都上岸了	dou shang an le	1
+要上坟	yao shang fen	1
+清明呢	qing ming ne	1
+待学校	dai xue xiao	1
+你也回	ni ye hui	1
+已过万重山	yi guo wan chong shan	1
+一直晚点	yi zhi wan dian	1
+要节后了	yao jie hou le	1
+你们放假没	ni men fang jia mei	1
+共三天	gong san tian	1
+继承不了	ji cheng bu liao	1
+临放假	lin fang jia	1
+到车站了吗	dao che zhan le ma	1
+去车站了	qu che zhan le	1
+小长假了	xiao chang jia le	1
+五一吧	wu yi ba	1
+卢纯才	lu chun cai	1
+两百多分钟	liang bai duo fen zhong	1
+假期三天	jia qi san tian	1
+假期开始	jia qi kai shi	1
+晚点时间	wan dian shi jian	1
+最后一节课了	zui hou yi jie ke le	1
+我退票了	wo tui piao le	1
+清明安康	qing ming an kang	1
+那就节后	na jiu jie hou	1
+清明放假了	qing ming fang jia le	1
+旷一次	kuang yi ci	1
+边吧	bian ba	1
+这高铁	zhe gao tie	1
+终于上车了	zhong yu shang che le	1
+潘嘎之交	pan ga zhi jiao	1
+铲山	chan shan	1
+不晚托	bu wan tuo	1
+沈唯一	shen wei yi	1
+暴击头	bao ji tou	1
+韩一杰	han yi jie	1
+画了不买	hua le bu mai	1
+生命杯	sheng ming bei	1
+踏沙	ta sha	1
+再上一天班	zai shang yi tian ban	1
+角色日	jue se ri	1
+转编	zhuan bian	1
+更新面板	geng xin mian ban	1
+宗春山	zong chun shan	1
+泄题了	xie ti le	1
+爆伤头	bao shang tou	1
+五不中	wu bu zhong	1
+快点逃	kuai dian tao	1
+唯卓仕	wei zhuo shi	1
+葛小舞	ge xiao wu	1
+进面了吗	jin mian le ma	1
+哪位老铁	na wei lao tie	1
+七日世界	qi ri shi jie	1
+猎人套	lie ren tao	1
+吉林省考	ji lin sheng kao	1
+大雪饼	da xue bing	1
+抽龙王	chou long wang	1
+吹烂了	chui lan le	1
+仓古	cang gu	1
+换池子	huan chi zi	1
+我已归来	wo yi gui lai	1
+月书	yue shu	1
+那维莱獭	na wei lai ta	1
+后天清明	hou tian qing ming	1
+连人带床	lian ren dai chuang	1
+开转	kai zhuan	1
+可代课	ke dai ke	1
+风雹	feng bao	1
+川职	chuan zhi	1
+四川单招	si chuan dan zhao	1
+伍声	wu sheng	1
+川护	chuan hu	1
+下大暴雨了	xia da bao yu le	1
+补一天	bu yi tian	1
+你申论	ni shen lun	1
+益肝宝	yi gan bao	1
+要下暴雨了	yao xia bao yu le	1
+那个雷	na ge lei	1
+吹过的夏天	chui guo de xia tian	1
+围外	wei wai	1
+倒了天	dao le tian	1
+城欲摧	cheng yu cui	1
+精彩二门	jing cai er men	1
+花草蛋	hua cao dan	1
+十级大风	shi ji da feng	1
+吹下来了	chui xia lai le	1
+又下大雨了	you xia da yu le	1
+清明来	qing ming lai	1
+跳脸	tiao lian	1
+出成绩啦	chu cheng ji la	1
+节后回来	jie hou hui lai	1
+节后来	jie hou lai	1
+后天就放假了	hou tian jiu fang jia le	1
+华生科技	hua sheng ke ji	1
+内容警告	nei rong jing gao	1
+退订率	tui ding lv	1
+节后去	jie hou qu	1
+飞南	fei nan	1
+节后再说吧	jie hou zai shuo ba	1
+明天放假不	ming tian fang jia bu	1
+深海套	shen hai tao	1
+台州西	tai zhou xi	1
+雷厂长	lei chang zhang	1
+也晚点了	ye wan dian le	1
+车站大屏	che zhan da ping	1
+古贺祐大	gu he you da	1
+熊生	xiong sheng	1
+你行测	ni xing ce	1
+眼仔	yan zai	1
+何雍正	he yong zheng	1
+这个清明	zhe ge qing ming	1
+我下午还有课	wo xia wu hai you ke	1
+改签不了	gai qian bu liao	1
+停运的	ting yun de	1
+好多高铁	hao duo gao tie	1
+今天地震了	jin tian di zhen le	1
+拿被褥	na bei ru	1
+五一再回	wu yi zai hui	1
+新城快线	xin cheng kuai xian	1
+奶油兔	nai you tu	1
+那行李箱	na xing li xiang	1
+填海平	tian hai ping	1
+全晚点	quan wan dian	1
+公共地图	gong gong di tu	1
+彩庆	cai qing	1
+亲自开门	qin zi kai men	1
+今天地震	jin tian di zhen	1
+非侠	fei xia	1
+我一点感觉都没有	wo yi dian gan jue dou mei you	1
+四川党建	si chuan dang jian	1
+河南工贸	he nan gong mao	1
+下午就放假了	xia wu jiu fang jia le	1
+有感受到	you gan shou dao	1
+华尔泰	hua er tai	1
+离校申请	li xiao shen qing	1
+世界深处	shi jie shen chu	1
+地震影响	di zhen ying xiang	1
+全部晚点	quan bu wan dian	1
+北铜	bei tong	1
+去向登记	qu xiang deng ji	1
+潮悦南塘	chao yue nan tang	1
+离台湾	li tai wan	1
+七点四	qi dian si	1
+天津市考	tian jin shi kao	1
+啥地震	sha di zhen	1
+全是地震	quan shi di zhen	1
+地震了没	di zhen le mei	1
+因为地震	yin wei di zhen	1
+日本台湾	ri ben tai wan	1
+有海啸	you hai xiao	1
+什么地震	shen me di zhen	1
+都说地震了	dou shuo di zhen le	1
+经常地震	jing chang di zhen	1
+还地震	hai di zhen	1
+啥也没感觉到	sha ye mei gan jue dao	1
+早上地震了	zao shang di zhen le	1
+早上地震	zao shang di zhen	1
+地震前	di zhen qian	1
+会地震	hui di zhen	1
+我毫无感觉	wo hao wu gan jue	1
+瑞泰新材	rui tai xin cai	1
+在抖腿	zai dou tui	1
+你有感觉到	ni you gan jue dao	1
+你感觉到没	ni gan jue dao mei	1
+要不要跑	yao bu yao pao	1
+一点没感觉	yi dian mei gan jue	1
+离返校	li fan xiao	1
+晃床	huang chuang	1
+你们放假不	ni men fang jia bu	1
+你节后	ni jie hou	1
+这清明	zhe qing ming	1
+节中	jie zhong	1
+地震带上	di zhen dai shang	1
+自己头晕	zi ji tou yun	1
+楼晃了	lou huang le	1
+晃了吗	huang le ma	1
+地震提醒	di zhen ti xing	1
+日本地震了	ri ben di zhen le	1
+真的地震了	zhen de di zhen le	1
+也有地震	ye you di zhen	1
+这次地震	zhe ci di zhen	1
+听说地震了	ting shuo di zhen le	1
+都说地震	dou shuo di zhen	1
+还有地震	hai you di zhen	1
+那里地震	na li di zhen	1
+是我头晕	shi wo tou yun	1
+有地震吗	you di zhen ma	1
+灯都在晃	deng dou zai huang	1
+台湾日本	tai wan ri ben	1
+那地震	na di zhen	1
+那边地震	na bian di zhen	1
+都跑下楼	dou pao xia lou	1
+就地震了	jiu di zhen le	1
+都跑下楼了	dou pao xia lou le	1
+真的地震	zhen de di zhen	1
+地震过了	di zhen guo le	1
+楼晃	lou huang	1
+不会地震	bu hui di zhen	1
+感受地震	gan shou di zhen	1
+七点多级	qi dian duo ji	1
+这个地震	zhe ge di zhen	1
+你有感觉到吗	ni you gan jue dao ma	1
+台湾大地震	tai wan da di zhen	1
+我这没感觉	wo zhe mei gan jue	1
+床在动	chuang zai dong	1
+也震	ye zhen	1
+很摇	hen yao	1
+七点几级	qi dian ji ji	1
+晃醒的	huang xing de	1
+有震感吗	you zhen gan ma	1
+都跑下来	dou pao xia lai	1
+全跑出来了	quan pao chu lai le	1
+这么晃	zhe me huang	1
+晃了几下	huang le ji xia	1
+地震的时候	di zhen de shi hou	1
+也晃	ye huang	1
+再晃	zai huang	1
+一地震	yi di zhen	1
+就地震	jiu di zhen	1
+波及到了	bo ji dao le	1
+二十几楼	er shi ji lou	1
+楼下跑	lou xia pao	1
+冲下楼	chong xia lou	1
+不地震	bu di zhen	1
+也感受到了	ye gan shou dao le	1
+晃晕	huang yun	1
+有点晃	you dian huang	1
+巨明显	ju ming xian	1
+摇晃感	yao huang gan	1
+有感觉到吗	you gan jue dao ma	1
+在摇床	zai yao chuang	1
+是不是地震	shi bu shi di zhen	1
+都在地震	dou zai di zhen	1
+人在晃	ren zai huang	1
+你们感觉到了吗	ni men gan jue dao le ma	1
+都跑下去了	dou pao xia qu le	1
+你们有感觉吗	ni men you gan jue ma	1
+也在摇	ye zai yao	1
+又在晃	you zai huang	1
+晃了好久	huang le hao jiu	1
+你们感觉到	ni men gan jue dao	1
+陆九卿	lu jiu qing	1
+福建洛江	fu jian luo jiang	1
+摇我床	yao wo chuang	1
+地震了么	di zhen le me	1
+你们有感觉	ni men you gan jue	1
+摇得好厉害	yao de hao li hai	1
+给我晃醒了	gei wo huang xing le	1
+床都在晃	chuang dou zai huang	1
+地震没	di zhen mei	1
+还有余震	hai you yu zhen	1
+大地震了	da di zhen le	1
+一直在摇	yi zhi zai yao	1
+房子在晃	fang zi zai huang	1
+好像地震了	hao xiang di zhen le	1
+地震了吧	di zhen le ba	1
+都地震了	dou di zhen le	1
+被晃醒了	bei huang xing le	1
+地震过	di zhen guo	1
+是地震了	shi di zhen le	1
+地在晃	di zai huang	1
+都地震	dou di zhen	1
+宋惜惜	song xi xi	1
+真地震了	zhen di zhen le	1
+都跑下来了	dou pao xia lai le	1
+又震了	you zhen le	1
+地震哈	di zhen ha	1
+哪里地震	na li di zhen	1
+假前	jia qian	1
+说地震	shuo di zhen	1
+又地震	you di zhen	1
+晃的	huang de	1
+地震咯	di zhen ge	1
+台湾附近	tai wan fu jin	1
+刚才地震	gang cai di zhen	1
+在摇晃	zai yao huang	1
+刚地震了	gang di zhen le	1
+这地震	zhe di zhen	1
+刚刚地震	gang gang di zhen	1
+跑下楼了	pao xia lou le	1
+一直摇	yi zhi yao	1
+地震感觉	di zhen gan jue	1
+真地震	zhen di zhen	1
+也地震	ye di zhen	1
+台湾那边	tai wan na bian	1
+很晃	hen huang	1
+晃起来了	huang qi lai le	1
+都在摇	dou zai yao	1
+好晃	hao huang	1
+刚地震	gang di zhen	1
+台湾地震了	tai wan di zhen le	1
+竹不如肉	zhu bu ru rou	1
+遗君	yi jun	1
+小甜莓	xiao tian mei	1
+金娘子	jin niang zi	1
+团宠千金	tuan chong qian jin	1
+刘小莫	liu xiao mo	1
+一个二技能	yi ge er ji neng	1
+丝不如竹	si bu ru zhu	1
+有书读了	you shu du le	1
+假后	jia hou	1
+毕安卡	bi an ka	1
+一起去看日出吧	yi qi qu kan ri chu ba	1
+日出演唱会	ri chu yan chang hui	1
+日出吧	ri chu ba	1
+方尖龙	fang jian long	1
+阳上人	yang shang ren	1
+朱轩洋	zhu xuan yang	1
+点将卡	dian jiang ka	1
+三星浏览器	san xing liu lan qi	1
+离校登记表	li xiao deng ji biao	1
+雨下的好大	yu xia de hao da	1
+清明里	qing ming li	1
+星之后裔	xing zhi hou yi	1
+众源新材	zhong yuan xin cai	1
+要节后	yao jie hou	1
+海泰科	hai tai ke	1
+怪物转生	guai wu zhuan sheng	1
+雀魂吧	que hun ba	1
+昨天愚人节	zuo tian yu ren jie	1
+告别之作	gao bie zhi zuo	1
+真的装	zhen de zhuang	1
+周三回家	zhou san hui jia	1
+被表白了	bei biao bai le	1
+带床	dai chuang	1
+卓澜江	zhuo lan jiang	1
+卷出去	juan chu qu	1
+阿璃	a li	1
+发发日	fa fa ri	1
+广幼	guang you	1
+在加纳共和国	zai jia na gong he guo	1
+蒋胡	jiang hu	1
+愚人节过了	yu ren jie guo le	1
+戚十一	qi shi yi	1
+绿巴萨	lv ba sa	1
+刮出去	gua chu qu	1
+呼安	hu an	1
+结斯沟	jie si gou	1
+清明过了	qing ming guo le	1
+旭旭妹妹	xu xu mei mei	1
+逆天奇案	ni tian qi an	1
+炽心	chi xin	1
+幽默时刻	you mo shi ke	1
+北车寄	bei che ji	1
+我要迪士尼	wo yao di shi ni	1
+体专	ti zhuan	1
+光剑哥	guang jian ge	1
+八斯美	ba si mei	1
+住高层	zhu gao ceng	1
+电子斗蛐蛐	dian zi dou qu qu	1
+敢耍我	gan shua wo	1
+珠江大桥	zhu jiang da qiao	1
+敢耍老子	gan shua lao zi	1
+五路冲拳	wu lu chong quan	1
+上岸啦	shang an la	1
+公益大课堂	gong yi da ke tang	1
+真信了	zhen xin le	1
+西部志愿汇	xi bu zhi yuan hui	1
+兰马	lan ma	1
+吹下去了	chui xia qu le	1
+五一回	wu yi hui	1
+丢小孩	diu xiao hai	1
+丛雨松	cong yu song	1
+阿马杜	a ma du	1
+四月见	si yue jian	1
+斑马音乐节	ban ma yin yue jie	1
+口感超顺滑	kou gan chao shun hua	1
+上市大品牌	shang shi da pin pai	1
+马纳法	ma na fa	1
+三闷棍	san men gun	1
+就放假啦	jiu fang jia la	1
+洁世一	jie shi yi	1
+冰心泪	bing xin lei	1
+汪汪拳	wang wang quan	1
+精选专	jing xuan zhuan	1
+母亲山	mu qin shan	1
+高钙高蛋白	gao gai gao dan bai	1
+银利多	yin li duo	1
+阿舅奈斯	a jiu nai si	1
+刷战功	shua zhan gong	1
+狗牯仔	gou gu zai	1
+大陆赛区	da lu sai qu	1
+低滚阻	di gun zu	1
+商谷	shang gu	1
+阿潮	a chao	1
+随春醒	sui chun xing	1
+好签	hao qian	1
+周四周五周六	zhou si zhou wu zhou liu	1
+回归两次	hui gui liang ci	1
+冀队	ji dui	1
+冰雹预警	bing bao yu jing	1
+拟录取了	ni lu qu le	1
+真假朋友	zhen jia peng you	1
+梵星	fan xing	1
+炸清	zha qing	1
+有效粉丝	you xiao fen si	1
+伟梦清水湾	wei meng qing shui wan	1
+扔下来了	reng xia lai le	1
+有效粉	you xiao fen	1
+澈吧	che ba	1
+砍伤了	kan shang le	1
+陕交	shan jiao	1
+你愚人节	ni yu ren jie	1
+小丑节	xiao chou jie	1
+婆婆吵架	po po chao jia	1
+枫霜尽	feng shuang jin	1
+十选五	shi xuan wu	1
+扔小孩	reng xiao hai	1
+扔孩子	reng hai zi	1
+骗不到我	pian bu dao wo	1
+淬了毒	cui le du	1
+金银门	jin yin men	1
+姚志明	yao zhi ming	1
+丽都锦城	li du jin cheng	1
+禾米麻薯	he mi ma shu	1
+缥缈之刃	piao miao zhi ren	1
+北方铜业	bei fang tong ye	1
+梦想指针	meng xiang zhi zhen	1
+豫教	yu jiao	1
+在愚人节	zai yu ren jie	1
+近特	jin te	1
+这愚人节	zhe yu ren jie	1
+不愚人	bu yu ren	1
+该很好	gai hen hao	1
+鸭宝	ya bao	1
+添土	tian tu	1
+传火吗	chuan huo ma	1
+都四月了	dou si yue le	1
+传个火	chuan ge huo	1
+安全承德	an quan cheng de	1
+嬷法师	mo fa shi	1
+十中九	shi zhong jiu	1
+被骗到了	bei pian dao le	1
+抖个机灵	dou ge ji ling	1
+抖个	dou ge	1
+这周只上	zhei zhou zhi shang	1
+愚弄我	yu nong wo	1
+这周就上	zhei zhou jiu shang	1
+你若尚在场	ni ruo shang zai chang	1
+方天画	fang tian hua	1
+承保了	cheng bao le	1
+技能考	ji neng kao	1
+传火码	chuan huo ma	1
+公生	gong sheng	1
+林葳	lin wei	1
+没有你的四月	mei you ni de si yue	1
+郑雅譞	zheng ya xuan	1
+四月啦	si yue la	1
+十剪纸	shi jian zhi	1
+潮霸	chao ba	1
+嘟嘟哒	du du da	1
+魔术丝	mo shu si	1
+铁好人	tie hao ren	1
+擎天卫	qing tian wei	1
+愚人节到了	yu ren jie dao le	1
+你鞋带开了	ni xie dai kai le	1
+四月第一天	si yue di yi tian	1
+四月一号了	si yue yi hao le	1
+过愚人节	guo yu ren jie	1
+四月好	si yue hao	1
+小会员了	xiao hui yuan le	1
+第一骗	di yi pian	1
+徐八月	xu ba yue	1
+爱豆驿站	ai dou yi zhan	1
+保时	bao shi	1
+准时起	zhun shi qi	1
+哼哼帝国	heng heng di guo	1
+小绿杯	xiao lv bei	1
+周三放	zhou san fang	1
+罚款五块	fa kuan wu kuai	1
+玖贰	jiu er	1
+进考场了	jin kao chang le	1
+拜完山	bai wan shan	1
+正清明	zheng qing ming	1
+挂山	gua shan	1
+只用上	zhi yong shang	1
+只上三天	zhi shang san tian	1
+三天学	san tian xue	1
+在扫墓	zai sao mu	1
+十万单	shi wan dan	1
+就上三天	jiu shang san tian	1
+插青	cha qing	1
+浞河	zhuo he	1
+我上坟	wo shang fen	1
+雷竹笋	lei zhu sun	1
+乔熏	qiao xun	1
+杀意感知	sha yi gan zhi	1
+吉星转	ji xing zhuan	1
+复活节快乐	fu huo jie kuai le	1
+陆泽	lu ze	1
+二巡见	er xun jian	1
+不打帮战	bu da bang zhan	1
+带好远	dai hao yuan	1
+沃特艾文儿	wo te ai wen er	1
+三星永恩	san xing yong en	1
+责任神	ze ren shen	1
+拥序	yong xu	1
+丙组	bing zu	1
+阖眼	he yan	1
+融中	rong zhong	1
+红衣醉	hong yi zui	1
+诗寇蒂	shi kou di	1
+冰封东海	bing feng dong hai	1
+有香	you xiang	1
+胜部	sheng bu	1
+远航版	yuan hang ban	1
+龙队加油	long dui jia you	1
+渔皇路	yu huang lu	1
+福利不停	fu li bu ting	1
+巅峰盛典	dian feng sheng dian	1
+铁定溜溜	tie ding liu liu	1
+抢锦鲤	qiang jin li	1
+发锦鲤	fa jin li	1
+宝了个贝	bao le ge bei	1
+线下观影	xian xia guan ying	1
+堂里	tang li	1
+星印	xing yin	1
+斗射	dou she	1
+没答上来	mei da shang lai	1
+茶猫	cha mao	1
 提灯定损	ti deng ding sun	1
 绣衣天下	xiu yi tian xia	1
 无畏无敌	wu wei wu di	1
@@ -573,8 +1357,6 @@ use_preset_vocabulary: false
 富江返场	fu jiang fan chang	1
 法沫溪	fa mo xi	1
 渡见春	du jian chun	1
-不得不抽	bu de bu chou	1
-必须死刑	bi xu si xing	1
 北方汽配	bei fang qi pei	1
 暗扇	an shan	1
 制茶繁忙	zhi cha fan mang	1
@@ -734,7 +1516,6 @@ use_preset_vocabulary: false
 福茂集团	fu mao ji tuan	1
 蛾部	e bu	1
 淡人	dan ren	1
-长调民歌	chang diao min ge	1
 步步深陷	bu bu shen xian	1
 不封斋	bu feng zhai	1
 彼得严	bi de yan	1
@@ -1113,7 +1894,6 @@ use_preset_vocabulary: false
 师总	shi zong	1
 圣兽之王	sheng shou zhi wang	1
 射艺	she yi	1
-少上一天	shao shang yi tian	1
 三民岛	san min dao	1
 如翁	ru weng	1
 桥夹	qiao jia	1
@@ -1684,7 +2464,6 @@ use_preset_vocabulary: false
 打春啦	da chun la	1
 打春鸡	da chun ji	1
 潮水啊	chao shui a	1
-铲不完	chan bu wan	1
 草木知	cao mu zhi	1
 不躲春	bu duo chun	1
 不保单	bu bao dan	1
@@ -2077,7 +2856,6 @@ use_preset_vocabulary: false
 大姆山	da mu shan	1
 出大太阳了	chu da tai yang le	1
 陈红强	chen hong qiang	1
-不亲昵	bu qin ni	1
 不及黄泉	bu ji huang quan	1
 边邑	bian yi	1
 安可场	an ke chang	1
@@ -2345,7 +3123,6 @@ use_preset_vocabulary: false
 吹越位	chui yue wei	1
 传熙	chuan xi	1
 陈檀佳酿	chen tan jia niang	1
-参与进攻	can yu jin gong	1
 补发师	bu fa shi	1
 避人	bi ren	1
 橘座	ju zuo	1
@@ -2774,7 +3551,6 @@ use_preset_vocabulary: false
 孙孚凌	sun fu ling	1
 实质的一罪	shi zhi de yi zui	1
 食养礼	shi yang li	1
-身娇体柔易推倒	shen jiao ti rou yi tui dao	1
 伤土	shang tu	1
 热极	re ji	1
 裙下客	qun xia ke	1
@@ -2947,7 +3723,6 @@ use_preset_vocabulary: false
 沉玉谷	chen yu gu	1
 藏睡	cang shui	1
 不摇了	bu yao le	1
-不晃了	bu huang le	1
 鳖盖	bie gai	1
 惄焉如捣	ni yan ru dao	1
 涮点	shuan dian	1
@@ -3014,7 +3789,6 @@ use_preset_vocabulary: false
 等雪停了	deng xue ting le	1
 等下雪了	deng xia xue le	1
 踩进去	cai jin qu	1
-不打雪仗	bu da xue zhang	1
 冰球球	bing qiu qiu	1
 冰粒粒	bing li li	1
 冰蛋子	bing dan zi	1
@@ -3168,7 +3942,6 @@ use_preset_vocabulary: false
 车打滑	che da hua	1
 铲完	chan wan	1
 踩踩雪	cai cai xue	1
-不积雪	bu ji xue	1
 不好骑	bu hao qi	1
 不堆	bu dui	1
 别人堆得	bie ren dui de	1
@@ -3326,7 +4099,6 @@ use_preset_vocabulary: false
 盖庙	gai miao	1
 登网	deng wang	1
 大声发	da sheng fa	1
-不假唱	bu jia chang	1
 鹫儿	jiu er	1
 昙月	tan yue	1
 咪猪	mi zhu	1
@@ -4151,7 +4923,6 @@ use_preset_vocabulary: false
 吹死我	chui si wo	1
 不雪休	bu xue xiu	1
 不抗寒	bu kang han	1
-不防汗	bu fang han	1
 白芙	bai fu	1
 八花	ba hua	1
 中华有尺	zhong hua you chi	1
@@ -4400,7 +5171,6 @@ use_preset_vocabulary: false
 茨茨	ci ci	1
 纯情狐狸	chun qing hu li	1
 陈少熙	chen shao xi	1
-不负此刻	bu fu ci ke	1
 碧落天	bi luo tian	1
 奂彩	huan cai	1
 周筱风	zhou xiao feng	1
@@ -4443,7 +5213,6 @@ use_preset_vocabulary: false
 钢岚	gang lan	1
 颠公	dian gong	1
 楚天社	chu tian she	1
-不得不调	bu de bu tiao	1
 冰武	bing wu	1
 蕨草	jue cao	1
 字少事大	zi shao shi da	1
@@ -4884,7 +5653,6 @@ use_preset_vocabulary: false
 苏易水	su yi shui	1
 守午睡	shou wu shui	1
 守睡	shou shui	1
-少女地狱	shao nv di yu	1
 上早八了	shang zao ba le	1
 上延时	shang yan shi	1
 全电	quan dian	1
@@ -5807,8 +6575,6 @@ use_preset_vocabulary: false
 朝姐	chao jie	1
 兵卡	bing ka	1
 氚元素	chuan yuan su	1
-自然老死	zi ran lao si	1
-自己喝掉	zi ji he diao	1
 终日奔波苦	zhong ri ben bo ku	1
 中核派	zhong he pai	1
 直接变异	zhi jie bian yi	1
@@ -5852,7 +6618,6 @@ use_preset_vocabulary: false
 什么盐	shen me yan	1
 十包盐	shi bao yan	1
 生物富集	sheng wu fu ji	1
-深井盐	shen jing yan	1
 三十袋	san shi dai	1
 入海了	ru hai le	1
 缺盐	que yan	1
@@ -6123,7 +6888,6 @@ use_preset_vocabulary: false
 催科山	cui ke shan	1
 出伏了	chu fu le	1
 不捆	bu kun	1
-比苏马	bi su ma	1
 豚豚剧	tun tun ju	1
 装腔启示录	zhuang qiang qi shi lu	1
 在团期间	zai tuan qi jian	1
@@ -6486,7 +7250,6 @@ use_preset_vocabulary: false
 尘夏	chen xia	1
 朝陇山	chao long shan	1
 超星团	chao xing tuan	1
-操办仪式	cao ban yi shi	1
 彩带吗	cai dai ma	1
 才感盛夏	cai gan sheng xia	1
 标准糖	biao zhun tang	1
@@ -7627,8 +8390,6 @@ use_preset_vocabulary: false
 尸骸之舞	shi hai zhi wu	1
 胜宽	sheng kuan	1
 上战歌	shang zhan ge	1
-上单互换	shang dan hu huan	1
-上单差距	shang dan cha ju	1
 山东药品食品职业学院	shan dong yao pin shi pin zhi ye xue yuan	1
 山东信息职业技术学院	shan dong xin xi zhi ye ji shu xue yuan	1
 三换三	san huan san	1
@@ -7683,7 +8444,6 @@ use_preset_vocabulary: false
 不吃线	bu chi xian	1
 暴力香槟	bao li xiang bin	1
 转腚	zhuan ding	1
-专科志愿填报	zhuan ke zhi yuan tian bao	1
 中文卡背	zhong wen ka bei	1
 智慧上进	zhi hui shang jin	1
 直播票	zhi bo piao	1
@@ -7915,7 +8675,6 @@ use_preset_vocabulary: false
 沈阳科技学院	shen yang ke ji xue yuan	1
 深圳国际电玩节	shen zhen guo ji dian wan jie	1
 深大加油	shen da jia you	1
-少年梦工厂	shao nian meng gong chang	1
 山水豪庭	shan shui hao ting	1
 山东融军保	shan dong rong jun bao	1
 山东劳动职业技术学院	shan dong lao dong zhi ye ji shu xue yuan	1
@@ -8840,7 +9599,6 @@ use_preset_vocabulary: false
 沧州大牢	cang zhou da lao	1
 冰伤天	bing shang tian	1
 闭嘴家族	bi zui jia zu	1
-毕业宴会	bi ye yan hui	1
 毕节特岗	bi jie te gang	1
 贝极星	bei ji xing	1
 办他姐	ban ta jie	1
@@ -9327,7 +10085,6 @@ use_preset_vocabulary: false
 猎梦	lie meng	1
 记忆的静物	ji yi de jing wu	1
 一生护你	yi sheng hu ni	1
-少女之花	shao nv zhi hua	1
 扣问号	kou wen hao	1
 灰暗泥沼	hui an ni zhao	1
 狗找到了	gou zhao dao le	1
@@ -9444,7 +10201,6 @@ use_preset_vocabulary: false
 干一行恨一行	gan yi hang hen yi hang	1
 陷入我们的热恋	xian ru wo men de re lian	1
 南洋女儿情	nan yang nv er qing	1
-曹操盖饭	cao cao gai fan	1
 识律	shi lv	1
 僵尸毁灭工程	jiang shi hui mie gong cheng	1
 小飞奔	xiao fei ben	1
@@ -9506,7 +10262,6 @@ use_preset_vocabulary: false
 大数据调查法	da shu ju diao cha fa	1
 对面重开了	dui mian chong kai le	1
 李宗恒	li zong heng	1
-丙烯马克笔	bing xi ma ke bi	1
 契灵	qi ling	1
 数码恋人	shu ma lian ren	1
 上级党组织	shang ji dang zu zhi	1
@@ -9970,7 +10725,6 @@ use_preset_vocabulary: false
 手太短了	shou tai duan le	1
 神中神	shen zhong shen	1
 上强度了	shang qiang du le	1
-上二休二	shang er xiu er	1
 陕西工商职业学院	shan xi gong shang zhi ye xue yuan	1
 杀鸡一样	sha ji yi yang	1
 三个务必	san ge wu bi	1
@@ -10094,7 +10848,6 @@ use_preset_vocabulary: false
 实验助手	shi yan zhu shou	1
 石家庄邮电	shi jia zhuang you dian	1
 上民办	shang min ban	1
-上公办	shang gong ban	1
 商丘医专	shang qiu yi zhuan	1
 任旭明	ren xu ming	1
 脑髓地狱	nao sui di yu	1
@@ -10333,7 +11086,6 @@ use_preset_vocabulary: false
 黑磁	hei ci	1
 副游	fu you	1
 恶鼠	e shu	1
-代看	dai kan	1
 存护	cun hu	1
 星琼	xing qiong	1
 希露瓦	xi lu wa	1
