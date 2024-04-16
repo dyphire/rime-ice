@@ -38,7 +38,7 @@ jobs:
         mv temp/luna_pinyin_simp.sogou_total_dict.official.dict.yaml ext_dicts/sogou_total_dict.official.dict.yaml
         mv temp/luna_pinyin_simp.sogou_total_dict.unofficial.dict.yaml ext_dicts/sogou_total_dict.unofficial.dict.yaml
         rm -rf temp rime-dict-non-tengxun-del.yaml.tar.gz
-        python3 others/script/python/MergeDict.py cn_dicts/tencent.dict.yaml cn_dicts/ext.dict.yaml cn_dicts/base.dict.yaml ext_dicts/base.dict.yaml
+        python3 others/script/python/MergeDict.py cn_dicts/ext.dict.yaml cn_dicts/base.dict.yaml ext_dicts/base.dict.yaml
         python3 others/script/python/ReDict.py ext_dicts/base.dict.yaml ext_dicts/wiki_dict.dict.yaml ext_dicts/wiki_dict.dict.yaml
         python3 others/script/python/ReDict.py ext_dicts/base.dict.yaml ext_dicts/sogou_total_dict.official.dict.yaml ext_dicts/sogou_total_dict.official.dict.yaml
         python3 others/script/python/ReDict.py ext_dicts/base.dict.yaml ext_dicts/sogou_total_dict.unofficial.dict.yaml ext_dicts/sogou_total_dict.unofficial.dict.yaml
