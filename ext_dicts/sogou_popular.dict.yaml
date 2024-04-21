@@ -1,10 +1,782 @@
 ---
 name: sogou_popular
-version: "2024.04.16"
+version: "2024.04.21"
 sort: by_weight
 use_preset_vocabulary: false
 ...
 
+龙年纪念钞	long nian ji nian chao	1
+约纪念币	yue ji nian bi	1
+有进度条	you jin du tiao	1
+你飘摇的美丽	ni piao yao de mei li	1
+盖水	gai shui	1
+申裕斌	shen yu bin	1
+龙钞龙币	long chao long bi	1
+吹杨	chui yang	1
+鸿运蛋	hong yun dan	1
+熔炉密林	rong lu mi lin	1
+超聚光	chao ju guang	1
+宪王	xian wang	1
+魔蟹	mo xie	1
+真智能	zhen zhi neng	1
+改装大作战	gai zhuang da zuo zhan	1
+一起看直播	yi qi kan zhi bo	1
+莎莎加油	sha sha jia you	1
+拂冬	fu dong	1
+逗笑社	dou xiao she	1
+直播领福利	zhi bo ling fu li	1
+狮子之牙	shi zi zhi ya	1
+一起来摸鱼	yi qi lai mo yu	1
+八十周	ba shi zhou	1
+白翅膀	bai chi bang	1
+虎杖悠仁吐血	hu zhang you ren tu xie	1
+落暴雨	luo bao yu	1
+区决	qu jue	1
+抵制黄牛	di zhi huang niu	1
+紫胖子	zi pang zi	1
+近电报警安全帽	jin dian bao jing an quan mao	1
+股指交割日	gu zhi jiao ge ri	1
+苦难诗社	ku nan shi she	1
+朱铁雄	zhu tie xiong	1
+石油杯	shi you bei	1
+开卖了	kai mai le	1
+万春逗笑社	wan chun dou xiao she	1
+无尽行动	wu jin xing dong	1
+王六堡	wang liu bao	1
+全免券	quan mian quan	1
+青鸾峰上	qing luan feng shang	1
+卫星通话	wei xing tong hua	1
+近电报警	jin dian bao jing	1
+凯指导	kai zhi dao	1
+能伸缩	neng shen suo	1
+无限起飞	wu xian qi fei	1
+赤血操术	chi xue cao shu	1
+下一站江湖	xia yi zhan jiang hu	1
+产业奖补	chan ye jiang bu	1
+龙钞票	long chao piao	1
+流苏节	liu su jie	1
+九相图	jiu xiang tu	1
+环博会	huan bo hui	1
+黑魔纹	hei mo wen	1
+李先进	li xian jin	1
+瓦菲	wa fei	1
+三月初十	san yue chu shi	1
+平野美宇	ping ye mei yu	1
+伏魔御厨子	fu mo yu chu zi	1
+果里果气	guo li guo qi	1
+杨长顺	yang chang shun	1
+李闽轩	li min xuan	1
+首领外观	shou ling wai guan	1
+蓝礼物	lan li wu	1
+还没候补到	hai mei hou bu dao	1
+中文日	zhong wen ri	1
+直角边框	zhi jiao bian kuang	1
+潮爸	chao ba	1
+青年大学习了	qing nian da xue xi le	1
+赵秭浚	zhao zi jun	1
+食宝	shi bao	1
+进度条了	jin du tiao le	1
+雪域白	xue yu bai	1
+宜家荟聚	yi jia hui ju	1
+宿虎	su hu	1
+鲨鱼妹	sha yu mei	1
+二次预约	er ci yu yue	1
+青春上海	qing chun shang hai	1
+龙年纪念币	long nian ji nian bi	1
+黄色暴雨	huang se bao yu	1
+官宣视频	guan xuan shi pin	1
+同心瓶	tong xin ping	1
+场外站票	chang wai zhan piao	1
+写诗歌	xie shi ge	1
+第一百场	di yi bai chang	1
+斯佐科斯	si zuo ke si	1
+短焦指纹	duan jiao zhi wen	1
+长沙周杰伦	chang sha zhou jie lun	1
+科比怀特	ke bi huai te	1
+洛可可白	luo ke ke bai	1
+帮抽次数	bang chou ci shu	1
+帮我抽抽	bang wo chou chou	1
+素问的	su wen de	1
+谷雨节	gu yu jie	1
+谷雨前后	gu yu qian hou	1
+温庆运	wen qing yun	1
+米游铺	mi you pu	1
+双限定	shuang xian ding	1
+爱南宁	ai nan ning	1
+加曲	jia qu	1
+好吃不油腻	hao chi bu you ni	1
+联名店	lian ming dian	1
+出海吧	chu hai ba	1
+万丈目准	wan zhang mu zhun	1
+给张票吧	gei zhang piao ba	1
+免费周边	mian fei zhou bian	1
+龙队加油	long dui jia you	1
+莫尔索	mo er suo	1
+帮我抽一下	bang wo chou yi xia	1
+无周边	wu zhou bian	1
+制盐砖	zhi yan zhuan	1
+不是主题店	bu shi zhu ti dian	1
+蝠桃瓶	fu tao ping	1
+利簋	li gui	1
+关科长	guan ke zhang	1
+普通店	pu tong dian	1
+全是优惠券	quan shi you hui quan	1
+地铁故障	di tie gu zhang	1
+胡必亮	hu bi liang	1
+江湖套	jiang hu tao	1
+狸猫盘	li mao pan	1
+百戏大王	bai xi da wang	1
+倾天之战	qing tian zhi zhan	1
+特别活动	te bie huo dong	1
+帮抽	bang chou	1
+吃鸡套	chi ji tao	1
+山水谣	shan shui yao	1
+怒鬼	nu gui	1
+联动套餐	lian dong tao can	1
+华鲲振宇	hua kun zhen yu	1
+给我票吧	gei wo piao ba	1
+弥新	mi xin	1
+葆芯	bao xin	1
+好事临门	hao shi lin men	1
+叶间鸣戴胜	ye jian ming dai sheng	1
+暮春到	mu chun dao	1
+谷雨过后	gu yu guo hou	1
+段渠	duan qu	1
+中上铺	zhong shang pu	1
+谷雨节气	gu yu jie qi	1
+墨子皮肤	mo zi pi fu	1
+瑞士轮	rui shi lun	1
+地铁坏了	di tie huai le	1
+顾桑夏	gu sang xia	1
+扑点	pu dian	1
+珂珂甄选	ke ke zhen xuan	1
+双角色	shuang jue se	1
+今天谷雨	jin tian gu yu	1
+酒后失德	jiu hou shi de	1
+沈知星	shen zhi xing	1
+大神龛	da shen kan	1
+顶碗人	ding wan ren	1
+战支	zhan zhi	1
+毕毅	bi yi	1
+主看台	zhu kan tai	1
+三堡街	san bao jie	1
+年专	nian zhuan	1
+帮我候补	bang wo hou bu	1
+医疗暂停	yi liao zan ting	1
+鎏金骑士	liu jin qi shi	1
+扯淡碑	che dan bei	1
+狂野人生	kuang ye ren sheng	1
+神鲁肃	shen lu su	1
+哑机	ya ji	1
+喜剧节	xi ju jie	1
+呕吐毒素	ou tu du su	1
+二典	er dian	1
+郑轻	zheng qing	1
+信息支援部队	xin xi zhi yuan bu dui	1
+免单券	mian dan quan	1
+青纪之砂	qing ji zhi sha	1
+墨子新皮肤	mo zi xin pi fu	1
+猩红毒针	xing hong du zhen	1
+蝎子座	xie zi zuo	1
+半雨胎贪狼星	ban yu tai tan lang xing	1
+新内核	xin nei he	1
+四龙四凤座	si long si feng zuo	1
+联名套餐	lian ming tao can	1
+西部通道	xi bu tong dao	1
+五星出东方	wu xing chu dong fang	1
+还没候补上	hai mei hou bu shang	1
+贼大雨	zei da yu	1
+互抽	hu chou	1
+扣息	kou xi	1
+双面神	shuang mian shen	1
+漳城	zhang cheng	1
+对口号	dui kou hao	1
+红仙侣	hong xian lv	1
+省卫	sheng wei	1
+构术	gou shu	1
+天亡簋	tian wang gui	1
+玩餐厅	wan can ting	1
+一分一段	yi fen yi duan	1
+霉霉姐	mei mei jie	1
+冲刺排位赛	chong ci pai wei sai	1
+抢周边	qiang zhou bian	1
+荒羽	huang yu	1
+花婆节	hua po jie	1
+联名券	lian ming quan	1
+会降分	hui jiang fen	1
+快月底了	kuai yue di le	1
+冲刺赛	chong ci sai	1
+米波雷达	mi bo lei da	1
+天蓝瓶	tian lan ping	1
+圣使	sheng shi	1
+器者	qi zhe	1
+漳卫	zhang wei	1
+都是优惠券	dou shi you hui quan	1
+春天多浪漫	chun tian duo lang man	1
+网页活动	wang ye huo dong	1
+战棋类	zhan qi lei	1
+活动券	huo dong quan	1
+没周边	mei zhou bian	1
+开江节	kai jiang jie	1
+省控	sheng kong	1
+全滑	quan hua	1
+对掌	dui zhang	1
+陶强龙	tao qiang long	1
+左右家居	zuo you jia ju	1
+有人退票	you ren tui piao	1
+候补成功了	hou bu cheng gong le	1
+候补生	hou bu sheng	1
+生化剑客	sheng hua jian ke	1
+够补	gou bu	1
+正在现场	zheng zai xian chang	1
+又在打雷	you zai da lei	1
+弱点突袭	ruo dian tu xi	1
+破票	po piao	1
+上大屏	shang da ping	1
+售票了	shou piao le	1
+全部售罄	quan bu shou qing	1
+春日印象	chun ri yin xiang	1
+合肥信息	he fei xin xi	1
+邯郸幼儿	han dan you er	1
+要票票	yao piao piao	1
+给我张票	gei wo zhang piao	1
+抢了张	qiang le zhang	1
+决策会	jue ce hui	1
+录制顺利	lu zhi shun li	1
+都在候补	dou zai hou bu	1
+都是候补	dou shi hou bu	1
+抢票失败	qiang piao shi bai	1
+我先候补	wo xian hou bu	1
+没候补	mei hou bu	1
+幸福基金	xing fu ji jin	1
+板神	ban shen	1
+零靠墙	ling kao qiang	1
+无限暖暖	wu xian nuan nuan	1
+肉披萨	rou pi sa	1
+紫色恶魔	zi se e mo	1
+中原通	zhong yuan tong	1
+向远生	xiang yuan sheng	1
+韩卡	han ka	1
+雪蛋子	xue dan zi	1
+我只活一次	wo zhi huo yi ci	1
+五一出去玩吗	wu yi chu qu wan ma	1
+今晚涨价	jin wan zhang jia	1
+又要涨了	you yao zhang le	1
+谢尔豪	xie er hao	1
+奥恩神器	ao en shen qi	1
+制造处	zhi zao chu	1
+渝门	yu men	1
+心理援助	xin li yuan zhu	1
+中文词汇	zhong wen ci hui	1
+左右沙发	zuo you sha fa	1
+替补录取	ti bu lu qu	1
+忘记抢票了	wang ji qiang piao le	1
+待兑现	dai dui xian	1
+后补了	hou bu le	1
+黑下来了	hei xia lai le	1
+早喔	zao wo	1
+补仓了	bu cang le	1
+跌麻了	die ma le	1
+测试币	ce shi bi	1
+黄金挑战	huang jin tiao zhan	1
+一夜承明	yi ye cheng ming	1
+梨花风起	li hua feng qi	1
+漳职	zhang zhi	1
+给我候补	gei wo hou bu	1
+新村长	xin cun zhang	1
+营口职业	ying kou zhi ye	1
+我抢到票了	wo qiang dao piao le	1
+国务资政	guo wu zi zheng	1
+听山	ting shan	1
+念九	nian jiu	1
+掌上武铁	zhang shang wu tie	1
+大单购	da dan gou	1
+崔梨沟	cui li gou	1
+你抢到票没	ni qiang dao piao mei	1
+多候补	duo hou bu	1
+我也候补了	wo ye hou bu le	1
+候补到的	hou bu dao de	1
+抢着吧	qiang zhe ba	1
+真抢不到	zhen qiang bu dao	1
+这么难抢	zhe me nan qiang	1
+醉鹿	zui lu	1
+大炸雷	da zha lei	1
+剑中	jian zhong	1
+暗影模式	an ying mo shi	1
+伊诺特	yi nuo te	1
+梦路	meng lu	1
+东汇达	dong hui da	1
+城市超市	cheng shi chao shi	1
+潍坊日	wei fang ri	1
+忘买票了	wang mai piao le	1
+又要涨价了	you yao zhang jia le	1
+合肥科技	he fei ke ji	1
+候补抢票	hou bu qiang piao	1
+你抢上了	ni qiang shang le	1
+抢不到票了	qiang bu dao piao le	1
+票就没了	piao jiu mei le	1
+我下午看看	wo xia wu kan kan	1
+泡泡鞋	pao pao xie	1
+中纺标	zhong fang biao	1
+省聘	sheng pin	1
+望春山	wang chun shan	1
+抢救不及时	qiang jiu bu ji shi	1
+待我醒来时	dai wo xing lai shi	1
+肯定有票	ken ding you piao	1
+蹲点抢	dun dian qiang	1
+候补车次	hou bu che ci	1
+如果抢不到	ru guo qiang bu dao	1
+全是候补	quan shi hou bu	1
+一开票	yi kai piao	1
+得票了	de piao le	1
+五一回家的	wu yi hui jia de	1
+刚开票	gang kai piao	1
+我要午休了	wo yao wu xiu le	1
+今天抢	jin tian qiang	1
+一放票	yi fang piao	1
+我要抢票	wo yao qiang piao	1
+泡姆泡姆	pao mu pao mu	1
+下雷雨	xia lei yu	1
+威海海洋	wei hai hai yang	1
+捉猫猫	zhuo mao mao	1
+候补到票	hou bu dao piao	1
+二售	er shou	1
+无病无疾	wu bing wu ji	1
+暂无余票	zan wu yu piao	1
+都在抢票	dou zai qiang piao	1
+雅克松	ya ke song	1
+候补车票	hou bu che piao	1
+不候补	bu hou bu	1
+后补订单	hou bu ding dan	1
+好响的雷	hao xiang de lei	1
+抢点球	qiang dian qiu	1
+人均存款	ren jun cun kuan	1
+先抢着	xian qiang zhe	1
+叶娇	ye jiao	1
+候补不成功	hou bu bu cheng gong	1
+出排名了	chu pai ming le	1
+没抢着票	mei qiang zhe piao	1
+你买到票了吗	ni mai dao piao le ma	1
+碘化之齿	dian hua zhi chi	1
+新九条	xin jiu tiao	1
+跌法	die fa	1
+白城医学	bai cheng yi xue	1
+式王子	shi wang zi	1
+先抢吧	xian qiang ba	1
+谁在抢	shui zai qiang	1
+全售罄	quan shou qing	1
+抢什么票	qiang shen me piao	1
+候补一个	hou bu yi ge	1
+会放票	hui fang piao	1
+回家票	hui jia piao	1
+手动抢	shou dong qiang	1
+吉警	ji jing	1
+唬杀	hu sha	1
+隋维杰	sui wei jie	1
+给张票	gei zhang piao	1
+候补着呢	hou bu zhe ne	1
+北京电影节	bei jing dian ying jie	1
+期待刘宇宁	qi dai liu yu ning	1
+都没抢到票	dou mei qiang dao piao	1
+候补率	hou bu lv	1
+也没抢上	ye mei qiang shang	1
+我也候补	wo ye hou bu	1
+这个导员	zhe ge dao yuan	1
+你先候补	ni xian hou bu	1
+买长乘短	mai chang cheng duan	1
+有无座	you wu zuo	1
+抢到票没	qiang dao piao mei	1
+抢票成功	qiang piao cheng gong	1
+候补人数	hou bu ren shu	1
+十六号了	shi liu hao le	1
+候补订单	hou bu ding dan	1
+麦波	mai bo	1
+强牌慢打	qiang pai man da	1
+电工杯	dian gong bei	1
+中文词汇量	zhong wen ci hui liang	1
+伽菈波那	jia la bo na	1
+还会放票	hai hui fang piao	1
+能候补到	neng hou bu dao	1
+候补单号	hou bu dan hao	1
+先候补着	xian hou bu zhe	1
+候补了吗	hou bu le ma	1
+区间票	qu jian piao	1
+一秒没了	yi miao mei le	1
+宣化科技	xuan hua ke ji	1
+候补呢	hou bu ne	1
+抢上了吗	qiang shang le ma	1
+多买几站	duo mai ji zhan	1
+能候补上	neng hou bu shang	1
+我要票	wo yao piao	1
+该抢票了	gai qiang piao le	1
+专人抢票	zhuan ren qiang piao	1
+没抢上票	mei qiang shang piao	1
+今天抢票	jin tian qiang piao	1
+真难抢	zhen nan qiang	1
+抢不上票	qiang bu shang piao	1
+湿光	shi guang	1
+候补都没了	hou bu dou mei le	1
+荣耀上城	rong yao shang cheng	1
+佛祖显灵	fo zu xian ling	1
+开售即候补	kai shou ji hou bu	1
+走进星穹	zou jin xing qiong	1
+掘金球迷	jue jin qiu mi	1
+飞飞一杯酒	fei fei yi bei jiu	1
+黄金天蝎座	huang jin tian xie zuo	1
+互动福袋	hu dong fu dai	1
+基根	ji gen	1
+这赛制	zhe sai zhi	1
+沈渡	shen du	1
+斗魂竞技场	dou hun jing ji chang	1
+回家钓鱼	hui jia diao yu	1
+廊坊燕京	lang fang yan jing	1
+十投零中	shi tou ling zhong	1
+活动未开始	huo dong wei kai shi	1
+红牌了	hong pai le	1
+要候补	yao hou bu	1
+三枚筹码	san mei chou ma	1
+佩露薇利	pei lu wei li	1
+尽享美味	jin xiang mei wei	1
+勇士球迷	yong shi qiu mi	1
+石头赶路	shi tou gan lu	1
+买全程	mai quan cheng	1
+三罚一掷	san fa yi zhi	1
+总地震	zong di zhen	1
+换池子	huan chi zi	1
+余票不足	yu piao bu zu	1
+死战不退	si zhan bu tui	1
+显示有票	xian shi you piao	1
+灵染	ling ran	1
+非侠	fei xia	1
+林芊雪	lin qian xue	1
+可以候补	ke yi hou bu	1
+长途票	chang tu piao	1
+有候补	you hou bu	1
+候补一张	hou bu yi zhang	1
+抽砂金	chou sha jin	1
+在候补了	zai hou bu le	1
+让我候补	rang wo hou bu	1
+候补成功吧	hou bu cheng gong ba	1
+不容差池	bu rong cha chi	1
+短途票	duan tu piao	1
+多买两站	duo mai liang zhan	1
+朝雪录	chao xue lu	1
+占座失败	zhan zuo shi bai	1
+吉林宁江	ji lin ning jiang	1
+朱夏炎	zhu xia yan	1
+神侯府查案	shen hou fu cha an	1
+机智女孩	ji zhi nv hai	1
+短程票	duan cheng piao	1
+三月初九	san yue chu jiu	1
+海口舰	hai kou jian	1
+直红	zhi hong	1
+彩蝶环绕	cai die huan rao	1
+栗人	li ren	1
+少打一人	shao da yi ren	1
+干尧榴莲	gan yao liu lian	1
+戴昊	dai hao	1
+谢文能	xie wen neng	1
+法马利康	fa ma li kang	1
+洪爽	hong shuang	1
+追虎擒龙	zhui hu qin long	1
+异世相遇	yi shi xiang yu	1
+百沐	bai mu	1
+慢法	man fa	1
+京东养车	jing dong yang che	1
+少少冰	shao shao bing	1
+邦布	bang bu	1
+首轮游	shou lun you	1
+大筒木桃式	da tong mu tao shi	1
+都售罄	dou shou qing	1
+豹三	bao san	1
+十二笔画	shi er bi hua	1
+未开售	wei kai shou	1
+买大巴	mai da ba	1
+砂金的	sha jin de	1
+素塔西尼	su ta xi ni	1
+石门雅居	shi men ya ju	1
+给我一张票	gei wo yi zhang piao	1
+我候补上了	wo hou bu shang le	1
+票没抢到	piao mei qiang dao	1
+新增列车	xin zeng lie che	1
+补到票	bu dao piao	1
+中转票	zhong zhuan piao	1
+福利站	fu li zhan	1
+不羁联盟	bu ji lian meng	1
+阿尔瓦拉多	a er wa la duo	1
+超级合生汇	chao ji he sheng hui	1
+威斯特法伦	wei si te fa lun	1
+礼奈	li nai	1
+恩娇	en jiao	1
+买长	mai chang	1
+我也在候补	wo ye zai hou bu	1
+泼开水	po kai shui	1
+购票成功	gou piao cheng gong	1
+她刊	ta kan	1
+瑟琉	se liu	1
+千股涨停	qian gu zhang ting	1
+你买到没	ni mai dao mei	1
+补得到	bu de dao	1
+没候补上	mei hou bu shang	1
+克拉迪斯	ke la di si	1
+婚皮	hun pi	1
+庄园领主	zhuang yuan ling zhu	1
+候补到了吗	hou bu dao le ma	1
+买候补	mai hou bu	1
+清仓大促	qing cang da cu	1
+还没放票	hai mei fang piao	1
+芝士葡萄	zhi shi pu tao	1
+自填	zi tian	1
+砂金的宝藏	sha jin de bao zang	1
+即候补	ji hou bu	1
+放票预测	fang piao yu ce	1
+没和解	mei he jie	1
+抢到一张	qiang dao yi zhang	1
+不用抢票	bu yong qiang piao	1
+水花兄弟	shui hua xiong di	1
+兰法	lan fa	1
+染色皮	ran se pi	1
+根本没票	gen ben mei piao	1
+我还在候补	wo hai zai hou bu	1
+你买到票了	ni mai dao piao le	1
+正在抢票	zheng zai qiang piao	1
+让我候补成功	rang wo hou bu cheng gong	1
+五一车票	wu yi che piao	1
+来古弥新	lai gu mi xin	1
+实在抢不到	shi zai qiang bu dao	1
+愿来生	yuan lai sheng	1
+没候补到	mei hou bu dao	1
+转毒	zhuan du	1
+金属脸	jin shu lian	1
+星之翼	xing zhi yi	1
+桃式	tao shi	1
+乘短	cheng duan	1
+不容违抗	bu rong wei kang	1
+没补到	mei bu dao	1
+我买到票了	wo mai dao piao le	1
+会有票	hui you piao	1
+恶意不息	e yi bu xi	1
+灵染试炼	ling ran shi lian	1
+朗特智能	lang te zhi neng	1
+宇宙天魔	yu zhou tian mo	1
+雾神尼	wu shen ni	1
+我候补的	wo hou bu de	1
+给我候补成功	gei wo hou bu cheng gong	1
+候补着吧	hou bu zhe ba	1
+根本抢不到票	gen ben qiang bu dao piao	1
+无缘季后赛	wu yuan ji hou sai	1
+自动准备	zi dong zhun bei	1
+还难抢	hai nan qiang	1
+惊雷一闪	jing lei yi shan	1
+克雷薇	ke lei wei	1
+大凡非凡	da fan fei fan	1
+即为血河	ji wei xue he	1
+茶朔洵	cha shuo xun	1
+陶无忌	tao wu ji	1
+我要车票	wo yao che piao	1
+日卡池	ri ka chi	1
+也在抢	ye zai qiang	1
+没抢票	mei qiang piao	1
+好抢一点	hao qiang yi dian	1
+赢下所有	ying xia suo you	1
+福利全开	fu li quan kai	1
+腾远钴业	teng yuan gu ye	1
+合约币	he yue bi	1
+台林	tai lin	1
+雄王节	xiong wang jie	1
+咸与甜	xian yu tian	1
+近海之王	jin hai zhi wang	1
+王迹	wang ji	1
+顾阮	gu ruan	1
+下单火爆	xia dan huo bao	1
+公测礼包	gong ce li bao	1
+红包节	hong bao jie	1
+御厨子	yu chu zi	1
+皇马的	huang ma de	1
+摆大巴	bai da ba	1
+保留数据	bao liu shu ju	1
+要停服了	yao ting fu le	1
+随从大师	sui cong da shi	1
+六后卫	liu hou wei	1
+没收衣服	mo shou yi fu	1
+冰晶蓝	bing jing lan	1
+要下一天	yao xia yi tian	1
+来得猛	lai de meng	1
+先锋计划	xian feng ji hua	1
+电子茅台	dian zi mao tai	1
+抢大米	qiang da mi	1
+帐篷点	zhang peng dian	1
+伸缩摄像头	shen suo she xiang tou	1
+收衫	shou shan	1
+微博小店	wei bo xiao dian	1
+点球手	dian qiu shou	1
+抢米	qiang mi	1
+何塞卢	he sai lu	1
+双面千金	shuang mian qian jin	1
+陪伴服	pei ban fu	1
+和平颂	he ping song	1
+罚丢	fa diu	1
+烬火	jin huo	1
+制作面包	zhi zuo mian bao	1
+长乐曲	chang yue qu	1
+埃德松	ai de song	1
+欧冠之王	ou guan zhi wang	1
+百神	bai shen	1
+皇马球迷	huang ma qiu mi	1
+泄曲	xie qu	1
+世界第七	shi jie di qi	1
+点球大战了	dian qiu da zhan le	1
+乾坤在握	qian kun zai wo	1
+欧洲德比	ou zhou de bi	1
+河里的鱼	he li de yu	1
+删数据	shan shu ju	1
+欧冠四强	ou guan si qiang	1
+误收	wu shou	1
+探奇	tan qi	1
+云起时	yun qi shi	1
+踢点球	ti dian qiu	1
+杯链	bei lian	1
+舒茉	shu mo	1
+三秦青年	san qin qing nian	1
+前路回响	qian lu hui xiang	1
+奇面	qi mian	1
+热贡艺术	re gong yi shu	1
+敢壮山	gan zhuang shan	1
+风箫	feng xiao	1
+孤狼崽	gu lang zai	1
+打厅战	da ting zhan	1
+白城医高专	bai cheng yi gao zhuan	1
+玲珑宝图	ling long bao tu	1
+全操场	quan cao chang	1
+玲珑图	ling long tu	1
+双舞台	shuang wu tai	1
+央视综合频道	yang shi zong he pin dao	1
+先入会	xian ru hui	1
+三月初八	san yue chu ba	1
+位选	wei xuan	1
+朱成竹	zhu cheng zhu	1
+台下的观众	tai xia de guan zhong	1
+观众就我一个	guan zhong jiu wo yi ge	1
+种地星球	zhong di xing qiu	1
+腌蒜薹	yan suan tai	1
+进面线	jin mian xian	1
+胡广杰	hu guang jie	1
+陕西人事	shan xi ren shi	1
+买卖稀	mai mai xi	1
+热起	re qi	1
+晋城安全	jin cheng an quan	1
+春夏时装秀	chun xia shi zhuang xiu	1
+梅子煲	mei zi bao	1
+刘伟平	liu wei ping	1
+其实台下的	qi shi tai xia de	1
+群星闪耀时	qun xing shan yao shi	1
+你发工资了吗	ni fa gong zi le ma	1
+杜梓	du zi	1
+蔡嵩松	cai song song	1
+我也热死了	wo ye re si le	1
+丈育	zhang yu	1
+早上坏	zao shang huai	1
+斯佳辉	si jia hui	1
+候补中	hou bu zhong	1
+助力包	zhu li bao	1
+抢票了吗	qiang piao le ma	1
+加拉格尔	jia la ge er	1
+文房具	wen fang ju	1
+白城医学院	bai cheng yi xue yuan	1
+连候补	lian hou bu	1
+放票的	fang piao de	1
+刚放票	gang fang piao	1
+保全派驻	bao quan pai zhu	1
+乡车	xiang che	1
+学术专家	xue shu zhuan jia	1
+候补成功率	hou bu cheng gong lv	1
+准备抢票	zhun bei qiang piao	1
+只能候补	zhi neng hou bu	1
+我在候补	wo zai hou bu	1
+一秒就没了	yi miao jiu mei le	1
+一等票	yi deng piao	1
+刚开售	gang kai shou	1
+抢啥票	qiang sha piao	1
+五一票	wu yi piao	1
+五月一号的	wu yue yi hao de	1
+藏梦	cang meng	1
+候补不了	hou bu bu liao	1
+才开售	cai kai shou	1
+这几趟	zhe ji tang	1
+这辅导员	zhe fu dao yuan	1
+推理吧	tui li ba	1
+五一的	wu yi de	1
+好的票	hao di piao	1
+哪一趟	na yi tang	1
+更难抢	geng nan qiang	1
+开始推理吧	kai shi tui li ba	1
+放票了	fang piao le	1
+邱党	qiu dang	1
+自动抢票	zi dong qiang piao	1
+五千家	wu qian jia	1
+无辜之人	wu gu zhi ren	1
+半出城	ban chu cheng	1
+直接候补	zhi jie hou bu	1
+股灾了	gu zai le	1
+候补吧	hou bu ba	1
+预填单	yu tian dan	1
+没开售	mei kai shou	1
+该买票了	gai mai piao le	1
+多买一站	duo mai yi zhan	1
+不放票	bu fang piao	1
+财务造假	cai wu zao jia	1
+大市值	da shi zhi	1
+全候补	quan hou bu	1
+就候补	jiu hou bu	1
+都候补	dou hou bu	1
+才能抢	cai neng qiang	1
+一块抢	yi kuai qiang	1
+跌成狗	die cheng gou	1
+我没抢到票	wo mei qiang dao piao	1
+抢上票	qiang shang piao	1
+先抢票	xian qiang piao	1
+纪律处分条例	ji lv chu fen tiao li	1
+待涨	dai zhang	1
+牛灾	niu zai	1
+中公高科	zhong gong gao ke	1
+中铁装配	zhong tie zhuang pei	1
+小微盘	xiao wei pan	1
+一开售	yi kai shou	1
+跌停的	die ting de	1
+大蓝筹	da lan chou	1
+没放票	mei fang piao	1
+中远通	zhong yuan tong	1
+小市值	xiao shi zhi	1
+吹断了	chui duan le	1
+预约抢票	yu yue qiang piao	1
+三十号的	san shi hao de	1
+马杜埃凯	ma du ai kai	1
+记得抢票	ji de qiang piao	1
+预填信息	yu tian xin xi	1
+死天气	si tian qi	1
+朗公寺	lang gong si	1
+要抢票了	yao qiang piao le	1
+拓跋云	tuo ba yun	1
+甩两杆	shuai liang gan	1
+星光票	xing guang piao	1
+格拉斯门科	ge la si men ke	1
+蒯曼	kuai man	1
+二等卧	er deng wo	1
+快五一了	kuai wu yi le	1
+大头加油	da tou jia you	1
+无缝球	wu feng qiu	1
+不让救	bu rang jiu	1
+新赛制	xin sai zhi	1
+明天抢票	ming tian qiang piao	1
+福软	fu ruan	1
+槐花粉	huai hua fen	1
+边佑锡	bian you xi	1
+就凉快了	jiu liang kuai le	1
+五一的票	wu yi di piao	1
+那导员	na dao yuan	1
+热的睡不着	re de shui bu zhao	1
+唐山舰	tang shan jian	1
+雀扇	que shan	1
 杨树毛子	yang shu mao zi	1
 交家用	jiao jia yong	1
 幸存之地	xing cun zhi di	1
