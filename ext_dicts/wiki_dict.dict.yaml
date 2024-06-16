@@ -13,7 +13,7 @@
 #
 ---
 name: luna_pinyin_simp.wiki_dict
-version: "2024-06-02 14:43:23"
+version: "2024-06-15 13:30:37"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -4130,7 +4130,6 @@ columns:
 张挺	zhang ting	1276973
 张昌	zhang chang	716782
 张易	zhang yi	1493494
-张星	zhang xing	1428688
 张昶	zhang chang	965474
 张显	zhang xian	1255629
 张晏	zhang yan	468227
@@ -7314,7 +7313,6 @@ columns:
 玉枝	yu zhi	1541104
 玉琳	yu lin	1237488
 玉贞	yu zhen	1389416
-王一	wang yi	1824723
 王丰	wang feng	1871790
 王临	wang lin	419106
 王为	wang wei	1799188
@@ -8483,7 +8481,6 @@ columns:
 缪斌	mou bin	733708
 缪静	mou jing	1248723
 缸径	gang jing	1728523
-缺觉	que jue	1561946
 网交	wang jiao	157623
 网台	wang tai	765592
 网展	wang zhan	935181
@@ -11125,7 +11122,6 @@ columns:
 隋源	sui yuan	856146
 随侯	sui hou	96707
 随念	sui nian	915100
-随扈	sui hu	1163146
 隐姓	yin xing	981674
 隐娘	yin niang	1536467
 隐珠	yin zhu	469238
@@ -12223,7 +12219,6 @@ columns:
 上东区	shang dong qu	1245661
 上东城	shang dong cheng	31391
 上交会	shang jiao hui	939120
-上交大	shang jiao da	1320105
 上半季	shang ban ji	1153737
 上南方	shang nan fang	722296
 上埃及	shang ai ji	455863
@@ -12390,7 +12385,6 @@ columns:
 丧文化	sang wen hua	1535930
 个人网	ge ren wang	1461670
 丫头们	ya tou men	1821884
-中东人	zhong dong ren	1204480
 中东路	zhong dong lu	776034
 中亚人	zhong ya ren	96837
 中京区	zhong jing qu	156945
@@ -16358,7 +16352,6 @@ columns:
 完颜康	wan yan kang	1101932
 完颜昌	wan yan chang	585111
 完颜部	wan yan bu	947636
-宏内核	hong nei he	218243
 宏宝莱	hong bao lai	44305
 宏济堂	hong ji tang	1278635
 宏琳厝	hong lin cuo	481927
@@ -16806,7 +16799,6 @@ columns:
 已复制	yi fu zhi	1389942
 已淘汰	yi tao tai	1185749
 已确认	yi que ren	1913451
-已过时	yi guo shi	1751013
 巴伦支	ba lun zhi	105809
 巴克球	ba ke qiu	1483088
 巴克里	ba ke li	611624
@@ -17474,7 +17466,6 @@ columns:
 张志诚	zhang zhi cheng	114239
 张志超	zhang zhi chao	1558396
 张志远	zhang zhi yuan	1528843
-张志龙	zhang zhi long	551349
 张忠义	zhang zhong yi	230352
 张念群	zhang nian qun	65262
 张怀秋	zhang huai qiu	42336
@@ -18726,7 +18717,6 @@ columns:
 旧民居	jiu min ju	229465
 旧秩序	jiu zhi xu	1238533
 早春图	zao chun tu	458985
-早点说	zao dian shuo	1648540
 早衰症	zao shuai zheng	864538
 旭川市	xu chuan shi	516099
 旭日旗	xu ri qi	1334247
@@ -20719,7 +20709,6 @@ columns:
 武桐桐	wu tong tong	639794
 武汉伢	wu han ya	1368916
 武汉关	wu han guan	1146972
-武汉站	wu han zhan	1814546
 武汉话	wu han hua	1662330
 武汉通	wu han tong	1235048
 武烈河	wu lie he	442490
@@ -23667,7 +23656,6 @@ columns:
 联合县	lian he xian	1719990
 联合市	lian he shi	1853949
 联合旗	lian he qi	929911
-联名款	lian ming kuan	1918692
 联播网	lian bo wang	673265
 联盟军	lian meng jun	1374195
 联邦区	lian bang qu	910241
@@ -26941,7 +26929,6 @@ columns:
 青红丝	qing hong si	1007580
 青羊君	qing yang jun	347622
 青贮机	qing zhu ji	1117758
-青龙奖	qing long jiang	1070189
 靖南王	jing nan wang	491331
 靖国军	jing guo jun	234275
 靖州站	jing zhou zhan	306958
@@ -28274,7 +28261,6 @@ columns:
 下乡知青	xia xiang zhi qing	1098072
 下加拿大	xia jia na da	244478
 下周回国	xia zhou hui guo	1154633
-下呼吸道	xia hu xi dao	1245133
 下层阶级	xia ceng jie ji	969001
 下条正巳	xia tiao zheng si	656465
 下水仪式	xia shui yi shi	1198314
@@ -28332,7 +28318,6 @@ columns:
 专线小巴	zhuan xian xiao ba	440326
 专题列表	zhuan ti lie biao	756892
 专题项目	zhuan ti xiang mu	587271
-世俗国家	shi su guo jia	210662
 世博中心	shi bo zhong xin	1320871
 世博园区	shi bo yuan qu	1308266
 世博大道	shi bo da dao	1055137
@@ -28399,7 +28384,6 @@ columns:
 东北特钢	dong bei te gang	1151409
 东北电力	dong bei dian li	1158954
 东北育才	dong bei yu cai	483664
-东南互保	dong nan hu bao	1063459
 东南亚人	dong nan ya ren	1100307
 东南季风	dong nan ji feng	926431
 东厂西厂	dong chang xi chang	343264
@@ -30409,7 +30393,6 @@ columns:
 兴致高昂	xing zhi gao ang	1505999
 兵团党委	bing tuan dang wei	1448022
 兵团日报	bing tuan ri bao	1130508
-其他语言	qi ta yu yan	1834043
 其他选择	qi ta xuan ze	1829557
 具身认知	ju shen ren zhi	44229
 养家之人	yang jia zhi ren	738252
@@ -34383,7 +34366,6 @@ columns:
 库里蒂巴	ku li di ba	554835
 应急反应	ying ji fan ying	1600059
 应急车辆	ying ji che liang	1564137
-应急车道	ying ji che dao	1912977
 应急通信	ying ji tong xin	1571812
 应用学科	ying yong xue ke	1182596
 底层技术	di ceng ji shu	1847757
@@ -39439,7 +39421,6 @@ columns:
 神烦警探	shen fan jing tan	108355
 神的仆人	shen de pu ren	691268
 神的存在	shen de cun zai	1415214
-神的恩典	shen de en dian	1384343
 神秘巨星	shen mi ju xing	1534810
 神秘星球	shen mi xing qiu	483159
 神秘生物	shen mi sheng wu	1650336
@@ -40338,7 +40319,6 @@ columns:
 罗马文化	luo ma wen hua	677095
 罗马文明	luo ma wen ming	674244
 罗马时代	luo ma shi dai	1410015
-罗马神话	luo ma shen hua	1378892
 罗马规约	luo ma gui yue	125099
 罢免投票	ba mian tou piao	630060
 罢韩团体	ba han tuan ti	507990
@@ -43246,7 +43226,6 @@ columns:
 鞠萍姐姐	ju ping jie jie	1481419
 韦博英语	wei bo ying yu	1735915
 韦恩斯坦	wei en si tan	1425084
-韦氏词典	wei shi ci dian	591234
 韦莱韬悦	wei lai tao yue	176244
 韩华集团	han hua ji tuan	303902
 韩国人口	han guo ren kou	1084095
@@ -43613,7 +43592,6 @@ columns:
 驻防八旗	zhu fang ba qi	331505
 驻防将军	zhu fang jiang jun	230776
 驻马店人	zhu ma dian ren	216254
-驾考宝典	jia kao bao dian	1566627
 驾驶安全	jia shi an quan	1785795
 驾驶训练	jia shi xun lian	806693
 骁骑将军	xiao qi jiang jun	508713
@@ -45147,7 +45125,6 @@ columns:
 内分泌疾病	nei fen mi ji bing	1612836
 内务府总管	nei wu fu zong guan	1027414
 内华达大学	nei hua da da xue	601332
-内存控制器	nei cun kong zhi qi	1118236
 内容创作者	nei rong chuang zuo zhe	1840126
 内容生产者	nei rong sheng chan zhe	1606548
 内容相关性	nei rong xiang guan xing	606026
@@ -46660,7 +46637,6 @@ columns:
 布鲁克大学	bu lu ke da xue	827822
 布鲁克林区	bu lu ke lin qu	1356676
 希伯来圣经	xi bo lai sheng jing	288195
-希伯来大学	xi bo lai da xue	795144
 希尔德布兰	xi er de bu lan	328473
 希尔顿欢朋	xi er dun huan peng	680299
 希尔顿逸林	xi er dun yi lin	206631
@@ -50204,7 +50180,6 @@ columns:
 高等教育部	gao deng jiao yu bu	880445
 高级住宅区	gao ji zhu zhai qu	1269729
 高级教练机	gao ji jiao lian ji	1275194
-高级格式化	gao ji ge shi hua	176820
 高级管理层	gao ji guan li ceng	1653652
 高能少年团	gao neng shao nian tuan	1688648
 高血压疾病	gao xue ya ji bing	591249
@@ -50395,7 +50370,6 @@ columns:
 上皮性卵巢癌	shang pi xing luan chao ai	362297
 下一代防火墙	xia yi dai fang huo qiang	1162788
 下一站是幸福	xia yi zhan shi xing fu	1888636
-下呼吸道感染	xia hu xi dao gan ran	1229040
 下沙高教园区	xia sha gao jiao yuan qu	604720
 下诺夫哥罗德	xia nuo fu ge luo de	1144560
 不一样的童年	bu yi yang de tong nian	343145
@@ -50900,7 +50874,6 @@ columns:
 人生就是这样	ren sheng jiu shi zhe yang	1812370
 人生无限公司	ren sheng wu xian gong si	515887
 人类中心主义	ren lei zhong xin zhu yi	873255
-人类发展指数	ren lei fa zhan zhi shu	1283149
 人类学博物馆	ren lei xue bo wu guan	56500
 人脸识别技术	ren lian shi bie ji shu	1904879
 人脸识别软件	ren lian shi bie ruan jian	388173
