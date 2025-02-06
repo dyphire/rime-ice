@@ -25,7 +25,6 @@ columns:
 一云	yi yun	1563644
 一亚	yi ya	256719
 一仔	yi zai	474391
-一休	yi xiu	1839722
 一何	yi he	1051749
 一作	yi zuo	1912025
 一佳	yi jia	1564482
@@ -208,7 +207,6 @@ columns:
 七怪	qi guai	1860022
 七戒	qi jie	855190
 七指	qi zhi	486352
-七政	qi zheng	977398
 七斗	qi dou	1025047
 七方	qi fang	1083489
 七族	qi zu	922146
@@ -359,7 +357,6 @@ columns:
 三善	san shan	986085
 三坟	san fen	998316
 三垒	san lei	1387872
-三垣	san yuan	780526
 三塘	san tang	1417506
 三壶	san hu	226056
 三太	san tai	1643994
@@ -594,10 +591,8 @@ columns:
 上木	shang mu	1468292
 上杆	shang gan	1310754
 上柱	shang zhu	225939
-上档	shang dang	1797146
 上梅	shang mei	1062105
 上止	shang zhi	660113
-上汤	shang tang	1708726
 上河	shang he	1505472
 上治	shang zhi	725863
 上涌	shang yong	1809517
@@ -811,7 +806,6 @@ columns:
 与国	yu guo	1883959
 与夺	yu duo	303340
 与手	yu shou	1734583
-与格	yu ge	1545767
 与田	yu tian	1754550
 丐哥	gai ge	1319010
 丐姐	gai jie	739546
@@ -1213,7 +1207,6 @@ columns:
 丰容	feng rong	972492
 丰尚	feng shang	1320482
 丰岛	feng dao	987001
-丰度	feng du	1772721
 丰成	feng cheng	434563
 丰文	feng wen	116279
 丰村	feng cun	1219867
@@ -2098,7 +2091,6 @@ columns:
 互卦	hu gua	743123
 互啄	hu zhuo	362822
 互控	hu kong	886976
-互文	hu wen	1526820
 互斗	hu dou	1445242
 互检	hu jian	1351182
 互润	hu run	409857
@@ -2637,13 +2629,11 @@ columns:
 以打	yi da	1845048
 以扫	yi sao	1450674
 以拉	yi la	1421721
-以撒	yi sa	1720507
 以沫	yi mo	1756279
 以珊	yi shan	313829
 以琳	yi lin	1089488
 以诺	yi nuo	1503914
 以路	yi lu	1530528
-仨人	sa ren	1575727
 仪制	yi zhi	563593
 仪卫	yi wei	533166
 仪控	yi kong	612845
@@ -2882,7 +2872,6 @@ columns:
 伟明	wei ming	1400850
 伟星	wei xing	1608731
 伟特	wei te	590052
-传不	chuan bu	1799631
 传剑	chuan jian	338265
 传力	chuan li	1617055
 传受	chuan shou	377175
@@ -2958,7 +2947,6 @@ columns:
 佐佑	zuo you	233984
 佐命	zuo ming	600217
 佐尼	zuo ni	900365
-佐德	zuo de	636236
 佐恩	zuo en	609043
 佐木	zuo mu	1451774
 佐竹	zuo zhu	1337869
@@ -3352,7 +3340,6 @@ columns:
 信誓	xin shi	101018
 信远	xin yuan	1236134
 信邦	xin bang	1098008
-信长	xin zhang	1799613
 信院	xin yuan	942946
 信隆	xin long	551700
 俪人	li ren	1157811
@@ -3530,7 +3517,6 @@ columns:
 傲神	ao shen	305538
 傲竹	ao zhu	290753
 傲绝	ao jue	917077
-傲罗	ao luo	742171
 傲群	ao qun	383820
 傲腾	ao teng	1620533
 傲蕾	ao lei	1157558
@@ -3744,7 +3730,6 @@ columns:
 克来	ke lai	1490202
 克缇	ke ti	60228
 克财	ke cai	359650
-克重	ke zhong	1817124
 免战	mian zhan	866644
 免控	mian kong	1769072
 免死	mian si	1765158
@@ -3756,7 +3741,6 @@ columns:
 兔宝	tu bao	525188
 兔尾	tu wei	147495
 兔牙	tu ya	1716757
-兔狲	tu sun	1397989
 兔绒	tu rong	742851
 兔美	tu mei	311388
 兔耳	tu er	1570585
@@ -3931,7 +3915,6 @@ columns:
 公行	gong xing	1095739
 公言	gong yan	454236
 公话	gong hua	928588
-公辅	gong fu	159684
 公链	gong lian	1925550
 公開	gong kai	1910263
 公鸭	gong ya	1152952
@@ -4256,7 +4239,6 @@ columns:
 再兴	zai xing	1454464
 再击	zai ji	1121895
 再制	zai zhi	1230683
-再升	zai sheng	1797354
 再弹	zai dan	1291264
 再思	zai si	1105411
 再恋	zai lian	823026
@@ -4365,7 +4347,6 @@ columns:
 冬叶	dong ye	326322
 冬子	dong zi	1401367
 冬学	dong xue	573324
-冬帽	dong mao	620487
 冬恋	dong lian	57391
 冬明	dong ming	1567820
 冬晨	dong chen	680123
@@ -4531,7 +4512,6 @@ columns:
 冷板	leng ban	1632894
 冷毅	leng yi	507180
 冷油	leng you	1544222
-冷涡	leng wo	1402721
 冷源	leng yuan	1508290
 冷火	leng huo	834737
 冷灶	leng zao	100919
@@ -4572,7 +4552,6 @@ columns:
 凉太	liang tai	653220
 凉月	liang yue	1372433
 凉燥	liang zao	975361
-凉瓜	liang gua	1353707
 凉衣	liang yi	207231
 凉都	liang dou	1708789
 凋灵	diao ling	1003096
@@ -4753,7 +4732,6 @@ columns:
 出见	chu jian	231952
 出质	chu zhi	1614077
 出轴	chu zhou	566290
-出金	chu jin	1828194
 出针	chu zhen	981993
 出降	chu jiang	1246386
 出魔	chu mo	1318661
@@ -5173,7 +5151,6 @@ columns:
 制干	zhi gan	703554
 制杀	zhi sha	205834
 制杖	zhi zhang	436218
-制样	zhi yang	1561637
 制水	zhi shui	1673865
 制沙	zhi sha	1454851
 制炼	zhi lian	18236
@@ -5405,7 +5382,6 @@ columns:
 加米	jia mi	1299407
 加纤	jia xian	1182911
 加线	jia xian	1258778
-加缪	jia mou	1750258
 加美	jia mei	1607808
 加臭	jia chou	362895
 加航	jia hang	1607884
@@ -5740,7 +5716,6 @@ columns:
 升井	sheng jing	1526090
 升元	sheng yuan	751499
 升变	sheng bian	217618
-升号	sheng hao	939736
 升合	sheng he	550954
 升州	sheng zhou	202144
 升市	sheng shi	32763
@@ -5784,7 +5759,6 @@ columns:
 半灵	ban ling	237480
 半甲	ban jia	832951
 半码	ban ma	1295559
-半砖	ban zhuan	748998
 半轮	ban lun	859817
 半透	ban tou	1662445
 半钱	ban qian	890914
@@ -5813,7 +5787,6 @@ columns:
 华华	hua hua	1716837
 华原	hua yuan	703061
 华厦	hua sha	1615606
-华哥	hua ge	1837681
 华嘉	hua jia	633219
 华国	hua guo	1807779
 华图	hua tu	1883600
@@ -6058,7 +6031,6 @@ columns:
 南水	nan shui	1729580
 南洞	nan dong	715102
 南津	nan jin	172071
-南渡	nan du	1797766
 南湘	nan xiang	1669931
 南溟	nan ming	883802
 南滨	nan bin	1223954
@@ -6352,7 +6324,6 @@ columns:
 厚积	hou ji	1630502
 厚载	hou zai	618397
 厚边	hou bian	981335
-原丝	yuan si	1191928
 原乡	yuan xiang	1777659
 原力	yuan li	1868415
 原北	yuan bei	582488
@@ -6560,7 +6531,6 @@ columns:
 双鹰	shuang ying	1656295
 双鹿	shuang lu	1338115
 双黄	shuang huang	1614958
-反伤	fan shang	1775799
 反位	fan wei	205608
 反体	fan ti	71833
 反克	fan ke	363775
@@ -6587,7 +6557,6 @@ columns:
 发叉	fa cha	312
 发句	fa ju	913633
 发外	fa wai	1280860
-发币	fa bi	1694794
 发彩	fa cai	899568
 发微	fa wei	1605258
 发意	fa yi	33036
@@ -6648,7 +6617,6 @@ columns:
 叛师	pan shi	491237
 叠化	die hua	145045
 叠山	die shan	1006922
-叠瓦	die wa	1056867
 叠生	die sheng	140016
 口咸	kou xian	838814
 口底	kou di	489770
@@ -6767,7 +6735,6 @@ columns:
 可威	ke wei	856417
 可孚	ke fu	719870
 可宁	ke ning	1068171
-可定	ke ding	1797575
 可开	ke kai	1836830
 可念	ke nian	1154647
 可怡	ke yi	1027642
@@ -6825,7 +6792,6 @@ columns:
 右右	you you	1053113
 右司	you si	58142
 右幅	you fu	1577161
-右弼	you bi	1470703
 右心	you xin	899236
 右房	you fang	152434
 右滑	you hua	1340526
@@ -7187,7 +7153,6 @@ columns:
 吐哈	tu ha	705227
 吐地	tu di	325322
 吐尔	tu er	627663
-吐息	tu xi	1757577
 吐水	tu shui	1528714
 吐皮	tu pi	579844
 吐衄	tu nv	40245
@@ -7286,7 +7251,6 @@ columns:
 君馨	jun xin	522832
 君鸿	jun hong	1399587
 吞叔	tun shu	831022
-吞星	tun xing	1271196
 吞海	tun hai	603696
 吞龙	tun long	1144588
 吟叫	yin jiao	1105926
@@ -7443,7 +7407,6 @@ columns:
 吾当	wu dang	1332581
 吾徒	wu tu	241128
 吾思	wu si	677141
-吾悦	wu yue	1566171
 吾生	wu sheng	1169557
 吾祖	wu zu	541267
 吾行	wu xing	497670
@@ -7574,7 +7537,6 @@ columns:
 呷呷	ga ga	418209
 呼召	hu zhao	1594271
 呼和	hu he	1575668
-呼格	hu ge	518480
 呼求	hu qiu	1386075
 呼风	hu feng	1264364
 命世	ming shi	273230
@@ -7765,7 +7727,6 @@ columns:
 响子	xiang zi	918796
 响石	xiang shi	172059
 响鬼	xiang gui	1156181
-哑光	ya guang	1947711
 哑妹	ya mei	710359
 哑舍	ya she	1381899
 哑黑	ya hei	599456
@@ -8024,7 +7985,6 @@ columns:
 喽喽	lou lou	1092859
 嗑嗑	ke ke	624497
 嗑糖	ke tang	1297692
-嗔目	chen mu	871759
 嗝嗝	ge ge	1396668
 嗣君	si jun	830723
 嗣音	si yin	1025602
@@ -8614,7 +8574,6 @@ columns:
 地转	di zhuan	1884718
 地连	di lian	1635514
 地遁	di dun	550549
-地钱	di qian	1602047
 地锅	di guo	1348913
 地锚	di mao	1171629
 地骨	di gu	265599
@@ -8746,7 +8705,6 @@ columns:
 城轨	cheng gui	1773972
 城陷	cheng xian	727060
 埔寨	pu zhai	53488
-域控	yu kong	758851
 埭溪	dai xi	53033
 培南	pei nan	99708
 培安	pei an	193964
@@ -8805,7 +8763,6 @@ columns:
 塔主	ta zhu	1421745
 塔什	ta shen	961331
 塔伦	ta lun	858593
-塔刹	ta sha	1289112
 塔勒	ta lei	620310
 塔吉	ta ji	1183219
 塔哈	ta ha	1052496
@@ -8872,7 +8829,6 @@ columns:
 增四	zeng si	414437
 增增	zeng zeng	640193
 增水	zeng shui	316774
-增江	zeng jiang	1113288
 增湿	zeng shi	1572364
 增票	zeng piao	1160867
 增稳	zeng wen	927754
@@ -9436,7 +9392,6 @@ columns:
 大语	da yu	475885
 大误	da wu	854338
 大谁	da shui	727579
-大调	da diao	1739211
 大豪	da hao	1631732
 大贝	da bei	792026
 大货	da huo	1760039
@@ -9732,7 +9687,6 @@ columns:
 太升	tai sheng	1086051
 太卜	tai bo	60626
 太城	tai cheng	1429422
-太姒	tai si	733913
 太姜	tai jiang	7669
 太姥	tai lao	1193805
 太官	tai guan	531609
@@ -9756,7 +9710,6 @@ columns:
 夫也	fu ye	418245
 夫夫	fu fu	1480287
 夫孝	fu xiao	293756
-夭寿	yao shou	1433363
 央央	yang yang	1211864
 央妈	yang ma	1783391
 央浼	yang mei	1593818
@@ -9785,13 +9738,11 @@ columns:
 头毛	tou mao	722869
 头汗	tou han	847604
 头热	tou re	905469
-头狼	tou lang	1796320
 头甲	tou jia	59344
 头白	tou bai	1039177
 头眩	tou xuan	911410
 头禅	tou chan	414774
 头管	tou guan	640293
-夷则	yi ze	277526
 夷门	yi men	288590
 夸人	kua ren	1794473
 夸梅	kua mei	852586
@@ -9889,7 +9840,6 @@ columns:
 奢岭	she ling	116101
 奥云	ao yun	716849
 奥亚	ao ya	852620
-奥体	ao ti	1882110
 奥修	ao xiu	1246550
 奥内	ao nei	439702
 奥凯	ao kai	1426577
@@ -10004,7 +9954,6 @@ columns:
 好月	hao yue	479195
 好朋	hao peng	446555
 好氧	hao yang	1647715
-好水	hao shui	1798317
 好烟	hao yan	1560060
 好烧	hao shao	355342
 好相	hao xiang	851828
@@ -10103,7 +10052,6 @@ columns:
 妮塔	ni ta	1457638
 妮飘	ni piao	686404
 妹抖	mei dou	345343
-妺喜	mo xi	1485100
 妻家	qi jia	428768
 妻族	qi zu	581308
 妻财	qi cai	1245617
@@ -10468,7 +10416,6 @@ columns:
 季云	ji yun	847522
 季兰	ji lan	609786
 季卡	ji ka	1721515
-季历	ji li	1263382
 季友	ji you	516196
 季墨	ji mo	801254
 季孙	ji sun	875404
@@ -10476,7 +10423,6 @@ columns:
 季月	ji yue	697477
 季母	ji mu	388438
 季氏	ji shi	1564486
-季汉	ji han	1359293
 季洁	ji jie	1143660
 季票	ji piao	1740305
 季芳	ji fang	550362
@@ -10550,7 +10496,6 @@ columns:
 宅运	zhai yun	780333
 宇信	yu xin	898468
 宇儿	yu er	819599
-宇哥	yu ge	1589063
 宇宇	yu yu	824432
 宇峰	yu feng	1228994
 宇康	yu kang	219509
@@ -10587,7 +10532,6 @@ columns:
 安凯	an kai	1612528
 安北	an bei	858556
 安博	an bo	1824024
-安可	an ke	1855199
 安史	an shi	1407130
 安命	an ming	30327
 安哥	an ge	1357910
@@ -10857,7 +10801,6 @@ columns:
 宝岗	bao gang	221019
 宝川	bao chuan	60572
 宝带	bao dai	1449918
-宝幢	bao chuang	1235771
 宝店	bao dian	276433
 宝德	bao de	1726911
 宝悦	bao yue	190120
@@ -10907,7 +10850,6 @@ columns:
 宝阁	bao ge	1524486
 宝隆	bao long	1315650
 宝露	bao lu	1597133
-宝顶	bao ding	1581927
 宝香	bao xiang	300252
 宝骊	bao li	277030
 宝鹰	bao ying	149559
@@ -10930,7 +10872,6 @@ columns:
 客专	ke zhuan	1180868
 客中	ke zhong	986158
 客云	ke yun	356980
-客卧	ke wo	1628154
 客卫	ke wei	1522221
 客子	ke zi	564932
 客将	ke jiang	175982
@@ -11021,7 +10962,6 @@ columns:
 家火	jia huo	345184
 家烈	jia lie	33117
 家爱	jia ai	1433182
-家猪	jia zhu	1792567
 家玉	jia yu	1054995
 家盛	jia sheng	244629
 家相	jia xiang	775457
@@ -11072,7 +11012,6 @@ columns:
 宾悦	bin yue	1121586
 宾斯	bin si	41929
 宾果	bin guo	1675278
-宾格	bin ge	1572760
 宾礼	bin li	545915
 宾虚	bin xu	975088
 宿业	su ye	923915
@@ -11660,7 +11599,6 @@ columns:
 小鳄	xiao e	376482
 小鳖	xiao bie	66405
 小鸠	xiao jiu	886155
-小麂	xiao ji	302342
 小麻	xiao ma	1368949
 小黎	xiao li	1674289
 小默	xiao mo	1480803
@@ -11682,7 +11620,6 @@ columns:
 少室	shao shi	1002006
 少尹	shao yin	381944
 少山	shao shan	833467
-少师	shao shi	1331217
 少微	shao wei	1111265
 少思	shao si	310585
 少排	shao pai	212968
@@ -11756,7 +11693,6 @@ columns:
 尤明	you ming	70374
 尤纳	you na	528564
 尤菲	you fei	1187434
-尤达	you da	1691505
 尧典	yao dian	490268
 尧天	yao tian	1757589
 尧尧	yao yao	1346042
@@ -11872,7 +11808,6 @@ columns:
 属官	shu guan	1566504
 属心	shu xin	352324
 属木	shu mu	1704944
-属格	shu ge	28476
 属水	shu shui	1725100
 属火	shu huo	1754308
 属目	shu mu	77290
@@ -12025,7 +11960,6 @@ columns:
 崇学	chong xue	553975
 崇宁	chong ning	1371852
 崇正	chong zheng	959317
-崇福	chong fu	1208095
 崔丽	cui li	638731
 崔伟	cui wei	973443
 崔佳	cui jia	279822
@@ -12156,7 +12090,6 @@ columns:
 左曹	zuo cao	803131
 左林	zuo lin	1567802
 左氏	zuo shi	1393157
-左江	zuo jiang	1300420
 左海	zuo hai	869930
 左滑	zuo hua	1537800
 左相	zuo xiang	1739082
@@ -12582,7 +12515,6 @@ columns:
 干球	gan qiu	59453
 干笔	gan bi	565522
 干膜	gan mo	1270726
-干蒸	gan zheng	1366609
 干越	gan yue	713622
 干进	gan jin	1068910
 干都	gan dou	1316983
@@ -12653,7 +12585,6 @@ columns:
 并头	bing tou	1016589
 并夹	bing jia	444073
 并封	bing feng	1637538
-并序	bing xu	1085963
 并当	bing dang	1555029
 并录	bing lu	1234400
 并木	bing mu	849648
@@ -12875,7 +12806,6 @@ columns:
 度世	du shi	1101670
 度劫	du jie	1556863
 度化	du hua	1732564
-度厄	du e	968640
 度和	du he	1907697
 度地	du di	795872
 度支	du zhi	940984
@@ -13521,7 +13451,6 @@ columns:
 彩装	cai zhuang	572754
 彩讯	cai xun	824669
 彩豆	cai dou	958575
-彩钻	cai zuan	1652549
 彩铅	cai qian	1789705
 彩锦	cai jin	350294
 彩雕	cai diao	555635
@@ -13619,7 +13548,6 @@ columns:
 徐寅	xu yin	272886
 徐山	xu shan	946567
 徐峰	xu feng	1738870
-徐广	xu guang	95549
 徐府	xu fu	1215306
 徐彤	xu tong	124398
 徐慧	xu hui	1592371
@@ -13725,7 +13653,6 @@ columns:
 御天	yu tian	1813178
 御子	yu zi	918101
 御宇	yu yu	228392
-御守	yu shou	1522039
 御宴	yu yan	1063976
 御家	yu jia	351383
 御容	yu rong	552609
@@ -13786,7 +13713,6 @@ columns:
 微特	wei te	1027355
 微球	wei qiu	1738255
 微生	wei sheng	1710684
-微痛	wei tong	1602766
 微的	wei de	1757486
 微盘	wei pan	1938569
 微端	wei duan	1700856
@@ -14452,7 +14378,6 @@ columns:
 憨山	han shan	262010
 憨皮	han pi	86993
 懂过	dong guo	526400
-懒熊	lan xiong	1176359
 懒言	lan yan	347226
 懒鸟	lan niao	310514
 懵懵	meng meng	1655223
@@ -14690,7 +14615,6 @@ columns:
 扒房	ba fang	994993
 扒灰	pa hui	1582167
 打七	da qi	1536576
-打刀	da dao	1443338
 打堆	da dui	559254
 打奶	da nai	1449214
 打崩	da beng	1790358
@@ -14723,7 +14647,6 @@ columns:
 打边	da bian	1549839
 打钟	da zhong	733950
 打鸡	da ji	805699
-打龙	da long	1722208
 托业	tuo ye	1715208
 托伦	tuo lun	1003227
 托勒	tuo lei	702077
@@ -14829,7 +14752,6 @@ columns:
 抓爆	zhua bao	1238332
 抓线	zhua xian	44374
 抓羊	zhua yang	1719439
-抓马	zhua ma	1605424
 投几	tou ji	1103205
 投分	tou fen	265522
 投技	tou ji	1040532
@@ -14913,7 +14835,6 @@ columns:
 抽击	chou ji	1092833
 抽条	chou tiao	1457757
 抽沙	chou sha	1054386
-抽牌	chou pai	1672882
 抽砂	chou sha	119795
 抽线	chou xian	733834
 抽髓	chou sui	63619
@@ -15189,7 +15110,6 @@ columns:
 掌盟	zhang meng	1267877
 掌眼	zhang yan	1127485
 掌趣	zhang qu	776712
-掌阅	zhang yue	1788935
 掌院	zhang yuan	1141074
 掐起	qia qi	858215
 排五	pai wu	1411003
@@ -15224,7 +15144,6 @@ columns:
 掣签	che qian	290785
 接件	jie jian	1290084
 接反	jie fan	1655246
-接发	jie fa	1796578
 接平	jie ping	1251366
 接料	jie liao	1074463
 接杀	jie sha	1344301
@@ -15416,7 +15335,6 @@ columns:
 改质	gai zhi	734806
 改车	gai che	1514161
 改配	gai pei	144964
-改键	gai jian	1344372
 攻山	gong shan	1293552
 攻战	gong zhan	1303174
 攻撃	gong ji	1113752
@@ -15685,7 +15603,6 @@ columns:
 斩龙	zhan long	1774316
 斬月	zhan yue	1179177
 断丝	duan si	1569515
-断刀	duan dao	1534723
 断刺	duan ci	573378
 断卦	duan gua	850330
 断天	duan tian	938417
@@ -15703,10 +15620,8 @@ columns:
 断眉	duan mei	1331003
 断管	duan guan	406430
 断纹	duan wen	426996
-断背	duan bei	1435325
 断脐	duan qi	335248
 断血	duan xue	21239
-断触	duan chu	514566
 断风	duan feng	1076572
 断鸿	duan hong	310729
 斯冰	si bing	231796
@@ -16474,7 +16389,6 @@ columns:
 星程	xing cheng	1003923
 星章	xing zhang	833831
 星竹	xing zhu	497723
-星纪	xing ji	22449
 星线	xing xian	1069698
 星耀	xing yao	1927908
 星者	xing zhe	186685
@@ -16798,7 +16712,6 @@ columns:
 暗帝	an di	1737559
 暗手	an shou	1338983
 暗挖	an wa	1235928
-暗改	an gai	1649289
 暗族	an zu	1245654
 暗杆	an gan	1368226
 暗水	an shui	657561
@@ -16993,7 +16906,6 @@ columns:
 月柿	yue shi	586459
 月梅	yue mei	1266773
 月梦	yue meng	644479
-月榜	yue bang	1648643
 月殇	yue shang	633376
 月水	yue shui	1035758
 月沼	yue zhao	781166
@@ -17259,7 +17171,6 @@ columns:
 本房	ben fang	892281
 本托	ben tuo	1007844
 本支	ben zhi	813135
-本朝	ben chao	1767598
 本杰	ben jie	60779
 本桥	ben qiao	607072
 本森	ben sen	1695201
@@ -17454,7 +17365,6 @@ columns:
 李妈	li ma	1386777
 李婉	li wan	1352635
 李婧	li jing	1430787
-李婶	li shen	1798232
 李嫂	li sao	1585339
 李孝	li xiao	487182
 李孟	li meng	1709182
@@ -18016,7 +17926,6 @@ columns:
 林邑	lin yi	1098280
 林重	lin zhong	371348
 林鑫	lin xin	1423409
-林钟	lin zhong	836499
 林陌	lin mo	1221485
 林雨	lin yu	1273864
 林音	lin yin	1371883
@@ -18170,7 +18079,6 @@ columns:
 柳芳	liu fang	1323773
 柳苑	liu yuan	309579
 柳莹	liu ying	678302
-柳莺	liu ying	1153592
 柳菲	liu fei	721047
 柳营	liu ying	704851
 柳萱	liu xuan	1008685
@@ -18211,7 +18119,6 @@ columns:
 树池	shu chi	1545076
 树灵	shu ling	1197712
 树藤	shu teng	1701998
-树蛙	shu wa	1368521
 栓住	shuan zhu	1377780
 栓接	shuan jie	82220
 栓狙	shuan ju	1589116
@@ -18825,7 +18732,6 @@ columns:
 止杀	zhi sha	392106
 止止	zhi zhi	411047
 止痢	zhi li	1198070
-止盈	zhi ying	1935042
 止赢	zhi ying	1378672
 止鼾	zhi han	765555
 正一	zheng yi	1945738
@@ -18886,7 +18792,6 @@ columns:
 步师	bu shi	198887
 步槍	bu qiang	1547425
 步科	bu ke	898158
-步美	bu mei	1744104
 步队	bu dui	1763213
 武之	wu zhi	1613526
 武九	wu jiu	128111
@@ -19282,7 +19187,6 @@ columns:
 水芸	shui yun	424096
 水蓝	shui lan	1776122
 水虎	shui hu	1268609
-水虿	shui chai	25494
 水蛟	shui jiao	96770
 水蜜	shui mi	1638093
 水行	shui xing	1440490
@@ -19352,7 +19256,6 @@ columns:
 永龙	yong long	830681
 汀兰	ting lan	990340
 汀汀	ting ting	480684
-汀江	ting jiang	1419030
 求代	qiu dai	1077581
 求住	qiu zhu	456666
 求安	qiu an	1505551
@@ -19429,7 +19332,6 @@ columns:
 汝拉	ru la	253216
 汝曹	ru cao	470005
 汝水	ru shui	668464
-汝河	ru he	1266934
 江乡	jiang xiang	116824
 江信	jiang xin	110020
 江傲	jiang ao	954248
@@ -19474,7 +19376,6 @@ columns:
 池岸	chi an	398403
 池本	chi ben	823928
 池江	chi jiang	831199
-池河	chi he	749658
 池田	chi tian	1770886
 池谷	chi gu	517752
 池车	chi che	384188
@@ -19521,7 +19422,6 @@ columns:
 汾州	fen zhou	1391117
 沁兰	qin lan	1051446
 沁心	qin xin	1693519
-沁河	qin he	1526765
 沁色	qin se	1460584
 沁芳	qin fang	466668
 沁香	qin xiang	1190913
@@ -19664,7 +19564,6 @@ columns:
 沙洛	sha luo	1242272
 沙流	sha liu	2084
 沙浆	sha jiang	1481796
-沙狐	sha hu	1177498
 沙玛	sha ma	1121152
 沙班	sha ban	602130
 沙球	sha qiu	448407
@@ -19709,7 +19608,6 @@ columns:
 沧元	cang yuan	820417
 沧山	cang shan	235280
 沧洲	cang zhou	959269
-沧龙	cang long	1509023
 沩水	wei shui	516639
 沪城	hu cheng	377069
 沪昆	hu kun	1492769
@@ -19723,9 +19621,7 @@ columns:
 沪银	hu yin	1561808
 沪锡	hu xi	1321788
 沪镍	hu nie	1778838
-沮水	ju shui	216610
 沮渠	ju qu	521747
-沱江	tuo jiang	1856311
 河传	he chuan	441378
 河冰	he bing	461649
 河势	he shi	811265
@@ -19849,7 +19745,6 @@ columns:
 法帝	fa di	360818
 法戈	fa ge	289507
 法战	fa zhan	1360966
-法拍	fa pai	1544129
 法援	fa yuan	1680125
 法救	fa jiu	182104
 法教	fa jiao	1140462
@@ -20109,7 +20004,6 @@ columns:
 洞身	dong shen	410095
 洞长	dong zhang	355120
 洞门	dong men	1727780
-洣水	mi shui	1072247
 津东	jin dong	802224
 津亏	jin kui	514439
 津味	jin wei	828075
@@ -20129,7 +20023,6 @@ columns:
 津西	jin xi	1154761
 津轻	jin qing	437205
 津逮	jin dai	234977
-洨河	xiao he	483923
 洪七	hong qi	1329516
 洪元	hong yuan	669764
 洪光	hong guang	899572
@@ -20149,7 +20042,6 @@ columns:
 洪昇	hong sheng	593317
 洪明	hong ming	894233
 洪氏	hong shi	1506034
-洪河	hong he	1379734
 洪潮	hong chao	669848
 洪烈	hong lie	1178712
 洪生	hong sheng	995943
@@ -20235,14 +20127,12 @@ columns:
 测角	ce jiao	1204801
 测设	ce she	1071026
 测长	ce zhang	181409
-浍河	hui he	831120
 济远	ji yuan	991341
 浑成	hun cheng	1123718
 浑瑊	hun jian	356959
 浓姬	nong ji	379872
 浓聚	nong ju	255532
 浔州	xun zhou	449252
-浔江	xun jiang	1079256
 浙海	zhe hai	427031
 浙版	zhe ban	151970
 浜田	bang tian	770235
@@ -20681,7 +20571,6 @@ columns:
 渔浦	yu pu	380859
 渔溪	yu xi	762628
 渔灯	yu deng	788695
-渔猫	yu mao	678822
 渔童	yu tong	468925
 渔者	yu zhe	1047751
 渔耕	yu geng	7630
@@ -20872,7 +20761,6 @@ columns:
 溶岩	rong yan	1222525
 溶药	rong yao	140529
 溺尸	ni shi	1034483
-滁河	chu he	1461754
 滆湖	ge hu	911710
 滇人	dian ren	95618
 滇南	dian nan	1770226
@@ -21011,7 +20899,6 @@ columns:
 漳江	zhang jiang	227989
 漳泉	zhang quan	691914
 潇儿	xiao er	780978
-潇水	xiao shui	1306321
 潇然	xiao ran	1658118
 潍水	wei shui	865740
 潘健	pan jian	113879
@@ -21054,7 +20941,6 @@ columns:
 潞绸	lu chou	55189
 潭下	tan xia	106378
 潭柘	tan zhe	97732
-潭江	tan jiang	1105042
 潭洲	tan zhou	829313
 潮客	chao ke	156965
 潮尚	chao shang	964558
@@ -21493,7 +21379,6 @@ columns:
 焊台	han tai	1504061
 焊好	han hao	1308330
 焊时	han shi	125430
-焊死	han si	1529204
 焊球	han qiu	277313
 焊瘤	han liu	588424
 焊线	han xian	1287933
@@ -21676,7 +21561,6 @@ columns:
 燧人	sui ren	1039953
 爆伤	bao shang	1798275
 爆分	bao fen	1758301
-爆单	bao dan	1786297
 爆怒	bao nu	954653
 爆本	bao ben	911828
 爆气	bao qi	1392830
@@ -21693,7 +21577,6 @@ columns:
 爪兽	zhao shou	517030
 爪型	zhao xing	586061
 爪形	zhao xing	694642
-爪爪	zhao zhao	1686589
 爪镶	zhao xiang	739115
 爱一	ai yi	1673370
 爱丁	ai ding	475114
@@ -21963,7 +21846,6 @@ columns:
 狗嘴	gou zui	1258997
 狗妈	gou ma	1360977
 狗斗	gou dou	1148326
-狗牙	gou ya	1562233
 狗球	gou qiu	835517
 狗男	gou nan	159867
 狗神	gou shen	1251045
@@ -21971,7 +21853,6 @@ columns:
 狗鞭	gou bian	872512
 狗马	gou ma	1447517
 狛犬	bo quan	181830
-狞猫	ning mao	1203220
 狠厉	hen li	1810482
 狩野	shou ye	389913
 独乐	du le	1201851
@@ -22571,7 +22452,6 @@ columns:
 珐华	fa hua	622146
 珑湾	long wan	963401
 珑珑	long long	877066
-珞珈	luo jia	1742098
 珞珞	luo luo	993738
 珞璜	luo huang	1042416
 珠世	zhu shi	1417210
@@ -22810,7 +22690,6 @@ columns:
 甚者	shen zhe	1785048
 甜党	tian dang	569851
 甜区	tian qu	279593
-甜妹	tian mei	1393128
 甜糕	tian gao	477599
 甜糖	tian tang	882176
 甜菊	tian ju	224636
@@ -22990,7 +22869,6 @@ columns:
 男手	nan shou	818663
 男服	nan fu	292768
 男王	nan wang	323263
-男神	nan shen	1992603
 町田	ting tian	1271537
 画一	hua yi	1961388
 画可	hua ke	119186
@@ -23239,7 +23117,6 @@ columns:
 白越	bai yue	328298
 白路	bai lu	1149348
 白身	bai shen	1260912
-白车	bai che	1581739
 白辰	bai chen	1213905
 白里	bai li	1673842
 白銀	bai yin	1072889
@@ -23710,7 +23587,6 @@ columns:
 真珠	zhen zhu	1722557
 真由	zhen you	1233305
 真界	zhen jie	1295701
-真白	zhen bai	1746075
 真瞎	zhen xia	629631
 真石	zhen shi	1150873
 真素	zhen su	778084
@@ -23962,7 +23838,6 @@ columns:
 破位	po wei	1945655
 破净	po jing	1668397
 破刀	po dao	968946
-破剑	po jian	1284793
 破地	po di	1065333
 破塔	po ta	1005132
 破境	po jing	1690592
@@ -23981,11 +23856,9 @@ columns:
 破点	po dian	1230354
 破煞	po sha	306654
 破环	po huan	1382723
-破盾	po dun	1646513
 破石	po shi	1215668
 破窗	po chuang	1726381
 破罡	po gang	129627
-破茧	po jian	1774910
 破荒	po huang	1377641
 破虏	po lu	1262941
 破虚	po xu	1645136
@@ -24014,7 +23887,6 @@ columns:
 硬尾	ying wei	631933
 硬弩	ying nu	13779
 硬扎	ying zha	367759
-硬控	ying kong	1826304
 硬改	ying gai	572025
 硬点	ying dian	1457074
 硬石	ying shi	1142641
@@ -24094,7 +23966,6 @@ columns:
 磨爪	mo zhao	1057463
 磨片	mo pian	1578038
 磨磨	mo mo	1708281
-磨脚	mo jiao	1795937
 磨镜	mo jing	1021606
 礁湖	jiao hu	551936
 示下	shi xia	1392174
@@ -24111,7 +23982,6 @@ columns:
 祀典	si dian	1042840
 祂们	ta men	1595160
 祈禱	qi dao	1209897
-祈禳	qi rang	613792
 祈风	qi feng	216545
 祐介	you jie	667644
 祓禊	fu xi	515467
@@ -24372,7 +24242,6 @@ columns:
 福鼠	fu shu	549327
 福龙	fu long	1520912
 禮服	li fu	769360
-禳灾	rang zai	793915
 禹岩	yu yan	205762
 禹皇	yu huang	1556265
 禹贡	yu gong	1433767
@@ -24433,7 +24302,6 @@ columns:
 秀萝	xiu luo	1048383
 秀香	xiu xiang	789550
 私印	si yin	1221847
-私厨	si chu	1582984
 私售	si shou	714755
 私地	si di	941378
 私奴	si nu	358142
@@ -24918,7 +24786,6 @@ columns:
 竹雨	zhu yu	1045599
 竹骨	zhu gu	50844
 笄礼	ji li	929369
-笋子	sun zi	1622671
 笑乐	xiao le	209523
 笑匠	xiao jiang	1178849
 笑然	xiao ran	576233
@@ -25385,7 +25252,6 @@ columns:
 红孩	hong hai	1107911
 红定	hong ding	789658
 红家	hong jia	630143
-红尾	hong wei	1189123
 红层	hong ceng	722127
 红屋	hong wu	293799
 红岛	hong dao	1602203
@@ -25610,7 +25476,6 @@ columns:
 织娘	zhi niang	193937
 终军	zhong jun	95141
 终凝	zhong ning	669713
-终到	zhong dao	1796081
 终始	zhong shi	1564798
 终朝	zhong chao	629551
 终焉	zhong yan	1678851
@@ -25791,7 +25656,6 @@ columns:
 绿满	lv man	1426780
 绿漆	lv qi	818694
 绿灵	lv ling	527715
-绿点	lv dian	1608287
 绿烟	lv yan	1264072
 绿王	lv wang	339392
 绿球	lv qiu	1277353
@@ -26114,7 +25978,6 @@ columns:
 群楼	qun lou	1115296
 群法	qun fa	1196155
 群玉	qun yu	274171
-群系	qun xi	1399010
 群萌	qun meng	111328
 群镶	qun xiang	793772
 義和	yi he	249638
@@ -26400,7 +26263,6 @@ columns:
 耐油	nai you	1858207
 耐破	nai po	189786
 耐能	nai neng	594748
-耒水	lei shui	799836
 耕心	geng xin	32985
 耕海	geng hai	117131
 耗泄	hao xie	452393
@@ -26552,7 +26414,6 @@ columns:
 肖鹏	xiao peng	1462760
 肘膝	zhou xi	381877
 肝内	gan nei	1673811
-肝帝	gan di	1765342
 肝痛	gan tong	737057
 肝者	gan zhe	92473
 肝胃	gan wei	600252
@@ -26721,10 +26582,8 @@ columns:
 胶剂	jiao ji	691629
 胶化	jiao hua	896383
 胶接	jiao jie	1370617
-胶棒	jiao bang	1570620
 胶漆	jiao qi	1094982
 胶葛	jiao ge	1673554
-胶衣	jiao yi	1731336
 胶袋	jiao dai	1675040
 胶装	jiao zhuang	1416922
 胶西	jiao xi	566454
@@ -27228,7 +27087,6 @@ columns:
 花网	hua wang	1606767
 花舍	hua she	292485
 花萝	hua luo	1248432
-花蛤	hua ha	1867962
 花蝶	hua die	1198285
 花貌	hua mao	751596
 花货	hua huo	431174
@@ -27460,7 +27318,6 @@ columns:
 苦辛	ku xin	1072673
 苦道	ku dao	66393
 苯板	ben ban	1488268
-苯环	ben huan	1666780
 苯甲	ben jia	469846
 英二	ying er	1218546
 英仕	ying shi	40119
@@ -28239,7 +28096,6 @@ columns:
 藕断	ou duan	544526
 藕花	ou hua	1165899
 藜杖	li zhang	138724
-藜麦	li mai	1906114
 藤井	teng jing	1735397
 藤兰	teng lan	677296
 藤冈	teng gang	505937
@@ -28341,7 +28197,6 @@ columns:
 虾夷	xia yi	773880
 虾油	xia you	1590548
 虾王	xia wang	588578
-虾虎	xia hu	1152701
 虾虾	xia xia	1301167
 虾蟆	ha ma	1049561
 虾须	xia xu	1434548
@@ -28378,7 +28233,6 @@ columns:
 蛇队	she dui	1500634
 蛇魔	she mo	1628885
 蛊雕	gu diao	1115139
-蛋仔	dan zai	918098
 蛋塔	dan ta	1239793
 蛋总	dan zong	1566030
 蛋池	dan chi	529696
@@ -28430,7 +28284,6 @@ columns:
 蜜脾	mi pi	812564
 蜜腊	mi la	1978
 蜜豆	mi dou	1619494
-蜜酒	mi jiu	801969
 蜡液	la ye	470952
 蜡石	la shi	5709
 蜥人	xi ren	244244
@@ -28651,7 +28504,6 @@ columns:
 袁青	yuan qing	154713
 袁静	yuan jing	1197295
 袁鹏	yuan peng	1301872
-袄子	ao zi	1511620
 袋底	dai di	302480
 袋式	dai shi	1565032
 袋狮	dai shi	287308
@@ -28933,7 +28785,6 @@ columns:
 角差	jiao cha	1246509
 角形	jiao xing	1572409
 角瓜	jiao gua	1237086
-角码	jiao ma	1660155
 角美	jiao mei	1514648
 角花	jiao hua	1336669
 角角	jiao jiao	1542689
@@ -29353,7 +29204,6 @@ columns:
 豪森	hao sen	1666122
 豪江	hao jiang	571247
 豪泰	hao tai	894442
-豪爵	hao jue	1799310
 豪牛	hao niu	1121532
 豪瑞	hao rui	1010189
 豪生	hao sheng	1202359
@@ -29402,7 +29252,6 @@ columns:
 贝巴	bei ba	1246805
 贝币	bei bi	1303402
 贝文	bei wen	1326379
-贝果	bei guo	1485802
 贝比	bei bi	1466951
 贝洛	bei luo	1110530
 贝特	bei te	1770336
@@ -29450,7 +29299,6 @@ columns:
 财金	cai jin	1743112
 财鑫	cai xin	141710
 贤二	xian er	672781
-贤哉	xian zai	612993
 贤善	xian shan	459261
 贤夫	xian fu	44890
 贤王	xian wang	1702422
@@ -29542,7 +29390,6 @@ columns:
 贺家	he jia	1761262
 贺旗	he qi	811261
 贺楼	he lou	54898
-贺江	he jiang	1180707
 贺玄	he xuan	1121345
 贺表	he biao	194008
 贺贺	he he	632001
@@ -29670,7 +29517,6 @@ columns:
 赤芒	chi mang	392096
 赤荒	chi huang	341265
 赤衣	chi yi	604471
-赤角	chi jiao	687750
 赤豹	chi bao	293932
 赤铁	chi tie	474307
 赤阳	chi yang	1577889
@@ -29678,7 +29524,6 @@ columns:
 赤风	chi feng	888982
 赤鬼	chi gui	1177870
 赤魔	chi mo	329358
-赤麂	chi ji	187596
 赤黑	chi hei	924006
 赦书	she shu	181797
 赫人	he ren	871712
@@ -29705,7 +29550,6 @@ columns:
 走露	zou lu	543005
 赴义	fu yi	62265
 赵一	zhao yi	1156326
-赵佗	zhao tuo	1820721
 赵佳	zhao jia	1312326
 赵健	zhao jian	1723806
 赵兆	zhao zhao	1493735
@@ -29962,11 +29806,9 @@ columns:
 跳石	tiao shi	78988
 跳羚	tiao ling	346382
 跳色	tiao se	1718519
-跳蛛	tiao zhu	237301
 跳针	tiao zhen	1056077
 跳音	tiao yin	655823
 跳鱼	tiao yu	376396
-跳鼠	tiao shu	501535
 跷脚	qiao jiao	50786
 跺地	duo di	647770
 踏冰	ta bing	382739
@@ -30030,7 +29872,6 @@ columns:
 车电	che dian	583618
 车色	che se	1255381
 车花	che hua	803247
-车补	che bu	1605464
 车赛	che sai	886698
 车边	che bian	1770755
 车运	che yun	981961
@@ -30712,7 +30553,6 @@ columns:
 邀我	yao wo	1760557
 邀战	yao zhan	1670607
 邑令	yi ling	47368
-邑姜	yi jiang	846200
 邑考	yi kao	1197534
 邓克	deng ke	656761
 邓华	deng hua	1805882
@@ -30889,7 +30729,6 @@ columns:
 郡兵	jun bing	1167596
 郡君	jun jun	881840
 郡府	jun fu	1220984
-郡望	jun wang	1555466
 郡马	jun ma	916284
 郢爰	ying yuan	304105
 郤正	xi zheng	761617
@@ -30932,7 +30771,6 @@ columns:
 郭斌	guo bin	1747772
 郭旭	guo xu	1742319
 郭昊	guo hao	888886
-郭明	guo ming	1492838
 郭晨	guo chen	757293
 郭朴	guo pu	209248
 郭村	guo cun	1439313
@@ -30990,7 +30828,6 @@ columns:
 都海	dou hai	99489
 都目	dou mu	1707069
 都省	dou sheng	1879027
-都知	dou zhi	1797453
 都胜	dou sheng	1023616
 都话	dou hua	1429748
 都赖	dou lai	1518894
@@ -31231,7 +31068,6 @@ columns:
 金三	jin san	1604093
 金上	jin shang	537682
 金世	jin shi	358138
-金主	jin zhu	1918701
 金丽	jin li	1177894
 金义	jin yi	1027338
 金二	jin er	910041
@@ -31384,7 +31220,6 @@ columns:
 金版	jin ban	1447971
 金狐	jin hu	1540689
 金猊	jin ni	417295
-金猫	jin mao	1412369
 金王	jin wang	1105632
 金玲	jin ling	1637534
 金珀	jin po	1154377
@@ -31779,7 +31614,6 @@ columns:
 铅矿	qian kuang	1203464
 铅粉	qian fen	1523847
 铅膏	qian gao	161808
-铅色	qian se	203714
 铅衣	qian yi	1476034
 铍铜	pi tong	1155395
 铛铛	dang dang	1751069
@@ -31801,7 +31635,6 @@ columns:
 铜盂	tong yu	410932
 铜盆	tong pen	1540918
 铜网	tong wang	1243327
-铜胎	tong tai	623782
 铜量	tong liang	258749
 铜钹	tong bo	619709
 铜钺	tong yue	79997
@@ -31935,7 +31768,6 @@ columns:
 锁点	suo dian	758595
 锁爱	suo ai	64378
 锁王	suo wang	774015
-锁车	suo che	1799558
 锁针	suo zhen	991503
 锁风	suo feng	78813
 锁龙	suo long	1406843
@@ -32045,13 +31877,11 @@ columns:
 锦隆	jin long	478177
 锦雀	jin que	57821
 锦香	jin xiang	519249
-键程	jian cheng	1618484
 锯割	ju ge	895672
 锰硅	meng gui	1437149
 锰粉	meng fen	72581
 锺离	zhong li	162130
 锻体	duan ti	1607764
-锻刀	duan dao	1021481
 锻成	duan cheng	134835
 锻练	duan lian	1856302
 锻骨	duan gu	777009
@@ -32110,7 +31940,6 @@ columns:
 长友	zhang you	618333
 长右	zhang you	546621
 长君	zhang jun	890897
-长吻	zhang wen	1429923
 长和	zhang he	1826461
 长嚎	zhang hao	990390
 长四	zhang si	1126382
@@ -32704,7 +32533,6 @@ columns:
 陈宝	chen bao	919884
 陈实	chen shi	1538127
 陈宣	chen xuan	85555
-陈寅	chen yin	1332318
 陈寔	chen shi	779308
 陈小	chen xiao	1227293
 陈岩	chen yan	1604705
@@ -33045,7 +32873,6 @@ columns:
 雕牌	diao pai	1493001
 雕纹	diao wen	1655219
 雕翎	diao ling	428692
-雕虫	diao chong	474314
 雙手	shuang shou	1435903
 雙面	shuang mian	1126748
 雨人	yu ren	1658154
@@ -33344,7 +33171,6 @@ columns:
 青星	qing xing	362916
 青杠	qing gang	979392
 青枝	qing zhi	1242821
-青柠	qing ning	1837118
 青树	qing shu	1368042
 青橙	qing cheng	1522151
 青歌	qing ge	851192
@@ -33490,7 +33316,6 @@ columns:
 韦胜	wei sheng	724719
 韦诞	wei dan	178088
 韦迪	wei di	1331050
-韦驮	wei tuo	1020069
 韩一	han yi	1972552
 韩丽	han li	1117839
 韩乐	han le	1010258
@@ -33847,7 +33672,6 @@ columns:
 飞蝶	fei die	894555
 飞衡	fei heng	1114910
 飞跳	fei tiao	102246
-飞踢	fei ti	1613256
 飞遁	fei dun	1682844
 飞钱	fei qian	447486
 飞防	fei fang	1589769
@@ -33902,7 +33726,6 @@ columns:
 饮多	yin duo	432296
 饮奶	yin nai	1147404
 饮火	yin huo	97879
-饮药	yin yao	238739
 饮露	yin lu	767880
 饰金	shi jin	664987
 饵钓	er diao	168430
@@ -34153,7 +33976,6 @@ columns:
 骆越	luo yue	924642
 骆马	luo ma	752100
 骇入	hai ru	813078
-骊姬	li ji	1758945
 骊戎	li rong	810339
 骊龙	li long	442496
 验签	yan qian	582358
@@ -34868,7 +34690,6 @@ columns:
 黄京	huang jing	1193951
 黄亭	huang ting	1410281
 黄亮	huang liang	1577200
-黄人	huang ren	1276164
 黄任	huang ren	135894
 黄伞	huang san	246705
 黄信	huang xin	1256707
@@ -35087,7 +34908,6 @@ columns:
 黑鸡	hei ji	1491144
 黑鸭	hei ya	1733933
 黑鹿	hei lu	41992
-黑麂	hei ji	457433
 黑齿	hei chi	903501
 黑龍	hei long	558481
 黒川	hei chuan	1229868
@@ -35315,11 +35135,9 @@ columns:
 龙窑	long yao	1624822
 龙章	long zhang	238806
 龙竹	long zhu	187685
-龙系	long xi	1582253
 龙缘	long yuan	819517
 龙羊	long yang	1566758
 龙苑	long yuan	676571
-龙蜥	long xi	724842
 龙蝇	long ying	851377
 龙蟠	long pan	1510150
 龙裔	long yi	1347461
@@ -37875,7 +37693,6 @@ columns:
 凝析油	ning xi you	1230407
 凝汽式	ning qi shi	407193
 几何式	ji he shi	983583
-几回合	ji hui he	1552000
 几宗罪	ji zong zui	77219
 几张纸	ji zhang zhi	1537671
 凤丫头	feng ya tou	1349875
@@ -38822,7 +38639,6 @@ columns:
 南郑区	nan zheng qu	1459830
 南郭寺	nan guo si	307118
 南门村	nan men cun	904213
-南门站	nan men zhan	1040260
 南阳东	nan yang dong	391755
 南阳人	nan yang ren	1542533
 南阳村	nan yang cun	1028556
@@ -40427,7 +40243,6 @@ columns:
 复古蓝	fu gu lan	811118
 复活草	fu huo cao	988610
 复用性	fu yong xing	990871
-夏一可	xia yi ke	523717
 夏三月	xia san yue	214057
 夏丏尊	xia mian zun	960081
 夏东海	xia dong hai	1600726
@@ -41212,7 +41027,6 @@ columns:
 天门镇	tian men zhen	180357
 天阶岛	tian jie dao	227782
 天际蓝	tian ji lan	356801
-天雨粟	tian yu su	245362
 天雷剑	tian lei jian	341232
 天雷子	tian lei zi	825729
 天青釉	tian qing you	1002929
@@ -44358,7 +44172,6 @@ columns:
 扎西镇	zha xi zhen	89164
 扎达尔	zha da er	1272575
 扑克王	pu ke wang	1812865
-扒马褂	ba ma gua	1131680
 打你哦	da ni o	27043
 打先手	da xian shou	1160446
 打几分	da ji fen	1794172
@@ -44489,7 +44302,6 @@ columns:
 折返线	zhe fan xian	332976
 抚宁区	fu ning qu	1489487
 抚生路	fu sheng lu	57299
-抚远市	fu yuan shi	1359158
 抛丸器	pao wan qi	1610869
 抢不走	qiang bu zou	1288559
 抢位置	qiang wei zhi	1550397
@@ -45926,7 +45738,6 @@ columns:
 杀虎口	sha hu kou	1263194
 杀阡陌	sha qian mo	1776398
 杂物堆	za wu dui	1186403
-杂色蛤	za se ha	467109
 权侑莉	quan you li	885984
 权俞利	quan yu li	1128279
 权天使	quan tian shi	734940
@@ -46244,7 +46055,6 @@ columns:
 李玉霞	li yu xia	214626
 李玉香	li yu xiang	95204
 李玉龙	li yu long	1242941
-李玟雨	li wen yu	865765
 李玲玲	li ling ling	1193971
 李珉廷	li min ting	1172176
 李珠妍	li zhu yan	707675
@@ -49898,7 +49708,6 @@ columns:
 百骏图	bai jun tu	349295
 百魔洞	bai mo dong	668876
 百鸟衣	bai niao yi	32644
-的卢马	de lu ma	751503
 的星力	de xing li	1278058
 皆不是	jie bu shi	1142242
 皇上皇	huang shang huang	931020
@@ -52529,8 +52338,6 @@ columns:
 蛋糕模	dan gao mo	1215436
 蛋黄粉	dan huang fen	740677
 蛟龙号	jiao long hao	1613602
-蛤蟆坝	ha ma ba	126521
-蛤蟆草	ha ma cao	581841
 蛮三刀	man san dao	347913
 蛹虫草	yong chong cao	1549552
 蜀九香	shu jiu xiang	978210
@@ -52673,7 +52480,6 @@ columns:
 被去掉	bei qu diao	1245218
 被嘲弄	bei chao nong	99588
 被夺走	bei duo zou	1753665
-被就业	bei jiu ye	548120
 被拣选	bei jian xuan	233779
 被掩埋	bei yan mai	1737460
 被揭发	bei jie fa	1637035
@@ -53408,7 +53214,6 @@ columns:
 跳线架	tiao xian jia	135378
 跳舞草	tiao wu cao	618355
 跳跃类	tiao yue lei	250993
-跳跳乐	tiao tiao le	946192
 跳跳鱼	tiao tiao yu	1284197
 跳飞机	tiao fei ji	364905
 踏青时	ta qing shi	395551
@@ -53900,7 +53705,6 @@ columns:
 郑天寿	zheng tian shou	424137
 郑夫人	zheng fu ren	1469283
 郑家屯	zheng jia tun	545055
-郑州东	zheng zhou dong	1715037
 郑州人	zheng zhou ren	1668075
 郑州北	zheng zhou bei	770776
 郑州西	zheng zhou xi	923036
@@ -55511,7 +55315,6 @@ columns:
 食人恋	shi ren lian	40808
 食人者	shi ren zhe	16674
 食人虫	shi ren chong	548859
-食品级	shi pin ji	1928211
 食梦者	shi meng zhe	1128089
 食物网	shi wu wang	1009026
 食物语	shi wu yu	1572560
@@ -55998,7 +55801,6 @@ columns:
 鸡白痢	ji bai li	187416
 鸡米花	ji mi hua	1592799
 鸡翅木	ji chi mu	1691692
-鸡脯肉	ji pu rou	1582090
 鸡舌香	ji she xiang	365752
 鸡蛋卷	ji dan juan	1501844
 鸡血石	ji xie shi	1746368
@@ -59988,7 +59790,6 @@ columns:
 停产停业	ting chan ting ye	1450207
 停止办理	ting zhi ban li	1563720
 停止呼吸	ting zhi hu xi	1573681
-停止播放	ting zhi bo fang	1331957
 停止销售	ting zhi xiao shou	1770544
 停电检修	ting dian jian xiu	1744101
 健全完善	jian quan wan shan	1927163
@@ -62455,7 +62256,6 @@ columns:
 南海观音	nan hai guan yin	1509101
 南海风云	nan hai feng yun	1115301
 南海龙宫	nan hai long gong	253425
-南湖北路	nan hu bei lu	339857
 南湖宾馆	nan hu bin guan	20861
 南湖街道	nan hu jie dao	1173805
 南湾街道	nan wan jie dao	1273427
@@ -62966,7 +62766,6 @@ columns:
 口头语言	kou tou yu yan	1387850
 口渴喜饮	kou ke xi yin	48817
 口碑营销	kou bei ying xiao	1795011
-口红效应	kou hong xiao ying	1124070
 口腔出血	kou qiang chu xue	346042
 口腔外科	kou qiang wai ke	1191918
 口腔异味	kou qiang yi wei	1676888
@@ -64608,7 +64407,6 @@ columns:
 增效工具	zeng xiao gong ju	177730
 增肌训练	zeng ji xun lian	1242223
 增进食欲	zeng jin shi yu	1846193
-增速放缓	zeng su fang huan	1910809
 增量开发	zeng liang kai fa	449464
 增量成本	zeng liang cheng ben	265030
 墨戎苗寨	mo rong miao zhai	724077
@@ -64881,7 +64679,6 @@ columns:
 大力神杯	da li shen bei	1732382
 大千生态	da qian sheng tai	302710
 大博医疗	da bo yi liao	1230923
-大卫芬奇	da wei fen qi	495794
 大友梨奈	da you li nai	886908
 大变活人	da bian huo ren	1542709
 大召唤术	da zhao huan shu	732259
@@ -65801,7 +65598,6 @@ columns:
 媒体展示	mei ti zhan shi	1309362
 媒体沟通	mei ti gou tong	1075253
 媚眼如丝	mei yan ru si	1797010
-嫁给爱情	jia gei ai qing	1875059
 嫁衣神功	jia yi shen gong	984599
 嫉妒之心	ji du zhi xin	1533858
 嫡女归来	di nv gui lai	147875
@@ -67698,7 +67494,6 @@ columns:
 幸运女孩	xing yun nv hai	672903
 幸运查克	xing yun cha ke	4359
 幸运礼包	xing yun li bao	899855
-幸运项链	xing yun xiang lian	16358
 幻影分身	huan ying fen shen	648215
 幻影射手	huan ying she shou	1003223
 幻影少年	huan ying shao nian	939695
@@ -68226,7 +68021,6 @@ columns:
 当旺爸爸	dang wang ba ba	776752
 当湖街道	dang hu jie dao	756888
 当红歌手	dang hong ge shou	1572410
-当选总统	dang xuan zong tong	1846798
 当量直径	dang liang zhi jing	361444
 录像资料	lu xiang zi liao	1161496
 录取通知	lu qu tong zhi	1805989
@@ -69263,7 +69057,6 @@ columns:
 手机天线	shou ji tian xian	1178420
 手机尺寸	shou ji chi cun	1281572
 手机按键	shou ji an jian	1351468
-手机支架	shou ji zhi jia	1872785
 手机正品	shou ji zheng pin	742519
 手机漫画	shou ji man hua	942337
 手机界面	shou ji jie mian	1506241
@@ -69735,7 +69528,6 @@ columns:
 指令再审	zhi ling zai shen	104177
 指匠情挑	zhi jiang qing tiao	415176
 指定打击	zhi ding da ji	582508
-指定期间	zhi ding qi jian	838488
 指定目标	zhi ding mu biao	1453984
 指定端口	zhi ding duan kou	966824
 指尖陀螺	zhi jian tuo luo	1513069
@@ -77182,7 +76974,6 @@ columns:
 研究视角	yan jiu shi jiao	1201716
 研究问题	yan jiu wen ti	1734716
 砖石建筑	zhuan shi jian zhu	52210
-砥砺奋进	di li fen jin	1924744
 破产和解	po chan he jie	592574
 破产隔离	po chan ge li	147982
 破产风险	po chan feng xian	933807
@@ -79458,7 +79249,6 @@ columns:
 聪耳明目	cong er ming mu	586642
 肆客足球	si ke zu qiu	755793
 肇兴侗寨	zhao xing dong zhai	1346269
-肉干肉脯	rou gan rou pu	629410
 肉松小贝	rou song xiao bei	1016624
 肉鸽养殖	rou ge yang zhi	1118920
 肌肉力量	ji rou li liang	1831296
@@ -84352,7 +84142,6 @@ columns:
 非法电鱼	fei fa dian yu	1140820
 非法码头	fei fa ma tou	1141612
 非法禁锢	fei fa jin gu	384820
-非法营运	fei fa ying yun	1855674
 非法融资	fei fa rong zi	1076549
 非法讨债	fei fa tao zhai	948146
 非法证券	fei fa zheng quan	408078
@@ -84859,7 +84648,6 @@ columns:
 马略卡岛	ma lve ka dao	770760
 马穆鲁克	ma mu lu ke	1109999
 马耳他岛	ma er ta dao	1088670
-马耳他语	ma er ta yu	67004
 马蒂尔德	ma di er de	798976
 马诺拉斯	ma nuo la si	1182876
 马超神威	ma chao shen wei	478546
@@ -85037,7 +84825,6 @@ columns:
 高铁项目	gao tie xiang mu	1645531
 高银金融	gao yin jin rong	652194
 高阶修士	gao jie xiu shi	1448427
-高音谱号	gao yin pu hao	186379
 高领毛衣	gao ling mao yi	1934738
 高频信号	gao pin xin hao	1399399
 高频振动	gao pin zhen dong	1559900
@@ -89790,7 +89577,6 @@ columns:
 流域水环境	liu yu shui huan jing	1306028
 流媒体业务	liu mei ti ye wu	914847
 流媒体技术	liu mei ti ji shu	726740
-流浪的蛤蟆	liu lang de ha ma	1137250
 流浪者之歌	liu lang zhe zhi ge	786645
 流通中货币	liu tong zhong huo bi	679818
 流量控制阀	liu liang kong zhi fa	1765517
@@ -89939,7 +89725,6 @@ columns:
 潘朵拉之心	pan duo la zhi xin	469945
 潜艇总动员	qian ting zong dong yuan	770682
 潮性办公室	chao xing ban gong shi	442105
-潮汕牛肉丸	chao shan niu rou wan	1081362
 潮汕砂锅粥	chao shan sha guo zhou	725806
 澳元兑美元	ao yuan dui mei yuan	1516712
 澳大利亚元	ao da li ya yuan	1531757
@@ -92319,7 +92104,6 @@ columns:
 麻辣变形计	ma la bian xing ji	1153245
 麻雀变凤凰	ma que bian feng huang	1539347
 麻雀要革命	ma que yao ge ming	225524
-黄山风景区	huang shan feng jing qu	1755122
 黄州寒食帖	huang zhou han shi tie	51804
 黄河在咆哮	huang he zai pao xiao	1007914
 黄石的孩子	huang shi de hai zi	330992
@@ -92461,7 +92245,6 @@ columns:
 不必要的误会	bu bi yao de wu hui	1716268
 不想让你知道	bu xiang rang ni zhi dao	1315568
 不成文的规矩	bu cheng wen de gui ju	1519363
-不抛弃不放弃	bu pao qi bu fang qi	1656288
 不拘小节的人	bu ju xiao jie de ren	951389
 不正当的手段	bu zheng dang de shou duan	1293420
 不潮不用花钱	bu chao bu yong hua qian	539828
