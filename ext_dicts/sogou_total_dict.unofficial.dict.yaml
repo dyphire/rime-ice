@@ -39,7 +39,6 @@ columns:
 一印	yi yin	1398824
 一君	yi jun	1406461
 一善	yi shan	1105115
-一四	yi si	1853451
 一圆	yi yuan	1615584
 一境	yi jing	1446408
 一增	yi zeng	1140737
@@ -183,7 +182,6 @@ columns:
 丁雷	ding lei	699097
 丁鸿	ding hong	157356
 丁鹏	ding peng	1702862
-七三	qi san	1766357
 七上	qi shang	1673611
 七仔	qi zai	1617245
 七修	qi xiu	1149331
@@ -325,7 +323,6 @@ columns:
 三兄	san xiong	1102236
 三党	san dang	1095991
 三全	san quan	1821675
-三六	san liu	1846187
 三共	san gong	1067846
 三兽	san shou	1218155
 三内	san nei	389297
@@ -347,7 +344,6 @@ columns:
 三又	san you	932857
 三古	san gu	901879
 三史	san shi	410930
-三后	san hou	1382814
 三向	san xiang	1525796
 三君	san jun	685348
 三命	san ming	1081028
@@ -1839,7 +1835,6 @@ columns:
 二变	er bian	1048975
 二叶	er ye	1390276
 二合	er he	1787740
-二后	er hou	1455120
 二呆	er dai	169797
 二图	er tu	1348165
 二圣	er sheng	1658719
@@ -2105,7 +2100,6 @@ columns:
 五例	wu li	422676
 五侯	wu hou	864661
 五入	wu ru	896549
-五八	wu ba	1739742
 五兵	wu bing	328463
 五兽	wu shou	652028
 五刀	wu dao	1226814
@@ -3909,13 +3903,11 @@ columns:
 公链	gong lian	1925550
 公開	gong kai	1910263
 公鸭	gong ya	1152952
-六三	liu san	1728065
 六义	liu yi	872021
 六乡	liu xiang	478187
 六事	liu shi	716211
 六仪	liu yi	714744
 六体	liu ti	203446
-六八	liu ba	1830783
 六兽	liu shou	786695
 六冲	liu chong	1726188
 六刺	liu ci	636267
@@ -7757,7 +7749,6 @@ columns:
 唐婷	tang ting	1079111
 唐子	tang zi	1133592
 唐安	tang an	1676653
-唐宫	tang gong	1360981
 唐川	tang chuan	1395488
 唐州	tang zhou	884479
 唐帅	tang shuai	928516
@@ -8070,7 +8061,6 @@ columns:
 囊性	nang xing	1550108
 囊瓦	nang wa	574723
 囍字	xi zi	908497
-四七	si qi	1807006
 四上	si shang	1721536
 四主	si zhu	710224
 四仙	si xian	971934
@@ -18841,7 +18831,6 @@ columns:
 残火	can huo	440883
 残炭	can tan	377993
 残物	can wu	202406
-残碑	can bei	1396143
 残腿	can tui	674277
 残虹	can hong	240880
 残风	can feng	907718
@@ -20098,7 +20087,6 @@ columns:
 浣碧	huan bi	1924284
 浣花	huan hua	1382161
 浦田	pu tian	494287
-浦镇	pu zhen	995875
 浦项	pu xiang	1506342
 浩丰	hao feng	843015
 浩云	hao yun	1201840
@@ -20694,7 +20682,6 @@ columns:
 源起	yuan qi	1715087
 溜坡	liu po	1154784
 溜方	liu fang	558035
-溜肩	liu jian	1781169
 溜马	liu ma	999281
 溢利	yi li	1787075
 溢料	yi liao	408819
@@ -30859,7 +30846,6 @@ columns:
 醉香	zui xiang	437349
 醉鱼	zui yu	290848
 醋制	cu zhi	513124
-醋味	cu wei	1673473
 醌类	kun lei	750289
 醒图	xing tu	325654
 醒宝	xing bao	1404544
@@ -35110,26 +35096,16 @@ columns:
 龟蒙	gui meng	322285
 龟鳖	gui bie	1505713
 龟龄	gui ling	414377
-一七年	yi qi nian	1423592
 一万点	yi wan dian	1384366
 一丈红	yi zhang hong	1381955
 一个谜	yi ge mi	1840454
 一串三	yi chuan san	1093775
 一乐也	yi le ye	1076530
-一九年	yi jiu nian	1696126
 一书生	yi shu sheng	676712
 一事中	yi shi zhong	1162320
-一二四	yi er si	1623140
-一二年	yi er nian	1688881
-一五一	yi wu yi	1480962
-一五年	yi wu nian	1293667
 一亩田	yi mu tian	1579898
 一份心	yi fen xin	1323028
 一份真	yi fen zhen	1294271
-一八年	yi ba nian	1512765
-一六五	yi liu wu	1446261
-一六八	yi liu ba	1495266
-一六年	yi liu nian	1338557
 一农场	yi nong chang	549540
 一刀流	yi dao liu	1607356
 一切人	yi qie ren	1752333
@@ -35150,8 +35126,6 @@ columns:
 一品楼	yi pin lou	1276039
 一品轩	yi pin xuan	1466936
 一品鲜	yi pin xian	998664
-一四一	yi si yi	1427142
-一四年	yi si nian	1164378
 一块绿	yi kuai lv	224938
 一块表	yi kuai biao	1311133
 一块黄	yi kuai huang	295153
@@ -35260,14 +35234,8 @@ columns:
 丁雨晴	ding yu qing	556587
 丁香茶	ding xiang cha	1364199
 丁香鱼	ding xiang yu	931719
-七一二	qi yi er	1390448
-七九年	qi jiu nian	260069
-七二年	qi er nian	4734
-七五三	qi wu san	944743
-七五五	qi wu wu	669634
 七兄弟	qi xiong di	1444413
 七八日	qi ba ri	676719
-七六年	qi liu nian	1678
 七分熟	qi fen shu	1575588
 七勇士	qi yong shi	24194
 七十章	qi shi zhang	465963
@@ -35372,8 +35340,6 @@ columns:
 三个菜	san ge cai	1350512
 三乡镇	san xiang zhen	1455982
 三二零	san er ling	1056017
-三五七	san wu qi	1410438
-三五九	san wu jiu	1204162
 三井寿	san jing shou	1687205
 三亚河	san ya he	652431
 三交镇	san jiao zhen	267652
@@ -36213,9 +36179,7 @@ columns:
 乙氧基	yi yang ji	1101587
 乙炔瓶	yi gui ping	1095870
 乙烯法	yi xi fa	208898
-九一三	jiu yi san	1006866
 九七式	jiu qi shi	930226
-九二九	jiu er jiu	662339
 九五式	jiu wu shi	364619
 九亭镇	jiu ting zhen	1400926
 九先生	jiu xian sheng	453113
@@ -36315,7 +36279,6 @@ columns:
 二号位	er hao wei	1751733
 二号楼	er hao lou	1516862
 二噁英	er e ying	1585416
-二四九	er si jiu	1192518
 二大爷	er da ye	1716190
 二娃子	er wa zi	98401
 二婶子	er shen zi	428629
@@ -36395,9 +36358,7 @@ columns:
 五乡镇	wu xiang zhen	506772
 五云山	wu yun shan	1172070
 五云镇	wu yun zhen	75772
-五五五	wu wu wu	962917
 五兄弟	wu xiong di	1659449
-五八年	wu ba nian	22531
 五公司	wu gong si	1577891
 五六日	wu liu ri	922205
 五凤溪	wu feng xi	571060
@@ -37244,15 +37205,10 @@ columns:
 全道具	quan dao ju	602802
 全飞秒	quan fei miao	1488120
 八一乡	ba yi xiang	13119
-八一八	ba yi ba	1946717
-八七年	ba qi nian	780549
-八三年	ba san nian	1022654
 八两金	ba liang jin	1645129
 八云紫	ba yun zi	1467220
-八五年	ba wu nian	834794
 八倍镜	ba bei jing	1745630
 八兄弟	ba xiong di	671085
-八六年	ba liu nian	791023
 八十章	ba shi zhang	1915450
 八卦心	ba gua xin	965323
 八卦楼	ba gua lou	715280
@@ -37318,7 +37274,6 @@ columns:
 公路站	gong lu zhan	1243491
 公馆镇	gong guan zhen	386098
 六七日	liu qi ri	300285
-六三三	liu san san	806581
 六三零	liu san ling	617633
 六不准	liu bu zhun	1128360
 六人间	liu ren jian	1703658
@@ -37335,7 +37290,6 @@ columns:
 六合界	liu he jie	1206818
 六味斋	liu wei zhai	522980
 六和寺	liu he si	963853
-六四六	liu si liu	730134
 六堡镇	liu bao zhen	733101
 六壮士	liu zhuang shi	29865
 六大神	liu da shen	858081
@@ -39686,15 +39640,10 @@ columns:
 噬魂魔	shi hun mo	479051
 噶玛巴	ga ma ba	710642
 嚯嚯嚯	huo huo huo	1013622
-四七九	si qi jiu	1377306
 四不象	si bu xiang	1555121
 四个菜	si ge cai	1311303
 四九城	si jiu cheng	1471304
-四九年	si jiu nian	421620
 四九镇	si jiu zhen	247215
-四二七	si er qi	977723
-四二六	si er liu	1077088
-四五四	si wu si	1007225
 四人间	si ren jian	1774503
 四元素	si yuan su	1325387
 四先生	si xian sheng	308707
@@ -40896,7 +40845,6 @@ columns:
 天津一	tian jin yi	1777370
 天津三	tian jin san	1324930
 天津二	tian jin er	592087
-天津四	tian jin si	991570
 天津大	tian jin da	1515541
 天津桥	tian jin qiao	973167
 天津美	tian jin mei	522098
@@ -74619,7 +74567,6 @@ columns:
 灵感源泉	ling gan yuan quan	1398219
 灵感火花	ling gan huo hua	92803
 灵敏可靠	ling min ke kao	1075678
-灵明石猴	ling ming shi hou	735396
 灵气逼人	ling qi bi ren	1709921
 灵活应用	ling huo ying yong	1716382
 灵活移动	ling huo yi dong	1128184
@@ -76250,7 +76197,6 @@ columns:
 白杨街道	bai yang jie dao	605324
 白水苹果	bai shui ping guo	380560
 白沙古镇	bai sha gu zhen	1257966
-白沙街道	bai sha jie dao	552961
 白河峡谷	bai he xia gu	169274
 白玉神驹	bai yu shen ju	853184
 白玉老虎	bai yu lao hu	1200532
@@ -81500,7 +81446,6 @@ columns:
 赣粤高速	gan yue gao su	1002732
 赣龙铁路	gan long tie lu	39622
 赤子乘龙	chi zi cheng long	300835
-赤尻马猴	chi kao ma hou	986436
 赤峰黄金	chi feng huang jin	1579965
 赤木晴子	chi mu qing zi	1532002
 赤水丹霞	chi shui dan xia	540994
@@ -94820,7 +94765,6 @@ columns:
 贴片陶瓷电容	tie pian tao ci dian rong	482750
 贵州医科大学	gui zhou yi ke da xue	1437762
 贵州师范学院	gui zhou shi fan xue yuan	1143580
-贵州民族大学	gui zhou min zu da xue	1419492
 贵州理工学院	gui zhou li gong xue yuan	822360
 贵州财经大学	gui zhou cai jing da xue	1359148
 费加罗的婚礼	fei jia luo de hun li	1121629
@@ -95958,7 +95902,6 @@ columns:
 普达措国家公园	pu da cuo guo jia gong yuan	1298663
 普通二轮摩托车	pu tong er lun mo tuo che	1669613
 普通硅酸盐水泥	pu tong gui suan yan shui ni	1410885
-景德镇陶瓷大学	jing de zhen tao ci da xue	1476325
 智能科学与技术	zhi neng ke xue yu ji shu	1259870
 暗黑破坏神不朽	an hei po huai shen bu xiu	580816
 暨南大学出版社	ji nan da xue chu ban she	57254
@@ -96222,7 +96165,6 @@ columns:
 知识产权出版社	zhi shi chan quan chu ban she	967754
 短效口服避孕药	duan xiao kou fu bi yun yao	541839
 石家庄正定机场	shi jia zhuang zheng ding ji chang	519815
-石家庄铁道大学	shi jia zhuang tie dao da xue	1518796
 石油产品添加剂	shi you chan pin tian jia ji	348456
 石油工业出版社	shi you gong ye chu ban she	454518
 石老人海水浴场	shi lao ren hai shui yu chang	645585
@@ -96484,7 +96426,6 @@ columns:
 阿特拉斯耸耸肩	a te la si song song jian	595104
 陆小凤与花满楼	lu xiao feng yu hua man lou	609678
 限制性定语从句	xian zhi xing ding yu cong ju	209013
-陕西中医药大学	shan xi zhong yi yao da xue	1289630
 陕西人民出版社	shan xi ren min chu ban she	1030697
 难以忽视的真相	nan yi hu shi de zhen xiang	155917
 集团人力资源部	ji tuan ren li zi yuan bu	961206
