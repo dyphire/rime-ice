@@ -7467,7 +7467,6 @@ columns:
 周靖	zhou jing	231567
 周静	zhou jing	1654859
 周顗	zhou yi	914845
-周颂	zhou song	804670
 周颖	zhou ying	1609857
 周颠	zhou dian	1437364
 周飞	zhou fei	1304748
@@ -7832,7 +7831,6 @@ columns:
 商震	shang zhen	1329015
 商霖	shang lin	864475
 商音	shang yin	361997
-商颂	shang song	99344
 商馆	shang guan	697024
 啊嚏	a ti	30444
 啟動	qi dong	1771534
@@ -8618,7 +8616,6 @@ columns:
 埃格	ai ge	651934
 埃玛	ai ma	1167808
 埃琳	ai lin	425719
-埃米	ai mi	1469271
 埃纳	ai na	557527
 埃罗	ai luo	1007647
 埃菲	ai fei	721072
@@ -9189,7 +9186,6 @@ columns:
 大布	da bu	1835740
 大带	da dai	868357
 大常	da chang	484076
-大帽	da mao	1844325
 大平	da ping	1658475
 大府	da fu	969026
 大弯	da wan	1708821
@@ -12664,8 +12660,6 @@ columns:
 应长	ying zhang	162074
 应顺	ying shun	1211465
 底事	di shi	952864
-底噪	di zao	1356297
-底围	di wei	1749817
 底壁	di bi	196498
 底对	di dui	668619
 底平	di ping	341191
@@ -15480,7 +15474,6 @@ columns:
 斩之	zhan zhi	1654381
 斩仙	zhan xian	1492533
 斩关	zhan guan	326396
-斩刀	zhan dao	1022424
 斩剑	zhan jian	908031
 斩影	zhan ying	1138142
 斩斧	zhan fu	689393
@@ -22230,7 +22223,6 @@ columns:
 王韶	wang shao	1391502
 王顺	wang shun	1231362
 王颖	wang ying	1788035
-王风	wang feng	1894606
 王马	wang ma	645133
 王驾	wang jia	459327
 王骏	wang jun	1309125
@@ -24093,7 +24085,6 @@ columns:
 禮服	li fu	769360
 禹岩	yu yan	205762
 禹皇	yu huang	1556265
-禹贡	yu gong	1433767
 禹门	yu men	1032320
 禹鼎	yu ding	64810
 禺强	yu qiang	25565
@@ -27929,7 +27920,6 @@ columns:
 藤鞭	teng bian	830845
 藩台	fan tai	321325
 藩地	fan di	602369
-藩王	fan wang	1917932
 藩臣	fan chen	392038
 藩邸	fan di	480783
 藻油	zao you	739425
@@ -33181,7 +33171,6 @@ columns:
 韵力	yun li	400866
 韵竹	yun zhu	89831
 韵香	yun xiang	704144
-韶乐	shao le	725921
 韶峰	shao feng	811119
 韶州	shao zhou	1422574
 韶钢	shao gang	1446650
@@ -34583,7 +34572,6 @@ columns:
 黄飞	huang fei	1548273
 黄鸡	huang ji	1720219
 黄鸣	huang ming	786643
-黄鹄	huang gu	576291
 黍离	shu li	873309
 黎刚	li gang	533815
 黎国	li guo	876217
@@ -34780,7 +34768,6 @@ columns:
 齐钰	qi yu	164367
 齐门	qi men	581861
 齐霄	qi xiao	54683
-齐风	qi feng	832068
 齐驱	qi qu	1055255
 齿板	chi ban	1311344
 齿牙	chi ya	1152996
@@ -34951,7 +34938,6 @@ columns:
 龟形	gui xing	787205
 龟王	gui wang	776487
 龟蒙	gui meng	322285
-龟鳖	gui bie	1505713
 龟龄	gui ling	414377
 一万点	yi wan dian	1384366
 一丈红	yi zhang hong	1381955
@@ -59699,7 +59685,6 @@ columns:
 光电股份	guang dian gu fen	1017540
 光电隔离	guang dian ge li	1384725
 光盘工具	guang pan gong ju	47007
-光禄寺卿	guang lu si qing	187987
 光绪通宝	guang xu tong bao	462347
 光荣使命	guang rong shi ming	1836794
 光荣时刻	guang rong shi ke	833302
@@ -64853,14 +64838,11 @@ columns:
 太后吉祥	tai hou ji xiang	152529
 太和街道	tai he jie dao	501104
 太子侧妃	tai zi ce fei	503228
-太子宾客	tai zi bin ke	667909
-太子詹事	tai zi zhan shi	506986
 太学博士	tai xue bo shi	742273
 太岁当头	tai sui dang tou	675370
 太岁星君	tai sui xing jun	84147
 太师屯镇	tai shi tun zhen	139228
 太常博士	tai chang bo shi	829351
-太常寺卿	tai chang si qing	470154
 太常少卿	tai chang shao qing	510756
 太平兴国	tai ping xing guo	1012685
 太平庄村	tai ping zhuang cun	636687
